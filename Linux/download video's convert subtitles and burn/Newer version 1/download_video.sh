@@ -20,7 +20,7 @@ VAR=$(echo $BASENAME | sed 's/[][]/\\&/g')
 #--default-search "ytsearch"
 #COMMAND="yt-dlp  --restrict-filenames --abort-on-error --no-mtime --sub-lang "nl,en,de,fr" --write-subs --convert-subs srt --write-auto-subs --download-archive ARCHIVE.TXT --skip-unavailable-fragments --write-thumbnail --geo-bypass "$*""
 
-COMMAND="yt-dlp  --restrict-filenames --abort-on-error --no-mtime --sub-langs all --write-subs --write-auto-subs --download-archive ARCHIVE.TXT --skip-unavailable-fragments --write-thumbnail --geo-bypass "$*""
+COMMAND="yt-dlp  --restrict-filenames --abort-on-error --no-mtime --sub-langs all --write-subs --write-auto-subs --embed-subs --download-archive ARCHIVE.TXT --skip-unavailable-fragments --write-thumbnail --geo-bypass "$*""
 
 echo "$COMMAND" >> COMMANDS.SH
 echo "$COMMAND" > command.sh
@@ -55,13 +55,13 @@ do
 done
 
 # select wanted languages
-LANG="nl"; 	mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# Dutch	nl
-LANG="en"; 	mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# English	en
-LANG="de"; 	mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# German	de
-LANG="fr"; 	mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# French	fr
-LANG="tr"; 	mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# Turkish	tr
-LANG="ar"; 	mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# Arabic	ar
-LANG="zh"; 	mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# Chinese	zh
+LANG="nl"; 		mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# Dutch	nl
+LANG="en"; 		mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# English	en
+LANG="de"; 		mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# German	de
+LANG="fr"; 		mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# French	fr
+LANG="tr"; 		mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# Turkish	tr
+LANG="ar"; 		mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# Arabic	ar
+LANG="zh-Hans"; 	mv "subs/$BASENAME/$LANG/$BASENAME.$LANG.srt.double" .	# Chinese	zh-Hans
 
 if [ ! -d "out" ]; then
 	mkdir "out"
