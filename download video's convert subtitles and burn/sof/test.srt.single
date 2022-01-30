@@ -1,0 +1,2496 @@
+1
+00:00:00,080 --> 00:00:02,000
+hallo mijn naam is amit sahai en ik ben een
+
+2
+00:00:02,000 --> 00:00:03,520
+professor in computerwetenschappen aan de
+
+3
+00:00:03,520 --> 00:00:06,319
+ucla samueli school of engineering vandaag
+
+4
+00:00:06,319 --> 00:00:07,759
+ik ben gevraagd om nulkennisbewijzen uit te leggen
+
+5
+00:00:07,759 --> 00:00:09,519
+in vijf niveaus van
+
+6
+00:00:09,519 --> 00:00:11,360
+toenemende complexiteit een
+
+7
+00:00:11,360 --> 00:00:13,679
+nulkennisbewijs is een manier voor goedkeurder
+
+8
+00:00:13,679 --> 00:00:15,360
+om te overtuigen  een verificateur dat een
+
+9
+00:00:15,360 --> 00:00:16,880
+verklaring waar is
+
+10
+00:00:16,880 --> 00:00:19,920
+en toch geen aanvullende informatie onthult
+
+11
+00:00:19,920 --> 00:00:21,439
+behalve het feit dat de verklaring
+
+12
+00:00:21,439 --> 00:00:23,119
+waar is nul kennis bewijzen worden
+
+13
+00:00:23,119 --> 00:00:25,920
+gebruikt in blockchains en cryptocurrencies,
+
+14
+00:00:25,920 --> 00:00:28,000
+dus cryptografen zijn enthousiast over nul
+
+15
+00:00:28,000 --> 00:00:30,320
+kennis vanwege de verbazingwekkende
+
+16
+00:00:30,320 --> 00:00:32,719
+wiskundige eigenschappen maar ook
+
+17
+00:00:32,719 --> 00:00:34,719
+vanwege de ongelooflijke  toepasbaarheid op
+
+18
+00:00:34,719 --> 00:00:36,190
+zoveel verschillende scenario's
+
+19
+00:00:36,190 --> 00:00:41,110
+[Muziek]
+
+20
+00:00:41,120 --> 00:00:42,879
+wat is je favoriete onderwerp ik zou zeggen
+
+21
+00:00:42,879 --> 00:00:45,600
+wiskunde sommige van deze kleine problemen kunnen
+
+22
+00:00:45,600 --> 00:00:48,320
+echt heel groot en ingewikkeld zijn
+
+23
+00:00:48,320 --> 00:00:50,719
+het is net een puzzel ik hou van wiskunde om
+
+24
+00:00:50,719 --> 00:00:52,399
+dezelfde reden vandaag ga ik je vertellen
+
+25
+00:00:52,399 --> 00:00:54,320
+over  een ding dat nulkennisbewijs wordt genoemd
+
+26
+00:00:54,320 --> 00:00:56,640
+, dus in het nulkennisbewijs
+
+27
+00:00:56,640 --> 00:00:59,920
+zijn er twee mensen, er is een goedkeurder
+
+28
+00:00:59,920 --> 00:01:03,199
+en een verificateur en ik wil  bewijzen dat
+
+29
+00:01:03,199 --> 00:01:05,920
+iets waar is voor jou, maar het
+
+30
+00:01:05,920 --> 00:01:08,000
+rare is dat ik je wil bewijzen dat
+
+31
+00:01:08,000 --> 00:01:10,400
+het waar is zonder je enige reden te vertellen
+
+32
+00:01:10,400 --> 00:01:12,240
+waarom ik me herinner toen ik er voor het eerst
+
+33
+00:01:12,240 --> 00:01:14,479
+over hoorde ik dacht wacht wat hoe
+
+34
+00:01:14,479 --> 00:01:17,040
+zou dat kunnen kloppen ja dus
+
+35
+00:01:17,040 --> 00:01:19,200
+wat doe  je ziet op deze foto veel
+
+36
+00:01:19,200 --> 00:01:21,439
+pinguïns ja verstopt tussen al deze
+
+37
+00:01:21,439 --> 00:01:23,439
+pinguïns zit een papegaaiduiker wil je proberen ernaar
+
+38
+00:01:23,439 --> 00:01:27,360
+te zoeken zie je waar het is
+
+39
+00:01:27,360 --> 00:01:30,000
+hmm ik weet waar het is maar ik wil het
+
+40
+00:01:30,000 --> 00:01:32,479
+je niet vertellen he  geloof me
+
+41
+00:01:32,479 --> 00:01:35,439
+je weet niet zeker of je me goed gelooft ja
+
+42
+00:01:35,439 --> 00:01:38,000
+maar wat als ik je zou kunnen bewijzen dat ik
+
+43
+00:01:38,000 --> 00:01:39,759
+weet waar de papegaaiduiker is zonder je te
+
+44
+00:01:39,759 --> 00:01:42,000
+onthullen waar het is laat me je laten
+
+45
+00:01:42,000 --> 00:01:45,590
+zien
+
+46
+00:01:45,600 --> 00:01:48,240
+ik heb die foto genomen die we je lieten zien en
+
+47
+00:01:48,240 --> 00:01:50,640
+ik plaats hem  achter deze poster hier waarom
+
+48
+00:01:50,640 --> 00:01:51,840
+ga je niet eens door dat
+
+49
+00:01:51,840 --> 00:01:55,670
+gat kijken
+
+50
+00:01:55,680 --> 00:01:57,840
+ik zie de wallen dus als je naar
+
+51
+00:01:57,840 --> 00:01:59,759
+dit bord kijkt weten we niet waar de
+
+52
+00:01:59,759 --> 00:02:02,079
+juiste foto was was de foto zoals met de
+
+53
+00:02:02,079 --> 00:02:04,320
+hoek hier in welk geval de papegaaiduiker
+
+54
+00:02:04,320 --> 00:02:06,399
+zou helemaal aan deze kant zijn of was
+
+55
+00:02:06,399 --> 00:02:08,319
+de foto met de hoek hier omdat
+
+56
+00:02:08,319 --> 00:02:10,000
+het polijsten zou aan de andere kant zijn,
+
+57
+00:02:10,000 --> 00:02:13,360
+dus dit is een heel eenvoudig voorbeeld van een
+
+58
+00:02:13,360 --> 00:02:15,599
+nulkennisbewijs ik heb je ervan overtuigd
+
+59
+00:02:15,599 --> 00:02:17,440
+dat ik wist waar de papegaaiduiker was,
+
+60
+00:02:17,440 --> 00:02:19,599
+maar je hebt niets anders geleerd
+
+61
+00:02:19,599 --> 00:02:21,920
+waarom studeer je nulkennisbewijs toen ik het voor het
+
+62
+00:02:21,920 --> 00:02:23,280
+eerst leerde  over hen vond ik
+
+63
+00:02:23,280 --> 00:02:25,120
+ze gewoon zo cool, maar het blijkt dat
+
+64
+00:02:25,120 --> 00:02:27,040
+ze ook erg handig zijn, niet alleen om
+
+65
+00:02:27,040 --> 00:02:29,280
+papegaaiduikers te vinden als je gewoon
+
+66
+00:02:29,280 --> 00:02:31,519
+je wachtwoord typt en de hacker hackt
+
+67
+00:02:31,519 --> 00:02:33,040
+de computer, ze kunnen gewoon je
+
+68
+00:02:33,040 --> 00:02:36,160
+wachtwoord goed krijgen ja, wat als in plaats daarvan  we
+
+69
+00:02:36,160 --> 00:02:40,000
+zouden op de een of andere manier een nulkennisbewijs kunnen gebruiken
+
+70
+00:02:40,000 --> 00:02:41,920
+om in te loggen, je zou gewoon kunnen
+
+71
+00:02:41,920 --> 00:02:42,879
+bewijzen
+
+72
+00:02:42,879 --> 00:02:45,519
+dat hey ik ben Chelsea zonder
+
+73
+00:02:45,519 --> 00:02:47,920
+iets aan hen te onthullen als je dat zou kunnen doen,
+
+74
+00:02:47,920 --> 00:02:50,319
+dan zou het geweldig zijn, ja,
+
+75
+00:02:50,319 --> 00:02:52,319
+want zelfs als de hacker
+
+76
+00:02:52,319 --> 00:02:53,920
+in de  computer hij zou niets leren
+
+77
+00:02:53,920 --> 00:02:55,440
+want zelfs de computer
+
+78
+00:02:55,440 --> 00:02:57,760
+leert niets dus chelsea in
+
+79
+00:02:57,760 --> 00:02:59,840
+je eigen woorden wat is azuur kennis
+
+80
+00:02:59,840 --> 00:03:02,959
+bewijs nul kennis bewijs
+
+81
+00:03:02,959 --> 00:03:06,000
+is bewijs voor een stelling je laat
+
+82
+00:03:06,000 --> 00:03:07,440
+ze niet zien waarom of
+
+83
+00:03:07,440 --> 00:03:10,239
+wat je j  we moeten ze een klein segment laten zien
+
+84
+00:03:10,239 --> 00:03:11,120
+of
+
+85
+00:03:11,120 --> 00:03:13,599
+gewoon een of andere
+
+86
+00:03:13,599 --> 00:03:16,720
+rare goocheltruc doen die niet echt een
+
+87
+00:03:16,720 --> 00:03:18,560
+goocheltruc is
+
+88
+00:03:18,560 --> 00:03:20,879
+en ze zullen overtuigd zijn en je
+
+89
+00:03:20,879 --> 00:03:23,599
+hebt ze niet laten zien waarom of iets dergelijks
+
+90
+00:03:23,599 --> 00:03:31,110
+,
+
+91
+00:03:31,120 --> 00:03:32,879
+dus heb je ooit de term zero
+
+92
+00:03:32,879 --> 00:03:36,080
+knowledge proof gehoord voordat ik  heb geen
+
+93
+00:03:36,080 --> 00:03:39,280
+recht, het is een manier voor goedkeurder
+
+94
+00:03:39,280 --> 00:03:41,599
+om een verificateur ervan te overtuigen
+
+95
+00:03:41,599 --> 00:03:44,400
+dat iets waar is zonder iets te onthullen
+
+96
+00:03:44,400 --> 00:03:46,080
+over waarom het waar is, wat
+
+97
+00:03:46,080 --> 00:03:48,080
+volkomen bizar klinkt, zoals hoe
+
+98
+00:03:48,080 --> 00:03:50,799
+kan dat zijn wat ik wil doen,
+
+99
+00:03:50,799 --> 00:03:53,360
+je bewijzen dat ik deze
+
+100
+00:03:53,360 --> 00:03:55,200
+combinatie ken zonder  de
+
+101
+00:03:55,200 --> 00:03:56,959
+combinatie aan jou onthullen en wat je zou kunnen doen
+
+102
+00:03:56,959 --> 00:03:58,319
+is een klein briefje schrijven een
+
+103
+00:03:58,319 --> 00:04:00,239
+geheim dat ik zeker niet zou weten
+
+104
+00:04:00,239 --> 00:04:02,400
+vouw het op, plak het hier en als
+
+105
+00:04:02,400 --> 00:04:04,000
+ik de combinatie weet, zou ik het moeten
+
+106
+00:04:04,000 --> 00:04:07,840
+kunnen openen en het je vertellen  wat je
+
+107
+00:04:07,840 --> 00:04:13,990
+schreef oke
+
+108
+00:04:14,000 --> 00:04:16,239
+daar gaan
+
+109
+00:04:16,239 --> 00:04:17,759
+we goed
+
+110
+00:04:17,759 --> 00:04:19,680
+dus
+
+111
+00:04:19,680 --> 00:04:22,000
+mijn hond heet doug ben je erachter gekomen
+
+112
+00:04:22,000 --> 00:04:24,479
+wat de combinatie was nee dus nergens
+
+113
+00:04:24,479 --> 00:04:27,040
+in deze interactie heb
+
+114
+00:04:27,040 --> 00:04:28,639
+je informatie gezien die je nog
+
+115
+00:04:28,639 --> 00:04:31,360
+niet wist en toch heb ik geconvi  Ik heb je gezegd
+
+116
+00:04:31,360 --> 00:04:33,040
+dat ik de combinatie ken,
+
+117
+00:04:33,040 --> 00:04:34,960
+ja, dus
+
+118
+00:04:34,960 --> 00:04:37,199
+wat is het exacte doel van azuurblauw
+
+119
+00:04:37,199 --> 00:04:39,280
+kennisbewijs, is het alsof je
+
+120
+00:04:39,280 --> 00:04:41,919
+iets bewijst, maar zonder
+
+121
+00:04:41,919 --> 00:04:44,160
+voldoende informatie te geven die in
+
+122
+00:04:44,160 --> 00:04:46,080
+gevaar kan komen, wat je ook bewijst,
+
+123
+00:04:46,080 --> 00:04:47,840
+dus je vraagt je af, waarom zou ik niet
+
+124
+00:04:47,840 --> 00:04:49,520
+gewoon  mijn geheimen met iemand delen
+
+125
+00:04:49,520 --> 00:04:51,680
+mensen vertrouwen elkaar niet en als ik
+
+126
+00:04:51,680 --> 00:04:53,350
+zou kunnen bewijzen dat ik iemand iets correct heb aangedaan
+
+127
+00:04:53,350 --> 00:04:54,870
+
+
+128
+00:04:54,880 --> 00:04:57,280
+zonder mijn geheimen te hoeven
+
+129
+00:04:57,280 --> 00:04:59,110
+prijsgeven, dan zou die persoon me meer vertrouwen.
+
+130
+00:04:59,110 --> 00:05:01,670
+
+
+131
+00:05:01,680 --> 00:05:03,600
+je typt het op een
+
+132
+00:05:03,600 --> 00:05:04,960
+computer en iemand anders ontvangt het
+
+133
+00:05:04,960 --> 00:05:07,199
+of is het een persoonlijke interactie
+
+134
+00:05:07,199 --> 00:05:09,360
+stel dat je berichten
+
+135
+00:05:09,360 --> 00:05:10,800
+met iemand wilt uitwisselen waarvan je wist wat
+
+136
+00:05:10,800 --> 00:05:12,639
+jullie zouden doen jullie zouden waarschijnlijk eerst bij
+
+137
+00:05:12,639 --> 00:05:14,479
+elkaar komen en graag een geheime
+
+138
+00:05:14,479 --> 00:05:16,160
+code uitvinden  en dan graag berichten
+
+139
+00:05:16,160 --> 00:05:17,759
+naar elkaar schrijven in die code, maar wat als
+
+140
+00:05:17,759 --> 00:05:19,919
+je de persoon nog nooit eerder hebt ontmoet, wat
+
+141
+00:05:19,919 --> 00:05:21,440
+als je geheime berichten
+
+142
+00:05:21,440 --> 00:05:22,880
+met mij wilt uitwisselen en we elkaar nog nooit eerder hebben ontmoet
+
+143
+00:05:22,880 --> 00:05:25,360
+hoe zouden we dat kunnen doen
+
+144
+00:05:25,360 --> 00:05:27,919
+ik heb geen idee dat het onmogelijk klinkt
+
+145
+00:05:27,919 --> 00:05:28,960
+,
+
+146
+00:05:28,960 --> 00:05:30,960
+maar het is niet zo, we zouden het niet gebruiken als een
+
+147
+00:05:30,960 --> 00:05:33,759
+fysiek slot of een fysieke doos we zouden in
+
+148
+00:05:33,759 --> 00:05:35,759
+plaats daarvan wiskunde gebruiken om dit
+
+149
+00:05:35,759 --> 00:05:38,639
+soort dingen te doen je zou een bericht kunnen nemen
+
+150
+00:05:38,639 --> 00:05:40,880
+en versleutelen  het met behulp van wiskunde en
+
+151
+00:05:40,880 --> 00:05:42,479
+dan kan ik je bewijzen dat
+
+152
+00:05:42,479 --> 00:05:44,390
+ik de sleutel
+
+153
+00:05:44,390 --> 00:05:46,150
+
+
+154
+00:05:46,160 --> 00:05:48,469
+ken.
+
+155
+00:05:48,469 --> 00:05:51,510
+
+
+156
+00:05:51,520 --> 00:05:53,440
+heb vandaag in je eigen
+
+157
+00:05:53,440 --> 00:05:55,360
+woorden besproken wat een nulkennisbewijs is,
+
+158
+00:05:55,360 --> 00:05:57,520
+het is alsof je een heel
+
+159
+00:05:57,520 --> 00:05:59,600
+belangrijk geheim hebt waarvan je wilt dat iemand
+
+160
+00:05:59,600 --> 00:06:01,600
+het weet, maar je wilt
+
+161
+00:06:01,600 --> 00:06:04,400
+ze niet alles vertellen wat je kunt gebruiken als je
+
+162
+00:06:04,400 --> 00:06:06,639
+kennisbewijs om te bewijzen dat  ze dat
+
+163
+00:06:06,639 --> 00:06:08,970
+geheim, maar niet alles verklappen
+
+164
+00:06:08,970 --> 00:06:13,670
+[Muziek]
+
+165
+00:06:13,680 --> 00:06:15,600
+wat studeer je ik ben een eerstejaars
+
+166
+00:06:15,600 --> 00:06:18,000
+student computerwetenschappen aan usc viterbi
+
+167
+00:06:18,000 --> 00:06:20,080
+ik ben geïnteresseerd in alles zoals data
+
+168
+00:06:20,080 --> 00:06:21,759
+en internet en blockchain en
+
+169
+00:06:21,759 --> 00:06:23,440
+cryptocurrency heb je ooit gehoord van
+
+170
+00:06:23,440 --> 00:06:25,840
+nul weet  richel bewijst alleen terloops, dus
+
+171
+00:06:25,840 --> 00:06:27,840
+eigenlijk in de blockchain-ruimte is een
+
+172
+00:06:27,840 --> 00:06:29,680
+van de ruimtes waar we zien dat
+
+173
+00:06:29,680 --> 00:06:31,600
+nulkennisbewijzen worden geïmplementeerd en
+
+174
+00:06:31,600 --> 00:06:33,120
+uh en ik denk dat dit nog maar het begin is,
+
+175
+00:06:33,120 --> 00:06:34,800
+laten we het hebben over nulkennisbewijzen
+
+176
+00:06:34,800 --> 00:06:37,520
+in de kern een nulkennisbewijs is een
+
+177
+00:06:37,520 --> 00:06:40,080
+interactie  tussen twee mensen, dan zou ik je
+
+178
+00:06:40,080 --> 00:06:42,319
+moeten kunnen overtuigen dat een bepaalde
+
+179
+00:06:42,319 --> 00:06:44,720
+bewering waar is, maar je zult geen
+
+180
+00:06:44,720 --> 00:06:47,270
+idee hebben waarom het waar is.
+
+181
+00:06:47,270 --> 00:06:49,270
+
+
+182
+00:06:51,280 --> 00:06:53,120
+weet dat
+
+183
+00:06:53,120 --> 00:06:54,560
+ze bepaalde attributen hebben
+
+184
+00:06:54,560 --> 00:06:56,000
+waardoor ze waar zouden zijn, wat je me eigenlijk
+
+185
+00:06:56,000 --> 00:06:58,400
+vraagt, is wachten wat
+
+186
+00:06:58,400 --> 00:07:00,880
+goed is, dus dit is wat
+
+187
+00:07:00,880 --> 00:07:02,720
+het bewijs van cyrano zo fascinerend en zo
+
+188
+00:07:02,720 --> 00:07:05,029
+contra-intuïtief maakt en ik denk dat ik het je het beste
+
+189
+00:07:05,029 --> 00:07:06,550
+
+
+190
+00:07:06,560 --> 00:07:08,400
+kan uitleggen  aan de hand
+
+191
+00:07:08,400 --> 00:07:10,800
+van een voorbeeld, maar voordat we dat doen, moet
+
+192
+00:07:10,800 --> 00:07:12,639
+ik beslissen wat ik je ga
+
+193
+00:07:12,639 --> 00:07:15,280
+bewijzen in een zero-knowledge proof
+
+194
+00:07:15,280 --> 00:07:16,960
+en de manier waarop we dit gaan aanpakken
+
+195
+00:07:16,960 --> 00:07:18,800
+is door zo  meting genaamd np
+
+196
+00:07:18,800 --> 00:07:21,360
+volledigheid wat een np-compleet probleem
+
+197
+00:07:21,360 --> 00:07:24,080
+is het is een probleem dat heel moeilijk op te
+
+198
+00:07:24,080 --> 00:07:26,560
+lossen is, maar als je het kunt oplossen, kun je
+
+199
+00:07:26,560 --> 00:07:30,880
+elk probleem oplossen dat in de klasse np zit
+
+200
+00:07:30,880 --> 00:07:33,599
+en dat omvat een groot aantal
+
+201
+00:07:33,599 --> 00:07:35,599
+problemen en wat we gaan doen  doen is,
+
+202
+00:07:35,599 --> 00:07:37,440
+we gaan een np-compleet
+
+203
+00:07:37,440 --> 00:07:40,319
+probleem gebruiken om
+
+204
+00:07:40,319 --> 00:07:42,720
+een ongelooflijke verscheidenheid aan uitspraken te bewijzen
+
+205
+00:07:42,720 --> 00:07:44,879
+door middel van een nulkennisbewijs en het
+
+206
+00:07:44,879 --> 00:07:47,120
+specifieke en complete probleem waar
+
+207
+00:07:47,120 --> 00:07:49,199
+we naar gaan kijken heet
+
+208
+00:07:49,199 --> 00:07:52,319
+kaart drie kleuren oké, dus hier hebben we
+
+209
+00:07:52,319 --> 00:07:54,000
+een kaart oke
+
+210
+00:07:54,000 --> 00:07:55,919
+en dit zijn een heleboel landen en
+
+211
+00:07:55,919 --> 00:07:59,440
+we hebben ze zo gerangschikt dat geen landen
+
+212
+00:07:59,440 --> 00:08:01,360
+met dezelfde
+
+213
+00:08:01,360 --> 00:08:04,080
+kleur een grens delen dat is wat een
+
+214
+00:08:04,080 --> 00:08:05,840
+kaart als deze
+
+215
+00:08:05,840 --> 00:08:08,160
+geldig gekleurd maakt en nu zou je kunnen
+
+216
+00:08:08,160 --> 00:08:10,960
+denken, waarom zouden we erom geven dat het blijkt
+
+217
+00:08:10,960 --> 00:08:11,759
+dat
+
+218
+00:08:11,759 --> 00:08:13,919
+of een kaart
+
+219
+00:08:13,919 --> 00:08:15,919
+op deze manier driekleurig kan
+
+220
+00:08:15,919 --> 00:08:18,560
+zijn, een voorbeeld is van een np-compleet probleem
+
+221
+00:08:18,560 --> 00:08:20,240
+en het blijkt dat je weet dat je misschien
+
+222
+00:08:20,240 --> 00:08:22,240
+wat je echt wilt doen
+
+223
+00:08:22,240 --> 00:08:24,240
+, een nulkennisbewijs wilt geven
+
+224
+00:08:24,240 --> 00:08:26,639
+dat je hebt  minstens  punt drie
+
+225
+00:08:26,639 --> 00:08:28,960
+bitcoins goed dat zou cool zijn ja
+
+226
+00:08:28,960 --> 00:08:30,960
+zonder te onthullen wat het adres is
+
+227
+00:08:30,960 --> 00:08:33,039
+van uw account het blijkt dat ik
+
+228
+00:08:33,039 --> 00:08:35,200
+die verklaring kan nemen dat ik ten
+
+229
+00:08:35,200 --> 00:08:37,279
+minste twee bitcoins heb
+
+230
+00:08:37,279 --> 00:08:38,959
+en het omzetten
+
+231
+00:08:38,959 --> 00:08:41,599
+in een kaart van landen en die kaart van
+
+232
+00:08:41,599 --> 00:08:42,800
+landen
+
+233
+00:08:42,800 --> 00:08:46,080
+zal  wees drie kleuren zoals deze
+
+234
+00:08:46,080 --> 00:08:47,440
+alleen als
+
+235
+00:08:47,440 --> 00:08:49,440
+je ten minste punt twee bitcoins hebt hoe
+
+236
+00:08:49,440 --> 00:08:51,040
+kunnen we zoiets veranderen in een
+
+237
+00:08:51,040 --> 00:08:52,880
+nul kennis bewijs natuurlijk de eerste
+
+238
+00:08:52,880 --> 00:08:54,560
+stap is dat we alle kleuren moeten wissen
+
+239
+00:08:54,560 --> 00:08:56,959
+wat ik heb gedaan is ik heb een  kleur
+
+240
+00:08:56,959 --> 00:08:59,680
+in elk van deze enveloppen hoe
+
+241
+00:08:59,680 --> 00:09:01,680
+weet je nu dat het een geldige kleuring is
+
+242
+00:09:01,680 --> 00:09:04,640
+je hebt geen gelijk je moet twee
+
+243
+00:09:04,640 --> 00:09:06,720
+buurlanden kiezen je kunt ze
+
+244
+00:09:06,720 --> 00:09:08,720
+willekeurig kiezen kan ik
+
+245
+00:09:08,720 --> 00:09:10,560
+deze twee deze twee goed klinkt
+
+246
+00:09:10,560 --> 00:09:14,480
+goed goed  hier hebben we groen
+
+247
+00:09:14,480 --> 00:09:15,279
+rechts
+
+248
+00:09:15,279 --> 00:09:16,959
+en hier
+
+249
+00:09:16,959 --> 00:09:18,880
+hebben we blauw
+
+250
+00:09:18,880 --> 00:09:21,279
+oke en zoals je kunt zien zijn er twee
+
+251
+00:09:21,279 --> 00:09:24,000
+verschillende kleuren, dus je hebt een
+
+252
+00:09:24,000 --> 00:09:25,839
+beetje vertrouwen dat
+
+253
+00:09:25,839 --> 00:09:28,080
+ik erin geslaagd ben om dit correct te kleuren, maar
+
+254
+00:09:28,080 --> 00:09:29,440
+niet zo veel vertrouwen  ce omdat ik je
+
+255
+00:09:29,440 --> 00:09:31,519
+maar twee van de landen heb laten zien,
+
+256
+00:09:31,519 --> 00:09:32,560
+ja,
+
+257
+00:09:32,560 --> 00:09:34,880
+dus nu is natuurlijk een manier om meer vertrouwen te krijgen,
+
+258
+00:09:34,880 --> 00:09:36,640
+om meer van hen voor je te openen,
+
+259
+00:09:36,640 --> 00:09:38,080
+maar dat zou
+
+260
+00:09:38,080 --> 00:09:39,600
+informatie aan je onthullen Ik wil dat niet
+
+261
+00:09:39,600 --> 00:09:41,440
+doen  in plaats daarvan ga ik je vragen om
+
+262
+00:09:41,440 --> 00:09:42,880
+alsjeblieft om te draaien
+
+263
+00:09:42,880 --> 00:09:45,440
+en laten we nu deze kleuren veranderen kun
+
+264
+00:09:45,440 --> 00:09:47,839
+je willekeurig twee landen kiezen en
+
+265
+00:09:47,839 --> 00:09:49,839
+we zullen de kleuren opnieuw onthullen oke
+
+266
+00:09:49,839 --> 00:09:51,920
+deze en deze leuk en ze zijn
+
+267
+00:09:51,920 --> 00:09:53,920
+slim van je om  controleer met dezelfde
+
+268
+00:09:53,920 --> 00:09:55,839
+van degene die je al goed had,
+
+269
+00:09:55,839 --> 00:09:58,399
+maar zoals je nu zult zien
+
+270
+00:09:58,399 --> 00:09:59,519
+is het niet
+
+271
+00:09:59,519 --> 00:10:01,440
+groen het is blauw
+
+272
+00:10:01,440 --> 00:10:04,320
+en deze aan de andere kant
+
+273
+00:10:04,320 --> 00:10:05,839
+is
+
+274
+00:10:05,839 --> 00:10:07,360
+drie
+
+275
+00:10:07,360 --> 00:10:09,680
+oke de kleuren die ik je de vorige keer liet zien
+
+276
+00:10:09,680 --> 00:10:11,839
+werken niet met deze nieuwe kleuren juist
+
+277
+00:10:11,839 --> 00:10:13,519
+dit  zou niet hebben gewerkt,
+
+278
+00:10:13,519 --> 00:10:16,399
+omdat deze precies goed was, maar het
+
+279
+00:10:16,399 --> 00:10:18,720
+werkt voor deze kleur die ik
+
+280
+00:10:18,720 --> 00:10:20,800
+je nu laat zien, dus wat we hebben gedaan, is dat
+
+281
+00:10:20,800 --> 00:10:22,880
+we het je onmogelijk hebben gemaakt om
+
+282
+00:10:22,880 --> 00:10:24,399
+de stukjes samen te voegen en als je  doe dit
+
+283
+00:10:24,399 --> 00:10:26,800
+laten we zeggen duizend keer
+
+284
+00:10:26,800 --> 00:10:28,640
+en als ik je correct heb laten zien anders
+
+285
+00:10:28,640 --> 00:10:29,600
+c
+
+286
+00:10:29,600 --> 00:10:31,279
+Elke duizend
+
+287
+00:10:31,279 --> 00:10:33,600
+keer zou je echt overtuigd zijn en dat is het,
+
+288
+00:10:33,600 --> 00:10:36,079
+dat is het hele bewijs van nul kennis
+
+289
+00:10:36,079 --> 00:10:37,839
+oh oke dus
+
+290
+00:10:37,839 --> 00:10:40,160
+is het alsof er geen zoals echt zoals
+
+291
+00:10:40,160 --> 00:10:42,560
+expliciet zoals stap één stap twee stap
+
+292
+00:10:42,560 --> 00:10:44,959
+drie het is net als een probabilistische
+
+293
+00:10:44,959 --> 00:10:47,040
+ja in daadwerkelijke implementaties zouden
+
+294
+00:10:47,040 --> 00:10:48,399
+we '  Als we enveloppen gebruiken, zouden we de
+
+295
+00:10:48,399 --> 00:10:51,440
+juiste codering gebruiken, maar dit is echt
+
+296
+00:10:51,440 --> 00:10:53,440
+het protocol, dus wat zijn de bredere
+
+297
+00:10:53,440 --> 00:10:55,200
+implicaties van dergelijke nulkennisbewijzen.
+
+298
+00:10:55,200 --> 00:10:57,040
+Moeten ze
+
+299
+00:10:57,040 --> 00:10:59,200
+praktischer zijn voor soortgelijke implementatie en
+
+300
+00:10:59,200 --> 00:11:00,880
+moeten ze graag structureel
+
+301
+00:11:00,880 --> 00:11:03,360
+iets bewijzen waar het niet om gaat
+
+302
+00:11:03,360 --> 00:11:05,040
+iets efficiënter het gaat
+
+303
+00:11:05,040 --> 00:11:06,320
+erom dingen te doen waarvan we gewoon niet wisten
+
+304
+00:11:06,320 --> 00:11:08,640
+hoe ze het moesten doen voordat ik het je echt kan
+
+305
+00:11:08,640 --> 00:11:10,720
+bewijzen zonder je een van mijn geheimen te onthullen
+
+306
+00:11:10,720 --> 00:11:12,800
+die ik gebruik om me eerlijk te gedragen
+
+307
+00:11:12,800 --> 00:11:14,720
+ik kan je bewijzen
+
+308
+00:11:14,720 --> 00:11:15,600
+dat
+
+309
+00:11:15,600 --> 00:11:17,839
+ik een versleuteld document heb ondertekend
+
+310
+00:11:17,839 --> 00:11:20,240
+correct goed zonder je te onthullen
+
+311
+00:11:20,240 --> 00:11:22,640
+wat dat geheime document was dat
+
+312
+00:11:22,640 --> 00:11:24,399
+vermogen om het spel te veranderen, zoals echt
+
+313
+00:11:24,399 --> 00:11:26,640
+gewoon veranderen wat we kunnen doen is w  hat zero
+
+314
+00:11:26,640 --> 00:11:28,240
+knowledge brengt naar de tafel waar denk
+
+315
+00:11:28,240 --> 00:11:30,000
+je dat we zouden kunnen bouwen zoals meer vertrouwen
+
+316
+00:11:30,000 --> 00:11:31,839
+met behulp van zoals zero knowledge proofs en
+
+317
+00:11:31,839 --> 00:11:33,760
+zoals de implementaties ervan, een geweldig
+
+318
+00:11:33,760 --> 00:11:35,680
+voorbeeld is zoals bij verkiezingen als je
+
+319
+00:11:35,680 --> 00:11:37,200
+zou kunnen bewijzen
+
+320
+00:11:37,200 --> 00:11:39,680
+dat een verkiezing correct is uitgevoerd
+
+321
+00:11:39,680 --> 00:11:42,000
+dat elke stem is geteld en het  allemaal
+
+322
+00:11:42,000 --> 00:11:43,839
+opgeteld bij één persoon die wint met een
+
+323
+00:11:43,839 --> 00:11:45,519
+bepaald totaal
+
+324
+00:11:45,519 --> 00:11:47,360
+zonder kennis, dan hoef
+
+325
+00:11:47,360 --> 00:11:50,000
+je de daadwerkelijke stemmen van geen enkele persoon op te geven
+
+326
+00:11:50,000 --> 00:11:53,040
+en toch kon iedereen zien dat hey ja,
+
+327
+00:11:53,040 --> 00:11:59,509
+het was correct gedaan,
+
+328
+00:11:59,519 --> 00:12:01,360
+het is zo geweldig om je hier te hebben en te praten
+
+329
+00:12:01,360 --> 00:12:03,360
+met jou eli um kun je me iets vertellen
+
+330
+00:12:03,360 --> 00:12:05,680
+over je onderzoek mijn onderzoek
+
+331
+00:12:05,680 --> 00:12:08,639
+is specifiek in cryptografie ik
+
+332
+00:12:08,639 --> 00:12:11,120
+werk aan een aantal verschillende multi-party
+
+333
+00:12:11,120 --> 00:12:13,120
+berekeningsprotocollen degene waar
+
+334
+00:12:13,120 --> 00:12:14,639
+ik nu aan werk
+
+335
+00:12:14,639 --> 00:12:16,880
+is een systeem voor het berekenen van geaggregeerde
+
+336
+00:12:16,880 --> 00:12:19,839
+statistieken, zodat  serviceproviders
+
+337
+00:12:19,839 --> 00:12:22,720
+zoals google chrome of tesla
+
+338
+00:12:22,720 --> 00:12:24,560
+kunnen die statistieken verzamelen
+
+339
+00:12:24,560 --> 00:12:26,800
+zonder iets te leren over
+
+340
+00:12:26,800 --> 00:12:29,519
+individuele gebruikersgegevens, dat is geweldig, ik
+
+341
+00:12:29,519 --> 00:12:32,880
+hoef als gebruiker Firefox niet te laten weten
+
+342
+00:12:32,880 --> 00:12:34,560
+dat mijn favoriete website
+
+343
+00:12:34,560 --> 00:12:36,480
+mylittlepony.com is,
+
+344
+00:12:36,480 --> 00:12:39,320
+maar dat ze kunnen weten hoeveel gebruikers
+
+345
+00:12:39,320 --> 00:12:41,440
+elke dag naar mylittlepony.com gaan dat is
+
+346
+00:12:41,440 --> 00:12:42,880
+mij na aan het hart geen
+
+347
+00:12:42,880 --> 00:12:44,639
+wedstrijd voor een feestje uiteraard gaat het bij
+
+348
+00:12:44,639 --> 00:12:47,519
+nulkennisbewijzen over het bewijzen van dingen aan
+
+349
+00:12:47,519 --> 00:12:50,079
+een andere persoon zonder de details te onthullen
+
+350
+00:12:50,079 --> 00:12:51,600
+van wat  het is dat je
+
+351
+00:12:51,600 --> 00:12:54,160
+bewijst, maar je weet in mijn gedachten dat nul
+
+352
+00:12:54,160 --> 00:12:55,920
+kennis zelfs verder gaat
+
+353
+00:12:55,920 --> 00:12:57,680
+dan dat het is zoals dit overkoepelende
+
+354
+00:12:57,680 --> 00:12:59,920
+concept dat je veel kunt zien in
+
+355
+00:12:59,920 --> 00:13:02,160
+berekeningen met meerdere partijen, waarbij
+
+356
+00:13:02,160 --> 00:13:05,440
+je een soort taak wilt volbrengen
+
+357
+00:13:05,440 --> 00:13:07,839
+zonder iets meer te onthullen  dan
+
+358
+00:13:07,839 --> 00:13:09,680
+precies wat je nodig hebt om die
+
+359
+00:13:09,680 --> 00:13:13,120
+taak goed uit te voeren en het stelt je in staat om te bewijzen
+
+360
+00:13:13,120 --> 00:13:15,200
+dat je je eerlijk hebt gedragen
+
+361
+00:13:15,200 --> 00:13:17,360
+zonder een van de betrokken geheimen te onthullen
+
+362
+00:13:17,360 --> 00:13:18,310
+
+
+363
+00:13:18,320 --> 00:13:19,920
+die je vroeger echt eerlijk gedroeg,
+
+364
+00:13:19,920 --> 00:13:22,480
+dus we weten natuurlijk dat nul
+
+365
+00:13:22,480 --> 00:13:24,000
+kennis bewijst voor np complete
+
+366
+00:13:24,000 --> 00:13:26,320
+talen  zo'n grote rol spelen in
+
+367
+00:13:26,320 --> 00:13:28,000
+cryptografie ik ben benieuwd wat je
+
+368
+00:13:28,000 --> 00:13:29,360
+eerste ervaring was met lege volledigheid
+
+369
+00:13:29,360 --> 00:13:31,920
+zoals ja dus mijn eerste ontmoeting met  np-
+
+370
+00:13:31,920 --> 00:13:34,639
+volledigheid was in mijn allereerste
+
+371
+00:13:34,639 --> 00:13:36,399
+algoritme-les die ik als student volgde,
+
+372
+00:13:36,399 --> 00:13:38,160
+dus dat was mijn eerste
+
+373
+00:13:38,160 --> 00:13:40,320
+introductie is dat een np complete
+
+374
+00:13:40,320 --> 00:13:44,320
+taal dit verbazingwekkende probleem is dat
+
+375
+00:13:44,320 --> 00:13:47,600
+je niet alleen over zichzelf vertelt, maar het
+
+376
+00:13:47,600 --> 00:13:49,360
+oplossen van dit probleem kan je eigenlijk
+
+377
+00:13:49,360 --> 00:13:51,440
+vertellen over een hele klas  van echt
+
+378
+00:13:51,440 --> 00:13:52,880
+interessante problemen begonnen we eerst na te
+
+379
+00:13:52,880 --> 00:13:54,240
+denken over bewijzen als een interactief
+
+380
+00:13:54,240 --> 00:13:56,320
+spel waarin we met elkaar praten
+
+381
+00:13:56,320 --> 00:13:58,160
+dat journalisten
+
+382
+00:13:58,160 --> 00:14:00,880
+volkomen gelijk maakte ja en
+
+383
+00:14:00,880 --> 00:14:02,800
+en het idee dat willekeur
+
+384
+00:14:02,800 --> 00:14:04,240
+nuttig zou kunnen zijn
+
+385
+00:14:04,240 --> 00:14:06,480
+om iets opnieuw te bewijzen lijkt zo
+
+386
+00:14:06,480 --> 00:14:08,959
+contra-intuïtief als we denken  over dit
+
+387
+00:14:08,959 --> 00:14:11,120
+platonische ideaal van een
+
+388
+00:14:11,120 --> 00:14:14,079
+bewijs, er is geen willekeur, er is geen
+
+389
+00:14:14,079 --> 00:14:16,480
+non-determinisme dat daar aanwezig is en
+
+390
+00:14:16,480 --> 00:14:18,399
+het heeft te maken met je weet dit hele
+
+391
+00:14:18,399 --> 00:14:20,240
+idee om een bewijs op zijn kop te zetten,
+
+392
+00:14:20,240 --> 00:14:21,920
+weet je in een oud klassiek bewijs,
+
+393
+00:14:21,920 --> 00:14:24,639
+willekeur is specifiek tegen het
+
+394
+00:14:24,639 --> 00:14:26,320
+doel  van wat je goed probeert te doen,
+
+395
+00:14:26,320 --> 00:14:27,600
+omdat je alles
+
+396
+00:14:27,600 --> 00:14:29,600
+duidelijk probeert te maken en je probeert de
+
+397
+00:14:29,600 --> 00:14:31,839
+stroom van  informatie inderdaad, maar als je
+
+398
+00:14:31,839 --> 00:14:33,040
+dat eenmaal op zijn kop zet en je probeert dat niet
+
+399
+00:14:33,040 --> 00:14:34,639
+langer te doen, worden plotseling
+
+400
+00:14:34,639 --> 00:14:36,880
+alle slechte eigenschappen van willekeur
+
+401
+00:14:36,880 --> 00:14:39,279
+goed precies goed omdat willekeur
+
+402
+00:14:39,279 --> 00:14:40,959
+onvoorspelbaar is en dat is wat we
+
+403
+00:14:40,959 --> 00:14:43,040
+willen, we willen dat die onvoorspelbare
+
+404
+00:14:43,040 --> 00:14:45,440
+willekeur wordt gebruikt  om
+
+405
+00:14:45,440 --> 00:14:47,199
+de informatie die we willen
+
+406
+00:14:47,199 --> 00:14:50,240
+verbergen daadwerkelijk te verbergen hoe heb je je kennis gebruikt in
+
+407
+00:14:50,240 --> 00:14:51,680
+de projecten waaraan je hebt gewerkt wat zijn
+
+408
+00:14:51,680 --> 00:14:53,360
+de uitdagingen die je tegenkomt in mijn
+
+409
+00:14:53,360 --> 00:14:56,880
+ervaring meestal is het moeilijkste
+
+410
+00:14:56,880 --> 00:14:59,360
+om uit te zoeken waar de beste
+
+411
+00:14:59,360 --> 00:15:01,839
+plaats is om het te gebruiken  ik heb
+
+412
+00:15:01,839 --> 00:15:03,519
+in het verleden wat papers geschreven die nul
+
+413
+00:15:03,519 --> 00:15:05,839
+kennis op een meer theoretische manier hebben gebruikt, maar
+
+414
+00:15:05,839 --> 00:15:08,320
+als het gaat om applicaties, zijn
+
+415
+00:15:08,320 --> 00:15:10,320
+enkele van de meest opwindende applicaties
+
+416
+00:15:10,320 --> 00:15:12,000
+die ik tot nu toe heb gezien in de
+
+417
+00:15:12,000 --> 00:15:13,680
+blockchain-ruimte geweest, dus wat zijn enkele van de
+
+418
+00:15:13,680 --> 00:15:15,440
+efficiëntieknelpunten die je vindt in
+
+419
+00:15:15,440 --> 00:15:17,279
+termen van efficiëntie
+
+420
+00:15:17,279 --> 00:15:19,360
+uh een van de coolste dingen over
+
+421
+00:15:19,360 --> 00:15:20,720
+nulkennisbewijzen is dat er zoveel
+
+422
+00:15:20,720 --> 00:15:23,120
+soorten zijn die ik graag noem ze smaken i
+
+423
+00:15:23,120 --> 00:15:25,680
+thi  nk dat in het algemeen, wanneer u
+
+424
+00:15:25,680 --> 00:15:27,440
+nulkennisbewijzen gebruikt in de toepassing, het
+
+425
+00:15:27,440 --> 00:15:29,680
+grootste knelpunt meestal bij de
+
+426
+00:15:29,680 --> 00:15:32,240
+goedkeurder ligt, kunt u de taak van de beoordelaar overnemen
+
+427
+00:15:32,240 --> 00:15:34,720
+en het opsplitsen in veel parallelle
+
+428
+00:15:34,720 --> 00:15:36,720
+berekeningen, dat is zo'n leuke
+
+429
+00:15:36,720 --> 00:15:39,199
+vraag, het is zo'n geweldige vraag en
+
+430
+00:15:39,199 --> 00:15:40,800
+ja ik denk dat we
+
+431
+00:15:40,800 --> 00:15:42,639
+het antwoord daarop nog steeds niet weten als vakgebied een van de
+
+432
+00:15:42,639 --> 00:15:44,880
+coolste dingen die ik in het verleden heb gezien
+
+433
+00:15:44,880 --> 00:15:46,639
+weet je drie of vier jaar dat ik
+
+434
+00:15:46,639 --> 00:15:48,720
+aan dit soort dingen heb gewerkt is
+
+435
+00:15:48,720 --> 00:15:50,320
+de overgang
+
+436
+00:15:50,320 --> 00:15:51,360
+van
+
+437
+00:15:51,360 --> 00:15:53,920
+theoretisch tot toegepast en het zien van al
+
+438
+00:15:53,920 --> 00:15:55,680
+deze verbazingwekkende
+
+439
+00:15:55,680 --> 00:15:57,600
+systemen waar mensen in de
+
+440
+00:15:57,600 --> 00:15:58,959
+afgelopen 30 jaar
+
+441
+00:15:58,959 --> 00:16:01,279
+aan hebben gedacht, beginnen daadwerkelijk efficiënt genoeg
+
+442
+00:16:01,279 --> 00:16:03,120
+te worden om daadwerkelijk zonder twijfel te worden gemaakt en
+
+443
+00:16:03,120 --> 00:16:04,639
+vooral met cloud computing
+
+444
+00:16:04,639 --> 00:16:06,800
+die de kracht van de cloud benut
+
+445
+00:16:06,800 --> 00:16:08,800
+om nulkennisbewijzen mogelijk te maken en om
+
+446
+00:16:08,800 --> 00:16:10,560
+gebruik maken van dagboekelektriciteit zou
+
+447
+00:16:10,560 --> 00:16:12,560
+geweldig zijn, en
+
+448
+00:16:12,560 --> 00:16:14,480
+ook in de blockchain-ruimte, bijvoorbeeld
+
+449
+00:16:14,480 --> 00:16:16,320
+als u het genereren
+
+450
+00:16:16,320 --> 00:16:17,759
+van bewijzen wilt versnellen als dat op een gedistribueerde manier kan worden gedaan,
+
+451
+00:16:17,759 --> 00:16:20,000
+dan w  zou geweldig zijn,
+
+452
+00:16:20,000 --> 00:16:21,759
+een van de hoop die ik heb,
+
+453
+00:16:21,759 --> 00:16:24,240
+is dat de kracht van multi-party
+
+454
+00:16:24,240 --> 00:16:26,720
+computation gaat over het samenbrengen van mensen
+
+455
+00:16:26,720 --> 00:16:29,519
+die wederzijds wantrouwend zijn,
+
+456
+00:16:29,519 --> 00:16:31,839
+ja, dus kunnen
+
+457
+00:16:31,839 --> 00:16:33,839
+we die kracht die in de
+
+458
+00:16:33,839 --> 00:16:36,160
+cryptografie aanwezig is, gebruiken om op de een of andere manier te helpen
+
+459
+00:16:36,160 --> 00:16:38,320
+met de enorme  mate van wantrouwen
+
+460
+00:16:38,320 --> 00:16:40,560
+dat er momenteel in de samenleving bestaat
+
+461
+00:16:40,560 --> 00:16:42,240
+om groepen mensen bij
+
+462
+00:16:42,240 --> 00:16:44,079
+elkaar te brengen Ik denk dat dat een van de
+
+463
+00:16:44,079 --> 00:16:45,519
+redenen is waarom ik zo aangetrokken werd tot
+
+464
+00:16:45,519 --> 00:16:46,959
+multi-party computation in de eerste
+
+465
+00:16:46,959 --> 00:16:49,519
+plaats in mijn gedachten een van de
+
+466
+00:16:49,519 --> 00:16:51,920
+belangrijkste problemen in de wereld  is het
+
+467
+00:16:51,920 --> 00:16:53,519
+feit dat zoveel mensen elkaar niet vertrouwen
+
+468
+00:16:53,519 --> 00:16:55,920
+en dat we wiskunde echt kunnen
+
+469
+00:16:55,920 --> 00:16:58,240
+gebruiken om technologie te creëren
+
+470
+00:16:58,240 --> 00:17:00,000
+waarmee mensen kunnen samenwerken zonder
+
+471
+00:17:00,000 --> 00:17:02,639
+elkaar te vertrouwen is een heel
+
+472
+00:17:02,639 --> 00:17:10,549
+coole en geweldige missie, ik vind
+
+473
+00:17:10,559 --> 00:17:12,640
+het zo geweldig om  zie je weer ik denk dat de
+
+474
+00:17:12,640 --> 00:17:15,839
+laatste keer dat we elkaar ontmoetten was in 2017 of
+
+475
+00:17:15,839 --> 00:17:18,160
+iets dergelijks ik denk dat we een
+
+476
+00:17:18,160 --> 00:17:21,039
+keer hebben ingezoomd tijdens de pandemie maar
+
+477
+00:17:21,039 --> 00:17:22,880
+het is goed om je persoonlijk te zien,
+
+478
+00:17:22,880 --> 00:17:24,480
+absoluut en
+
+479
+00:17:24,480 --> 00:17:27,120
+eigenlijk in 86 ik nam  een
+
+480
+00:17:27,120 --> 00:17:30,240
+cryptoklas met professor edelman de a van
+
+481
+00:17:30,240 --> 00:17:34,000
+rsa en hij wees me het papier toe van uh
+
+482
+00:17:34,000 --> 00:17:36,880
+god van wasabi charlie redkov nul
+
+483
+00:17:36,880 --> 00:17:40,000
+kennis bewijs dus dat is inderdaad mijn
+
+484
+00:17:40,000 --> 00:17:42,240
+allereerste presentatie ooit in dit
+
+485
+00:17:42,240 --> 00:17:43,919
+land het ging over nul kennis
+
+486
+00:17:43,919 --> 00:17:45,520
+dat is wat er aan de hand is op nul kennis ja
+
+487
+00:17:45,520 --> 00:17:49,120
+zo  een bijna hypnotiserend concept het is ook
+
+488
+00:17:49,120 --> 00:17:51,039
+een interessante
+
+489
+00:17:51,039 --> 00:17:54,390
+manier om die concepten wiskundig goed te formuleren,
+
+490
+00:17:54,390 --> 00:17:56,870
+
+
+491
+00:17:56,880 --> 00:17:59,200
+we hebben bijvoorbeeld gegevens, en uiteindelijk zeiden we
+
+492
+00:17:59,200 --> 00:18:01,200
+dat je van gegevens zoals datamining
+
+493
+00:18:01,200 --> 00:18:03,039
+de informatie kunt krijgen en dan heb je
+
+494
+00:18:03,039 --> 00:18:05,600
+dit woord kennis, goed,
+
+495
+00:18:05,600 --> 00:18:08,160
+dus kennis heeft  er is al lang over gedebatteerd,
+
+496
+00:18:08,160 --> 00:18:10,559
+zelfs in de filosofie, wat kennis is, maar
+
+497
+00:18:10,559 --> 00:18:12,880
+hier is op een zeer fascinerende manier
+
+498
+00:18:12,880 --> 00:18:15,280
+wiskundigen of
+
+499
+00:18:15,280 --> 00:18:17,520
+computerwetenschappers op de een of andere manier kennis willen vastleggen,
+
+500
+00:18:17,520 --> 00:18:20,160
+ze zeiden niet nul informatiebewijs
+
+501
+00:18:20,160 --> 00:18:22,880
+goed, dus wat is uw mening over waarom
+
+502
+00:18:22,880 --> 00:18:25,280
+kennis is in plaats van informatie of
+
+503
+00:18:25,280 --> 00:18:27,520
+nul  gegevensbewijs duidelijk deze gegevens daar,
+
+504
+00:18:27,520 --> 00:18:30,160
+dus kunnen geen nulgegevens zijn, absoluut, ik denk niet
+
+505
+00:18:30,160 --> 00:18:31,600
+dat we nog steeds volledig
+
+506
+00:18:31,600 --> 00:18:33,679
+tevreden zijn  fabrieksantwoord op die vraag
+
+507
+00:18:33,679 --> 00:18:36,799
+wat zo'n mooi inzicht was, zoals
+
+508
+00:18:36,799 --> 00:18:38,480
+ik zeker weet dat je weet,
+
+509
+00:18:38,480 --> 00:18:40,000
+is dat het idee van
+
+510
+00:18:40,000 --> 00:18:41,600
+nul
+
+511
+00:18:41,600 --> 00:18:44,000
+kennis iets is dat
+
+512
+00:18:44,000 --> 00:18:46,870
+je al goed kunt voorspellen als je het antwoord al kunt voorspellen,
+
+513
+00:18:46,870 --> 00:18:48,150
+
+
+514
+00:18:48,160 --> 00:18:50,240
+dan moet je geen
+
+515
+00:18:50,240 --> 00:18:52,880
+kennis opdoen door  die interactie dit
+
+516
+00:18:52,880 --> 00:18:54,400
+inzicht
+
+517
+00:18:54,400 --> 00:18:55,919
+om de toekomst nauwkeurig te kunnen voorspellen
+
+518
+00:18:55,919 --> 00:18:59,200
+en dat een bewijs zijn van
+
+519
+00:18:59,200 --> 00:19:01,520
+een gebrek aan nieuwe kennis was zo'n
+
+520
+00:19:01,520 --> 00:19:03,039
+mooi inzicht zo'n verbazingwekkend
+
+521
+00:19:03,039 --> 00:19:05,280
+inzicht waarom hier niet fundamenteel nul informatie,
+
+522
+00:19:05,280 --> 00:19:07,760
+ik uh duidelijk
+
+523
+00:19:07,760 --> 00:19:09,360
+vanuit computerperspectief beveiligingsperspectief
+
+524
+00:19:09,360 --> 00:19:11,679
+het is hoeveel  kennis die
+
+525
+00:19:11,679 --> 00:19:13,520
+je opdoet, denk ik meer dan hoeveel
+
+526
+00:19:13,520 --> 00:19:15,520
+informatie je krijgt en hoeveel gegevens
+
+527
+00:19:15,520 --> 00:19:18,000
+je hebt, zodat big data niet
+
+528
+00:19:18,000 --> 00:19:19,440
+meteen
+
+529
+00:19:19,440 --> 00:19:22,000
+kennis impliceren, maar mensen kunnen soms
+
+530
+00:19:22,000 --> 00:19:23,440
+gelijk hebben soms bedoel ik bijvoorbeeld in
+
+531
+00:19:23,440 --> 00:19:26,400
+medisch onderzoek hoe geweldig zou het
+
+532
+00:19:26,400 --> 00:19:27,919
+zijn om
+
+533
+00:19:27,919 --> 00:19:31,039
+een medicijn kunnen hebben en kunnen bewijzen dat mijn
+
+534
+00:19:31,039 --> 00:19:33,840
+medicijn in dit model werkt en toch
+
+535
+00:19:33,840 --> 00:19:36,000
+de structuur van de com niet echt hoeven te onthullen
+
+536
+00:19:36,000 --> 00:19:39,440
+pond wat uh momenteel
+
+537
+00:19:39,440 --> 00:19:42,000
+denk je dat het de volgende richtingen zou zijn
+
+538
+00:19:42,000 --> 00:19:44,240
+in
+
+539
+00:19:44,240 --> 00:19:46,080
+een van deze volgende grote dingen
+
+540
+00:19:46,080 --> 00:19:47,600
+ja dit concept van nul kennis
+
+541
+00:19:47,600 --> 00:19:48,799
+programma's
+
+542
+00:19:48,799 --> 00:19:50,960
+zou je in staat stellen om volledig willekeurige berekeningen uit te voeren
+
+543
+00:19:50,960 --> 00:19:53,039
+op een nul
+
+544
+00:19:53,039 --> 00:19:55,360
+kennis manier zonder enige interactie
+
+545
+00:19:55,360 --> 00:19:57,600
+goed ik kan gewoon het programma nemen
+
+546
+00:19:57,600 --> 00:19:59,120
+converteer het naar een nulkennisprogramma
+
+547
+00:19:59,120 --> 00:20:00,880
+of een verduisterd programma en
+
+548
+00:20:00,880 --> 00:20:02,559
+stuur het dan gewoon naar rechts en dan kun je het
+
+549
+00:20:02,559 --> 00:20:05,440
+uitvoeren en profiteren van die
+
+550
+00:20:05,440 --> 00:20:07,200
+berekening zonder meer met mij te hoeven praten
+
+551
+00:20:07,200 --> 00:20:08,559
+dat klopt, er is
+
+552
+00:20:08,559 --> 00:20:10,400
+niet-interactief van aard het
+
+553
+00:20:10,400 --> 00:20:12,080
+niet-interactieve  natuur, maar soms met
+
+554
+00:20:12,080 --> 00:20:13,120
+verificatie-
+
+555
+00:20:13,120 --> 00:20:15,360
+verificatie erin,
+
+556
+00:20:15,360 --> 00:20:17,960
+soms wanneer je bijvoorbeeld een
+
+557
+00:20:17,960 --> 00:20:20,480
+uitwisseling met meerdere protocollen hebt, dat is het dan
+
+558
+00:20:20,480 --> 00:20:22,320
+weet je dat, net zoals willekeurige getallen opdoken,
+
+559
+00:20:22,320 --> 00:20:23,520
+je
+
+560
+00:20:23,520 --> 00:20:25,039
+het willekeurige getal moet invoeren als
+
+561
+00:20:25,039 --> 00:20:26,880
+deelname-authenticatie nu
+
+562
+00:20:26,880 --> 00:20:29,760
+ja, ik denk duidelijk dat ze in blockchain
+
+563
+00:20:29,760 --> 00:20:32,400
+ook begonnen  om meer uh hun
+
+564
+00:20:32,400 --> 00:20:33,919
+kennisbewijs in het grootboek op te nemen, zijn we
+
+565
+00:20:33,919 --> 00:20:35,360
+zeker op dit
+
+566
+00:20:35,360 --> 00:20:37,200
+moment waar
+
+567
+00:20:37,200 --> 00:20:38,559
+nul kennis i  zal steeds meer worden gebruikt,
+
+568
+00:20:38,559 --> 00:20:40,480
+er zijn zoveel
+
+569
+00:20:40,480 --> 00:20:43,280
+uh conferenties en vergaderingen die
+
+570
+00:20:43,280 --> 00:20:44,799
+plaatsvinden in de nulkennisruimte waar
+
+571
+00:20:44,799 --> 00:20:46,559
+jij en ik niet zijn uitgenodigd omdat het
+
+572
+00:20:46,559 --> 00:20:48,000
+voor de mensen is die het
+
+573
+00:20:48,000 --> 00:20:49,280
+ontwikkelen, de mensen die
+
+574
+00:20:49,280 --> 00:20:51,840
+programmeren, niet als wiskundigen ja
+
+575
+00:20:51,840 --> 00:20:53,760
+ja en ik denk dat dat een teken is dat is een
+
+576
+00:20:53,760 --> 00:20:55,039
+teken dat
+
+577
+00:20:55,039 --> 00:20:56,880
+onze baby is opgegroeid en je weet dat het
+
+578
+00:20:56,880 --> 00:20:58,400
+tijd is om het
+
+579
+00:20:58,400 --> 00:21:01,280
+te ontwikkelen ik denk diep de
+
+580
+00:21:01,280 --> 00:21:04,000
+studenten vragen me ook vaak wat de
+
+581
+00:21:04,000 --> 00:21:08,000
+toekomstige richting is, zowel in termen van crypto
+
+582
+00:21:08,000 --> 00:21:10,799
+zero knowledge proof in de  echte wereld
+
+583
+00:21:10,799 --> 00:21:13,360
+en hoe wiskundig je ziet in
+
+584
+00:21:13,360 --> 00:21:15,440
+informatica is een geweldige vraag ik weet dat ik
+
+585
+00:21:15,440 --> 00:21:17,600
+wou dat ik de toekomst kon zien ii kan
+
+586
+00:21:17,600 --> 00:21:19,280
+eigenlijk niet, maar laat me het deel ervan proberen
+
+587
+00:21:19,280 --> 00:21:20,880
+dat ik het meest comfortabel vind om te beantwoorden
+
+588
+00:21:20,880 --> 00:21:22,640
+is natuurlijk de wiskundige kant i
+
+589
+00:21:22,640 --> 00:21:25,039
+denk dat je weet dat we
+
+590
+00:21:25,039 --> 00:21:26,950
+de afgelopen decennia zoveel hebben gedaan op het gebied van cryptografie,
+
+591
+00:21:26,950 --> 00:21:28,230
+
+
+592
+00:21:28,240 --> 00:21:30,400
+maar we begrijpen zo weinig je weet dat we
+
+593
+00:21:30,400 --> 00:21:32,240
+zelfs vandaag de dag nog zo weinig begrijpen en ik
+
+594
+00:21:32,240 --> 00:21:35,120
+denk dat het meest fundamentele
+
+595
+00:21:35,120 --> 00:21:38,320
+aspect daarvan is  hardheid begrijpen
+
+596
+00:21:38,320 --> 00:21:41,200
+hoe krijgen we harde problemen hoe bouwen we
+
+597
+00:21:41,200 --> 00:21:43,200
+eigenlijk wiskundig moeilijke
+
+598
+00:21:43,200 --> 00:21:45,360
+problemen zodat we ze vervolgens kunnen gebruiken
+
+599
+00:21:45,360 --> 00:21:47,200
+om efficiënte nul-kennisprogramma's te bouwen
+
+600
+00:21:47,200 --> 00:21:48,799
+en efficiënt of
+
+601
+00:21:48,799 --> 00:21:50,880
+kennisbewijzen juist ik denk dat je ook met
+
+602
+00:21:50,880 --> 00:21:53,039
+kwantumcomputing nog moeilijkere problemen nodig hebt,
+
+603
+00:21:53,039 --> 00:21:54,640
+absoluut jij  weet nu dat we het
+
+604
+00:21:54,640 --> 00:21:56,960
+hebben, we hebben het spook van
+
+605
+00:21:56,960 --> 00:21:59,200
+kwantumcomputing op ons afgekomen en we weten allemaal
+
+606
+00:21:59,200 --> 00:22:01,360
+dat kwantumcomputers
+
+607
+00:22:01,360 --> 00:22:03,280
+veel cryptografische gegevens kunnen breken dat is een grote
+
+608
+00:22:03,280 --> 00:22:04,799
+uitdaging het is een grote uitdaging, dus
+
+609
+00:22:04,799 --> 00:22:06,240
+kunnen we
+
+610
+00:22:06,240 --> 00:22:08,320
+nieuwe bronnen van hardheid vinden die
+
+611
+00:22:08,320 --> 00:22:10,400
+kwantumresistent zijn, zelfs kwantumcomputers  kan niet
+
+612
+00:22:10,400 --> 00:22:11,919
+breken en dat is iets waar ik
+
+613
+00:22:11,919 --> 00:22:13,440
+de afgelopen jaren aan heb gewerkt,
+
+614
+00:22:13,440 --> 00:22:14,880
+maar ik zou erg opgewonden zijn om te zien wat
+
+615
+00:22:14,880 --> 00:22:16,320
+er in die ruimte gebeurt, maar ik weet
+
+616
+00:22:16,320 --> 00:22:18,480
+zeker dat ze
+
+617
+00:22:18,480 --> 00:22:20,559
+mooie wiskunde zullen motiveren ja dat klopt,
+
+618
+00:22:20,559 --> 00:22:22,480
+je kent er een  van de geweldige dingen van
+
+619
+00:22:22,480 --> 00:22:23,840
+de echte wereld
+
+620
+00:22:23,840 --> 00:22:25,200
+is dat mensen in de echte wereld
+
+621
+00:22:25,200 --> 00:22:27,520
+eisen hebben en die eisen klinken vaak
+
+622
+00:22:27,520 --> 00:22:29,520
+onmogelijk en dat is waar we  kom binnen,
+
+623
+00:22:29,520 --> 00:22:31,120
+het is onze taak om het onmogelijke
+
+624
+00:22:31,120 --> 00:22:34,120
+mogelijk te maken
+

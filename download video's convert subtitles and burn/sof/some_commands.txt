@@ -1,0 +1,4 @@
+go mod init your_domain/sof
+go run . test.srt
+go build
+

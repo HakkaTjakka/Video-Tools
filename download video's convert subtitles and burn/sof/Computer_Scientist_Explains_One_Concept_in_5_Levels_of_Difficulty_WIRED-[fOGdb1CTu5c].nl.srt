@@ -1,0 +1,6194 @@
+1
+00:00:00,080 --> 00:00:01,990
+
+hallo mijn naam is amit sahai en ik ben een
+
+2
+00:00:01,990 --> 00:00:02,000
+hallo mijn naam is amit sahai en ik ben een
+ 
+
+3
+00:00:02,000 --> 00:00:03,510
+hallo mijn naam is amit sahai en ik ben een
+professor in computerwetenschappen aan de
+
+4
+00:00:03,510 --> 00:00:03,520
+professor in computerwetenschappen aan de
+ 
+
+5
+00:00:03,520 --> 00:00:06,309
+professor in computerwetenschappen aan de
+ucla samueli school of engineering vandaag
+
+6
+00:00:06,309 --> 00:00:06,319
+ucla samueli school of engineering vandaag
+ 
+
+7
+00:00:06,319 --> 00:00:07,749
+ucla samueli school of engineering vandaag
+ik ben gevraagd om nulkennisbewijzen uit te leggen
+
+8
+00:00:07,749 --> 00:00:07,759
+ik ben gevraagd om nulkennisbewijzen uit te leggen
+ 
+
+9
+00:00:07,759 --> 00:00:09,509
+ik ben gevraagd om nulkennisbewijzen uit te leggen
+in vijf niveaus van
+
+10
+00:00:09,509 --> 00:00:09,519
+in vijf niveaus van
+ 
+
+11
+00:00:09,519 --> 00:00:11,350
+in vijf niveaus van
+toenemende complexiteit een
+
+12
+00:00:11,350 --> 00:00:11,360
+toenemende complexiteit een
+ 
+
+13
+00:00:11,360 --> 00:00:13,669
+toenemende complexiteit een
+nulkennisbewijs is een manier voor goedkeurder
+
+14
+00:00:13,669 --> 00:00:13,679
+nulkennisbewijs is een manier voor goedkeurder
+ 
+
+15
+00:00:13,679 --> 00:00:15,350
+nulkennisbewijs is een manier voor goedkeurder
+om te overtuigen  een verificateur dat een
+
+16
+00:00:15,350 --> 00:00:15,360
+om te overtuigen  een verificateur dat een
+ 
+
+17
+00:00:15,360 --> 00:00:16,870
+om te overtuigen  een verificateur dat een
+verklaring waar is
+
+18
+00:00:16,870 --> 00:00:16,880
+verklaring waar is
+ 
+
+19
+00:00:16,880 --> 00:00:19,910
+verklaring waar is
+en toch geen aanvullende informatie onthult
+
+20
+00:00:19,910 --> 00:00:19,920
+en toch geen aanvullende informatie onthult
+ 
+
+21
+00:00:19,920 --> 00:00:21,429
+en toch geen aanvullende informatie onthult
+behalve het feit dat de verklaring
+
+22
+00:00:21,429 --> 00:00:21,439
+behalve het feit dat de verklaring
+ 
+
+23
+00:00:21,439 --> 00:00:23,109
+behalve het feit dat de verklaring
+waar is nul kennis bewijzen worden
+
+24
+00:00:23,109 --> 00:00:23,119
+waar is nul kennis bewijzen worden
+ 
+
+25
+00:00:23,119 --> 00:00:25,910
+waar is nul kennis bewijzen worden
+gebruikt in blockchains en cryptocurrencies,
+
+26
+00:00:25,910 --> 00:00:25,920
+gebruikt in blockchains en cryptocurrencies,
+ 
+
+27
+00:00:25,920 --> 00:00:27,990
+gebruikt in blockchains en cryptocurrencies,
+dus cryptografen zijn enthousiast over nul
+
+28
+00:00:27,990 --> 00:00:28,000
+dus cryptografen zijn enthousiast over nul
+ 
+
+29
+00:00:28,000 --> 00:00:30,310
+dus cryptografen zijn enthousiast over nul
+kennis vanwege de verbazingwekkende
+
+30
+00:00:30,310 --> 00:00:30,320
+kennis vanwege de verbazingwekkende
+ 
+
+31
+00:00:30,320 --> 00:00:32,709
+kennis vanwege de verbazingwekkende
+wiskundige eigenschappen maar ook
+
+32
+00:00:32,709 --> 00:00:32,719
+wiskundige eigenschappen maar ook
+ 
+
+33
+00:00:32,719 --> 00:00:34,709
+wiskundige eigenschappen maar ook
+vanwege de ongelooflijke  toepasbaarheid op
+
+34
+00:00:34,709 --> 00:00:34,719
+vanwege de ongelooflijke  toepasbaarheid op
+ 
+
+35
+00:00:34,719 --> 00:00:36,180
+vanwege de ongelooflijke  toepasbaarheid op
+zoveel verschillende scenario's
+
+36
+00:00:36,180 --> 00:00:36,190
+zoveel verschillende scenario's
+ 
+
+37
+00:00:36,190 --> 00:00:41,110
+zoveel verschillende scenario's
+[Muziek]
+
+38
+00:00:41,110 --> 00:00:41,120
+
+ 
+
+39
+00:00:41,120 --> 00:00:42,869
+
+wat is je favoriete onderwerp ik zou zeggen
+
+40
+00:00:42,869 --> 00:00:42,879
+wat is je favoriete onderwerp ik zou zeggen
+ 
+
+41
+00:00:42,879 --> 00:00:45,590
+wat is je favoriete onderwerp ik zou zeggen
+wiskunde sommige van deze kleine problemen kunnen
+
+42
+00:00:45,590 --> 00:00:45,600
+wiskunde sommige van deze kleine problemen kunnen
+ 
+
+43
+00:00:45,600 --> 00:00:48,310
+wiskunde sommige van deze kleine problemen kunnen
+echt heel groot en ingewikkeld zijn
+
+44
+00:00:48,310 --> 00:00:48,320
+echt heel groot en ingewikkeld zijn
+ 
+
+45
+00:00:48,320 --> 00:00:50,709
+echt heel groot en ingewikkeld zijn
+het is net een puzzel ik hou van wiskunde om
+
+46
+00:00:50,709 --> 00:00:50,719
+het is net een puzzel ik hou van wiskunde om
+ 
+
+47
+00:00:50,719 --> 00:00:52,389
+het is net een puzzel ik hou van wiskunde om
+dezelfde reden vandaag ga ik je vertellen
+
+48
+00:00:52,389 --> 00:00:52,399
+dezelfde reden vandaag ga ik je vertellen
+ 
+
+49
+00:00:52,399 --> 00:00:54,310
+dezelfde reden vandaag ga ik je vertellen
+over  een ding dat nulkennisbewijs wordt genoemd
+
+50
+00:00:54,310 --> 00:00:54,320
+over  een ding dat nulkennisbewijs wordt genoemd
+ 
+
+51
+00:00:54,320 --> 00:00:56,630
+over  een ding dat nulkennisbewijs wordt genoemd
+, dus in het nulkennisbewijs
+
+52
+00:00:56,630 --> 00:00:56,640
+, dus in het nulkennisbewijs
+ 
+
+53
+00:00:56,640 --> 00:00:59,910
+, dus in het nulkennisbewijs
+zijn er twee mensen, er is een goedkeurder
+
+54
+00:00:59,910 --> 00:00:59,920
+zijn er twee mensen, er is een goedkeurder
+ 
+
+55
+00:00:59,920 --> 00:01:03,189
+zijn er twee mensen, er is een goedkeurder
+en een verificateur en ik wil  bewijzen dat
+
+56
+00:01:03,189 --> 00:01:03,199
+en een verificateur en ik wil  bewijzen dat
+ 
+
+57
+00:01:03,199 --> 00:01:05,910
+en een verificateur en ik wil  bewijzen dat
+iets waar is voor jou, maar het
+
+58
+00:01:05,910 --> 00:01:05,920
+iets waar is voor jou, maar het
+ 
+
+59
+00:01:05,920 --> 00:01:07,990
+iets waar is voor jou, maar het
+rare is dat ik je wil bewijzen dat
+
+60
+00:01:07,990 --> 00:01:08,000
+rare is dat ik je wil bewijzen dat
+ 
+
+61
+00:01:08,000 --> 00:01:10,390
+rare is dat ik je wil bewijzen dat
+het waar is zonder je enige reden te vertellen
+
+62
+00:01:10,390 --> 00:01:10,400
+het waar is zonder je enige reden te vertellen
+ 
+
+63
+00:01:10,400 --> 00:01:12,230
+het waar is zonder je enige reden te vertellen
+waarom ik me herinner toen ik er voor het eerst
+
+64
+00:01:12,230 --> 00:01:12,240
+waarom ik me herinner toen ik er voor het eerst
+ 
+
+65
+00:01:12,240 --> 00:01:14,469
+waarom ik me herinner toen ik er voor het eerst
+over hoorde ik dacht wacht wat hoe
+
+66
+00:01:14,469 --> 00:01:14,479
+over hoorde ik dacht wacht wat hoe
+ 
+
+67
+00:01:14,479 --> 00:01:17,030
+over hoorde ik dacht wacht wat hoe
+zou dat kunnen kloppen ja dus
+
+68
+00:01:17,030 --> 00:01:17,040
+zou dat kunnen kloppen ja dus
+ 
+
+69
+00:01:17,040 --> 00:01:19,190
+zou dat kunnen kloppen ja dus
+wat doe  je ziet op deze foto veel
+
+70
+00:01:19,190 --> 00:01:19,200
+wat doe  je ziet op deze foto veel
+ 
+
+71
+00:01:19,200 --> 00:01:21,429
+wat doe  je ziet op deze foto veel
+pinguïns ja verstopt tussen al deze
+
+72
+00:01:21,429 --> 00:01:21,439
+pinguïns ja verstopt tussen al deze
+ 
+
+73
+00:01:21,439 --> 00:01:23,429
+pinguïns ja verstopt tussen al deze
+pinguïns zit een papegaaiduiker wil je proberen ernaar
+
+74
+00:01:23,429 --> 00:01:23,439
+pinguïns zit een papegaaiduiker wil je proberen ernaar
+ 
+
+75
+00:01:23,439 --> 00:01:27,350
+pinguïns zit een papegaaiduiker wil je proberen ernaar
+te zoeken zie je waar het is
+
+76
+00:01:27,350 --> 00:01:27,360
+te zoeken zie je waar het is
+ 
+
+77
+00:01:27,360 --> 00:01:29,990
+te zoeken zie je waar het is
+hmm ik weet waar het is maar ik wil het
+
+78
+00:01:29,990 --> 00:01:30,000
+hmm ik weet waar het is maar ik wil het
+ 
+
+79
+00:01:30,000 --> 00:01:32,469
+hmm ik weet waar het is maar ik wil het
+je niet vertellen he  geloof me
+
+80
+00:01:32,469 --> 00:01:32,479
+je niet vertellen he  geloof me
+ 
+
+81
+00:01:32,479 --> 00:01:35,429
+je niet vertellen he  geloof me
+je weet niet zeker of je me goed gelooft ja
+
+82
+00:01:35,429 --> 00:01:35,439
+je weet niet zeker of je me goed gelooft ja
+ 
+
+83
+00:01:35,439 --> 00:01:37,990
+je weet niet zeker of je me goed gelooft ja
+maar wat als ik je zou kunnen bewijzen dat ik
+
+84
+00:01:37,990 --> 00:01:38,000
+maar wat als ik je zou kunnen bewijzen dat ik
+ 
+
+85
+00:01:38,000 --> 00:01:39,749
+maar wat als ik je zou kunnen bewijzen dat ik
+weet waar de papegaaiduiker is zonder je te
+
+86
+00:01:39,749 --> 00:01:39,759
+weet waar de papegaaiduiker is zonder je te
+ 
+
+87
+00:01:39,759 --> 00:01:41,990
+weet waar de papegaaiduiker is zonder je te
+onthullen waar het is laat me je laten
+
+88
+00:01:41,990 --> 00:01:42,000
+onthullen waar het is laat me je laten
+ 
+
+89
+00:01:42,000 --> 00:01:45,590
+onthullen waar het is laat me je laten
+zien
+
+90
+00:01:45,590 --> 00:01:45,600
+
+ 
+
+91
+00:01:45,600 --> 00:01:48,230
+
+ik heb die foto genomen die we je lieten zien en
+
+92
+00:01:48,230 --> 00:01:48,240
+ik heb die foto genomen die we je lieten zien en
+ 
+
+93
+00:01:48,240 --> 00:01:50,630
+ik heb die foto genomen die we je lieten zien en
+ik plaats hem  achter deze poster hier waarom
+
+94
+00:01:50,630 --> 00:01:50,640
+ik plaats hem  achter deze poster hier waarom
+ 
+
+95
+00:01:50,640 --> 00:01:51,830
+ik plaats hem  achter deze poster hier waarom
+ga je niet eens door dat
+
+96
+00:01:51,830 --> 00:01:51,840
+ga je niet eens door dat
+ 
+
+97
+00:01:51,840 --> 00:01:55,670
+ga je niet eens door dat
+gat kijken
+
+98
+00:01:55,670 --> 00:01:55,680
+
+ 
+
+99
+00:01:55,680 --> 00:01:57,830
+
+ik zie de wallen dus als je naar
+
+100
+00:01:57,830 --> 00:01:57,840
+ik zie de wallen dus als je naar
+ 
+
+101
+00:01:57,840 --> 00:01:59,749
+ik zie de wallen dus als je naar
+dit bord kijkt weten we niet waar de
+
+102
+00:01:59,749 --> 00:01:59,759
+dit bord kijkt weten we niet waar de
+ 
+
+103
+00:01:59,759 --> 00:02:02,069
+dit bord kijkt weten we niet waar de
+juiste foto was was de foto zoals met de
+
+104
+00:02:02,069 --> 00:02:02,079
+juiste foto was was de foto zoals met de
+ 
+
+105
+00:02:02,079 --> 00:02:04,310
+juiste foto was was de foto zoals met de
+hoek hier in welk geval de papegaaiduiker
+
+106
+00:02:04,310 --> 00:02:04,320
+hoek hier in welk geval de papegaaiduiker
+ 
+
+107
+00:02:04,320 --> 00:02:06,389
+hoek hier in welk geval de papegaaiduiker
+zou helemaal aan deze kant zijn of was
+
+108
+00:02:06,389 --> 00:02:06,399
+zou helemaal aan deze kant zijn of was
+ 
+
+109
+00:02:06,399 --> 00:02:08,309
+zou helemaal aan deze kant zijn of was
+de foto met de hoek hier omdat
+
+110
+00:02:08,309 --> 00:02:08,319
+de foto met de hoek hier omdat
+ 
+
+111
+00:02:08,319 --> 00:02:09,990
+de foto met de hoek hier omdat
+het polijsten zou aan de andere kant zijn,
+
+112
+00:02:09,990 --> 00:02:10,000
+het polijsten zou aan de andere kant zijn,
+ 
+
+113
+00:02:10,000 --> 00:02:13,350
+het polijsten zou aan de andere kant zijn,
+dus dit is een heel eenvoudig voorbeeld van een
+
+114
+00:02:13,350 --> 00:02:13,360
+dus dit is een heel eenvoudig voorbeeld van een
+ 
+
+115
+00:02:13,360 --> 00:02:15,589
+dus dit is een heel eenvoudig voorbeeld van een
+nulkennisbewijs ik heb je ervan overtuigd
+
+116
+00:02:15,589 --> 00:02:15,599
+nulkennisbewijs ik heb je ervan overtuigd
+ 
+
+117
+00:02:15,599 --> 00:02:17,430
+nulkennisbewijs ik heb je ervan overtuigd
+dat ik wist waar de papegaaiduiker was,
+
+118
+00:02:17,430 --> 00:02:17,440
+dat ik wist waar de papegaaiduiker was,
+ 
+
+119
+00:02:17,440 --> 00:02:19,589
+dat ik wist waar de papegaaiduiker was,
+maar je hebt niets anders geleerd
+
+120
+00:02:19,589 --> 00:02:19,599
+maar je hebt niets anders geleerd
+ 
+
+121
+00:02:19,599 --> 00:02:21,910
+maar je hebt niets anders geleerd
+waarom studeer je nulkennisbewijs toen ik het voor het
+
+122
+00:02:21,910 --> 00:02:21,920
+waarom studeer je nulkennisbewijs toen ik het voor het
+ 
+
+123
+00:02:21,920 --> 00:02:23,270
+waarom studeer je nulkennisbewijs toen ik het voor het
+eerst leerde  over hen vond ik
+
+124
+00:02:23,270 --> 00:02:23,280
+eerst leerde  over hen vond ik
+ 
+
+125
+00:02:23,280 --> 00:02:25,110
+eerst leerde  over hen vond ik
+ze gewoon zo cool, maar het blijkt dat
+
+126
+00:02:25,110 --> 00:02:25,120
+ze gewoon zo cool, maar het blijkt dat
+ 
+
+127
+00:02:25,120 --> 00:02:27,030
+ze gewoon zo cool, maar het blijkt dat
+ze ook erg handig zijn, niet alleen om
+
+128
+00:02:27,030 --> 00:02:27,040
+ze ook erg handig zijn, niet alleen om
+ 
+
+129
+00:02:27,040 --> 00:02:29,270
+ze ook erg handig zijn, niet alleen om
+papegaaiduikers te vinden als je gewoon
+
+130
+00:02:29,270 --> 00:02:29,280
+papegaaiduikers te vinden als je gewoon
+ 
+
+131
+00:02:29,280 --> 00:02:31,509
+papegaaiduikers te vinden als je gewoon
+je wachtwoord typt en de hacker hackt
+
+132
+00:02:31,509 --> 00:02:31,519
+je wachtwoord typt en de hacker hackt
+ 
+
+133
+00:02:31,519 --> 00:02:33,030
+je wachtwoord typt en de hacker hackt
+de computer, ze kunnen gewoon je
+
+134
+00:02:33,030 --> 00:02:33,040
+de computer, ze kunnen gewoon je
+ 
+
+135
+00:02:33,040 --> 00:02:36,150
+de computer, ze kunnen gewoon je
+wachtwoord goed krijgen ja, wat als in plaats daarvan  we
+
+136
+00:02:36,150 --> 00:02:36,160
+wachtwoord goed krijgen ja, wat als in plaats daarvan  we
+ 
+
+137
+00:02:36,160 --> 00:02:39,990
+wachtwoord goed krijgen ja, wat als in plaats daarvan  we
+zouden op de een of andere manier een nulkennisbewijs kunnen gebruiken
+
+138
+00:02:39,990 --> 00:02:40,000
+zouden op de een of andere manier een nulkennisbewijs kunnen gebruiken
+ 
+
+139
+00:02:40,000 --> 00:02:41,910
+zouden op de een of andere manier een nulkennisbewijs kunnen gebruiken
+om in te loggen, je zou gewoon kunnen
+
+140
+00:02:41,910 --> 00:02:41,920
+om in te loggen, je zou gewoon kunnen
+ 
+
+141
+00:02:41,920 --> 00:02:42,869
+om in te loggen, je zou gewoon kunnen
+bewijzen
+
+142
+00:02:42,869 --> 00:02:42,879
+bewijzen
+ 
+
+143
+00:02:42,879 --> 00:02:45,509
+bewijzen
+dat hey ik ben Chelsea zonder
+
+144
+00:02:45,509 --> 00:02:45,519
+dat hey ik ben Chelsea zonder
+ 
+
+145
+00:02:45,519 --> 00:02:47,910
+dat hey ik ben Chelsea zonder
+iets aan hen te onthullen als je dat zou kunnen doen,
+
+146
+00:02:47,910 --> 00:02:47,920
+iets aan hen te onthullen als je dat zou kunnen doen,
+ 
+
+147
+00:02:47,920 --> 00:02:50,309
+iets aan hen te onthullen als je dat zou kunnen doen,
+dan zou het geweldig zijn, ja,
+
+148
+00:02:50,309 --> 00:02:50,319
+dan zou het geweldig zijn, ja,
+ 
+
+149
+00:02:50,319 --> 00:02:52,309
+dan zou het geweldig zijn, ja,
+want zelfs als de hacker
+
+150
+00:02:52,309 --> 00:02:52,319
+want zelfs als de hacker
+ 
+
+151
+00:02:52,319 --> 00:02:53,910
+want zelfs als de hacker
+in de  computer hij zou niets leren
+
+152
+00:02:53,910 --> 00:02:53,920
+in de  computer hij zou niets leren
+ 
+
+153
+00:02:53,920 --> 00:02:55,430
+in de  computer hij zou niets leren
+want zelfs de computer
+
+154
+00:02:55,430 --> 00:02:55,440
+want zelfs de computer
+ 
+
+155
+00:02:55,440 --> 00:02:57,750
+want zelfs de computer
+leert niets dus chelsea in
+
+156
+00:02:57,750 --> 00:02:57,760
+leert niets dus chelsea in
+ 
+
+157
+00:02:57,760 --> 00:02:59,830
+leert niets dus chelsea in
+je eigen woorden wat is azuur kennis
+
+158
+00:02:59,830 --> 00:02:59,840
+je eigen woorden wat is azuur kennis
+ 
+
+159
+00:02:59,840 --> 00:03:02,949
+je eigen woorden wat is azuur kennis
+bewijs nul kennis bewijs
+
+160
+00:03:02,949 --> 00:03:02,959
+bewijs nul kennis bewijs
+ 
+
+161
+00:03:02,959 --> 00:03:05,990
+bewijs nul kennis bewijs
+is bewijs voor een stelling je laat
+
+162
+00:03:05,990 --> 00:03:06,000
+is bewijs voor een stelling je laat
+ 
+
+163
+00:03:06,000 --> 00:03:07,430
+is bewijs voor een stelling je laat
+ze niet zien waarom of
+
+164
+00:03:07,430 --> 00:03:07,440
+ze niet zien waarom of
+ 
+
+165
+00:03:07,440 --> 00:03:10,229
+ze niet zien waarom of
+wat je j  we moeten ze een klein segment laten zien
+
+166
+00:03:10,229 --> 00:03:10,239
+wat je j  we moeten ze een klein segment laten zien
+ 
+
+167
+00:03:10,239 --> 00:03:11,110
+wat je j  we moeten ze een klein segment laten zien
+of
+
+168
+00:03:11,110 --> 00:03:11,120
+of
+ 
+
+169
+00:03:11,120 --> 00:03:13,589
+of
+gewoon een of andere
+
+170
+00:03:13,589 --> 00:03:13,599
+gewoon een of andere
+ 
+
+171
+00:03:13,599 --> 00:03:16,710
+gewoon een of andere
+rare goocheltruc doen die niet echt een
+
+172
+00:03:16,710 --> 00:03:16,720
+rare goocheltruc doen die niet echt een
+ 
+
+173
+00:03:16,720 --> 00:03:18,550
+rare goocheltruc doen die niet echt een
+goocheltruc is
+
+174
+00:03:18,550 --> 00:03:18,560
+goocheltruc is
+ 
+
+175
+00:03:18,560 --> 00:03:20,869
+goocheltruc is
+en ze zullen overtuigd zijn en je
+
+176
+00:03:20,869 --> 00:03:20,879
+en ze zullen overtuigd zijn en je
+ 
+
+177
+00:03:20,879 --> 00:03:23,589
+en ze zullen overtuigd zijn en je
+hebt ze niet laten zien waarom of iets dergelijks
+
+178
+00:03:23,589 --> 00:03:23,599
+hebt ze niet laten zien waarom of iets dergelijks
+ 
+
+179
+00:03:23,599 --> 00:03:31,110
+hebt ze niet laten zien waarom of iets dergelijks
+,
+
+180
+00:03:31,110 --> 00:03:31,120
+
+ 
+
+181
+00:03:31,120 --> 00:03:32,869
+
+dus heb je ooit de term zero
+
+182
+00:03:32,869 --> 00:03:32,879
+dus heb je ooit de term zero
+ 
+
+183
+00:03:32,879 --> 00:03:36,070
+dus heb je ooit de term zero
+knowledge proof gehoord voordat ik  heb geen
+
+184
+00:03:36,070 --> 00:03:36,080
+knowledge proof gehoord voordat ik  heb geen
+ 
+
+185
+00:03:36,080 --> 00:03:39,270
+knowledge proof gehoord voordat ik  heb geen
+recht, het is een manier voor goedkeurder
+
+186
+00:03:39,270 --> 00:03:39,280
+recht, het is een manier voor goedkeurder
+ 
+
+187
+00:03:39,280 --> 00:03:41,589
+recht, het is een manier voor goedkeurder
+om een verificateur ervan te overtuigen
+
+188
+00:03:41,589 --> 00:03:41,599
+om een verificateur ervan te overtuigen
+ 
+
+189
+00:03:41,599 --> 00:03:44,390
+om een verificateur ervan te overtuigen
+dat iets waar is zonder iets te onthullen
+
+190
+00:03:44,390 --> 00:03:44,400
+dat iets waar is zonder iets te onthullen
+ 
+
+191
+00:03:44,400 --> 00:03:46,070
+dat iets waar is zonder iets te onthullen
+over waarom het waar is, wat
+
+192
+00:03:46,070 --> 00:03:46,080
+over waarom het waar is, wat
+ 
+
+193
+00:03:46,080 --> 00:03:48,070
+over waarom het waar is, wat
+volkomen bizar klinkt, zoals hoe
+
+194
+00:03:48,070 --> 00:03:48,080
+volkomen bizar klinkt, zoals hoe
+ 
+
+195
+00:03:48,080 --> 00:03:50,789
+volkomen bizar klinkt, zoals hoe
+kan dat zijn wat ik wil doen,
+
+196
+00:03:50,789 --> 00:03:50,799
+kan dat zijn wat ik wil doen,
+ 
+
+197
+00:03:50,799 --> 00:03:53,350
+kan dat zijn wat ik wil doen,
+je bewijzen dat ik deze
+
+198
+00:03:53,350 --> 00:03:53,360
+je bewijzen dat ik deze
+ 
+
+199
+00:03:53,360 --> 00:03:55,190
+je bewijzen dat ik deze
+combinatie ken zonder  de
+
+200
+00:03:55,190 --> 00:03:55,200
+combinatie ken zonder  de
+ 
+
+201
+00:03:55,200 --> 00:03:56,949
+combinatie ken zonder  de
+combinatie aan jou onthullen en wat je zou kunnen doen
+
+202
+00:03:56,949 --> 00:03:56,959
+combinatie aan jou onthullen en wat je zou kunnen doen
+ 
+
+203
+00:03:56,959 --> 00:03:58,309
+combinatie aan jou onthullen en wat je zou kunnen doen
+is een klein briefje schrijven een
+
+204
+00:03:58,309 --> 00:03:58,319
+is een klein briefje schrijven een
+ 
+
+205
+00:03:58,319 --> 00:04:00,229
+is een klein briefje schrijven een
+geheim dat ik zeker niet zou weten
+
+206
+00:04:00,229 --> 00:04:00,239
+geheim dat ik zeker niet zou weten
+ 
+
+207
+00:04:00,239 --> 00:04:02,390
+geheim dat ik zeker niet zou weten
+vouw het op, plak het hier en als
+
+208
+00:04:02,390 --> 00:04:02,400
+vouw het op, plak het hier en als
+ 
+
+209
+00:04:02,400 --> 00:04:03,990
+vouw het op, plak het hier en als
+ik de combinatie weet, zou ik het moeten
+
+210
+00:04:03,990 --> 00:04:04,000
+ik de combinatie weet, zou ik het moeten
+ 
+
+211
+00:04:04,000 --> 00:04:07,830
+ik de combinatie weet, zou ik het moeten
+kunnen openen en het je vertellen  wat je
+
+212
+00:04:07,830 --> 00:04:07,840
+kunnen openen en het je vertellen  wat je
+ 
+
+213
+00:04:07,840 --> 00:04:13,990
+kunnen openen en het je vertellen  wat je
+schreef oke
+
+214
+00:04:13,990 --> 00:04:14,000
+
+ 
+
+215
+00:04:14,000 --> 00:04:16,229
+
+daar gaan
+
+216
+00:04:16,229 --> 00:04:16,239
+daar gaan
+ 
+
+217
+00:04:16,239 --> 00:04:17,749
+daar gaan
+we goed
+
+218
+00:04:17,749 --> 00:04:17,759
+we goed
+ 
+
+219
+00:04:17,759 --> 00:04:19,670
+we goed
+dus
+
+220
+00:04:19,670 --> 00:04:19,680
+dus
+ 
+
+221
+00:04:19,680 --> 00:04:21,990
+dus
+mijn hond heet doug ben je erachter gekomen
+
+222
+00:04:21,990 --> 00:04:22,000
+mijn hond heet doug ben je erachter gekomen
+ 
+
+223
+00:04:22,000 --> 00:04:24,469
+mijn hond heet doug ben je erachter gekomen
+wat de combinatie was nee dus nergens
+
+224
+00:04:24,469 --> 00:04:24,479
+wat de combinatie was nee dus nergens
+ 
+
+225
+00:04:24,479 --> 00:04:27,030
+wat de combinatie was nee dus nergens
+in deze interactie heb
+
+226
+00:04:27,030 --> 00:04:27,040
+in deze interactie heb
+ 
+
+227
+00:04:27,040 --> 00:04:28,629
+in deze interactie heb
+je informatie gezien die je nog
+
+228
+00:04:28,629 --> 00:04:28,639
+je informatie gezien die je nog
+ 
+
+229
+00:04:28,639 --> 00:04:31,350
+je informatie gezien die je nog
+niet wist en toch heb ik geconvi  Ik heb je gezegd
+
+230
+00:04:31,350 --> 00:04:31,360
+niet wist en toch heb ik geconvi  Ik heb je gezegd
+ 
+
+231
+00:04:31,360 --> 00:04:33,030
+niet wist en toch heb ik geconvi  Ik heb je gezegd
+dat ik de combinatie ken,
+
+232
+00:04:33,030 --> 00:04:33,040
+dat ik de combinatie ken,
+ 
+
+233
+00:04:33,040 --> 00:04:34,950
+dat ik de combinatie ken,
+ja, dus
+
+234
+00:04:34,950 --> 00:04:34,960
+ja, dus
+ 
+
+235
+00:04:34,960 --> 00:04:37,189
+ja, dus
+wat is het exacte doel van azuurblauw
+
+236
+00:04:37,189 --> 00:04:37,199
+wat is het exacte doel van azuurblauw
+ 
+
+237
+00:04:37,199 --> 00:04:39,270
+wat is het exacte doel van azuurblauw
+kennisbewijs, is het alsof je
+
+238
+00:04:39,270 --> 00:04:39,280
+kennisbewijs, is het alsof je
+ 
+
+239
+00:04:39,280 --> 00:04:41,909
+kennisbewijs, is het alsof je
+iets bewijst, maar zonder
+
+240
+00:04:41,909 --> 00:04:41,919
+iets bewijst, maar zonder
+ 
+
+241
+00:04:41,919 --> 00:04:44,150
+iets bewijst, maar zonder
+voldoende informatie te geven die in
+
+242
+00:04:44,150 --> 00:04:44,160
+voldoende informatie te geven die in
+ 
+
+243
+00:04:44,160 --> 00:04:46,070
+voldoende informatie te geven die in
+gevaar kan komen, wat je ook bewijst,
+
+244
+00:04:46,070 --> 00:04:46,080
+gevaar kan komen, wat je ook bewijst,
+ 
+
+245
+00:04:46,080 --> 00:04:47,830
+gevaar kan komen, wat je ook bewijst,
+dus je vraagt je af, waarom zou ik niet
+
+246
+00:04:47,830 --> 00:04:47,840
+dus je vraagt je af, waarom zou ik niet
+ 
+
+247
+00:04:47,840 --> 00:04:49,510
+dus je vraagt je af, waarom zou ik niet
+gewoon  mijn geheimen met iemand delen
+
+248
+00:04:49,510 --> 00:04:49,520
+gewoon  mijn geheimen met iemand delen
+ 
+
+249
+00:04:49,520 --> 00:04:51,670
+gewoon  mijn geheimen met iemand delen
+mensen vertrouwen elkaar niet en als ik
+
+250
+00:04:51,670 --> 00:04:51,680
+mensen vertrouwen elkaar niet en als ik
+ 
+
+251
+00:04:51,680 --> 00:04:53,350
+mensen vertrouwen elkaar niet en als ik
+zou kunnen bewijzen dat ik iemand iets correct heb aangedaan
+
+252
+00:04:53,350 --> 00:04:54,870
+zou kunnen bewijzen dat ik iemand iets correct heb aangedaan
+ 
+
+253
+00:04:54,870 --> 00:04:54,880
+
+ 
+
+254
+00:04:54,880 --> 00:04:57,270
+
+zonder mijn geheimen te hoeven
+
+255
+00:04:57,270 --> 00:04:57,280
+zonder mijn geheimen te hoeven
+ 
+
+256
+00:04:57,280 --> 00:04:59,110
+zonder mijn geheimen te hoeven
+prijsgeven, dan zou die persoon me meer vertrouwen.
+
+257
+00:04:59,110 --> 00:05:01,670
+prijsgeven, dan zou die persoon me meer vertrouwen.
+ 
+
+258
+00:05:01,670 --> 00:05:01,680
+
+ 
+
+259
+00:05:01,680 --> 00:05:03,590
+
+je typt het op een
+
+260
+00:05:03,590 --> 00:05:03,600
+je typt het op een
+ 
+
+261
+00:05:03,600 --> 00:05:04,950
+je typt het op een
+computer en iemand anders ontvangt het
+
+262
+00:05:04,950 --> 00:05:04,960
+computer en iemand anders ontvangt het
+ 
+
+263
+00:05:04,960 --> 00:05:07,189
+computer en iemand anders ontvangt het
+of is het een persoonlijke interactie
+
+264
+00:05:07,189 --> 00:05:07,199
+of is het een persoonlijke interactie
+ 
+
+265
+00:05:07,199 --> 00:05:09,350
+of is het een persoonlijke interactie
+stel dat je berichten
+
+266
+00:05:09,350 --> 00:05:09,360
+stel dat je berichten
+ 
+
+267
+00:05:09,360 --> 00:05:10,790
+stel dat je berichten
+met iemand wilt uitwisselen waarvan je wist wat
+
+268
+00:05:10,790 --> 00:05:10,800
+met iemand wilt uitwisselen waarvan je wist wat
+ 
+
+269
+00:05:10,800 --> 00:05:12,629
+met iemand wilt uitwisselen waarvan je wist wat
+jullie zouden doen jullie zouden waarschijnlijk eerst bij
+
+270
+00:05:12,629 --> 00:05:12,639
+jullie zouden doen jullie zouden waarschijnlijk eerst bij
+ 
+
+271
+00:05:12,639 --> 00:05:14,469
+jullie zouden doen jullie zouden waarschijnlijk eerst bij
+elkaar komen en graag een geheime
+
+272
+00:05:14,469 --> 00:05:14,479
+elkaar komen en graag een geheime
+ 
+
+273
+00:05:14,479 --> 00:05:16,150
+elkaar komen en graag een geheime
+code uitvinden  en dan graag berichten
+
+274
+00:05:16,150 --> 00:05:16,160
+code uitvinden  en dan graag berichten
+ 
+
+275
+00:05:16,160 --> 00:05:17,749
+code uitvinden  en dan graag berichten
+naar elkaar schrijven in die code, maar wat als
+
+276
+00:05:17,749 --> 00:05:17,759
+naar elkaar schrijven in die code, maar wat als
+ 
+
+277
+00:05:17,759 --> 00:05:19,909
+naar elkaar schrijven in die code, maar wat als
+je de persoon nog nooit eerder hebt ontmoet, wat
+
+278
+00:05:19,909 --> 00:05:19,919
+je de persoon nog nooit eerder hebt ontmoet, wat
+ 
+
+279
+00:05:19,919 --> 00:05:21,430
+je de persoon nog nooit eerder hebt ontmoet, wat
+als je geheime berichten
+
+280
+00:05:21,430 --> 00:05:21,440
+als je geheime berichten
+ 
+
+281
+00:05:21,440 --> 00:05:22,870
+als je geheime berichten
+met mij wilt uitwisselen en we elkaar nog nooit eerder hebben ontmoet
+
+282
+00:05:22,870 --> 00:05:22,880
+met mij wilt uitwisselen en we elkaar nog nooit eerder hebben ontmoet
+ 
+
+283
+00:05:22,880 --> 00:05:25,350
+met mij wilt uitwisselen en we elkaar nog nooit eerder hebben ontmoet
+hoe zouden we dat kunnen doen
+
+284
+00:05:25,350 --> 00:05:25,360
+hoe zouden we dat kunnen doen
+ 
+
+285
+00:05:25,360 --> 00:05:27,909
+hoe zouden we dat kunnen doen
+ik heb geen idee dat het onmogelijk klinkt
+
+286
+00:05:27,909 --> 00:05:27,919
+ik heb geen idee dat het onmogelijk klinkt
+ 
+
+287
+00:05:27,919 --> 00:05:28,950
+ik heb geen idee dat het onmogelijk klinkt
+,
+
+288
+00:05:28,950 --> 00:05:28,960
+,
+ 
+
+289
+00:05:28,960 --> 00:05:30,950
+,
+maar het is niet zo, we zouden het niet gebruiken als een
+
+290
+00:05:30,950 --> 00:05:30,960
+maar het is niet zo, we zouden het niet gebruiken als een
+ 
+
+291
+00:05:30,960 --> 00:05:33,749
+maar het is niet zo, we zouden het niet gebruiken als een
+fysiek slot of een fysieke doos we zouden in
+
+292
+00:05:33,749 --> 00:05:33,759
+fysiek slot of een fysieke doos we zouden in
+ 
+
+293
+00:05:33,759 --> 00:05:35,749
+fysiek slot of een fysieke doos we zouden in
+plaats daarvan wiskunde gebruiken om dit
+
+294
+00:05:35,749 --> 00:05:35,759
+plaats daarvan wiskunde gebruiken om dit
+ 
+
+295
+00:05:35,759 --> 00:05:38,629
+plaats daarvan wiskunde gebruiken om dit
+soort dingen te doen je zou een bericht kunnen nemen
+
+296
+00:05:38,629 --> 00:05:38,639
+soort dingen te doen je zou een bericht kunnen nemen
+ 
+
+297
+00:05:38,639 --> 00:05:40,870
+soort dingen te doen je zou een bericht kunnen nemen
+en versleutelen  het met behulp van wiskunde en
+
+298
+00:05:40,870 --> 00:05:40,880
+en versleutelen  het met behulp van wiskunde en
+ 
+
+299
+00:05:40,880 --> 00:05:42,469
+en versleutelen  het met behulp van wiskunde en
+dan kan ik je bewijzen dat
+
+300
+00:05:42,469 --> 00:05:42,479
+dan kan ik je bewijzen dat
+ 
+
+301
+00:05:42,479 --> 00:05:44,390
+dan kan ik je bewijzen dat
+ik de sleutel
+
+302
+00:05:44,390 --> 00:05:46,150
+ik de sleutel
+ 
+
+303
+00:05:46,150 --> 00:05:46,160
+
+ 
+
+304
+00:05:46,160 --> 00:05:48,469
+
+ken.
+
+305
+00:05:48,469 --> 00:05:51,510
+ken.
+ 
+
+306
+00:05:51,510 --> 00:05:51,520
+
+ 
+
+307
+00:05:51,520 --> 00:05:53,430
+
+heb vandaag in je eigen
+
+308
+00:05:53,430 --> 00:05:53,440
+heb vandaag in je eigen
+ 
+
+309
+00:05:53,440 --> 00:05:55,350
+heb vandaag in je eigen
+woorden besproken wat een nulkennisbewijs is,
+
+310
+00:05:55,350 --> 00:05:55,360
+woorden besproken wat een nulkennisbewijs is,
+ 
+
+311
+00:05:55,360 --> 00:05:57,510
+woorden besproken wat een nulkennisbewijs is,
+het is alsof je een heel
+
+312
+00:05:57,510 --> 00:05:57,520
+het is alsof je een heel
+ 
+
+313
+00:05:57,520 --> 00:05:59,590
+het is alsof je een heel
+belangrijk geheim hebt waarvan je wilt dat iemand
+
+314
+00:05:59,590 --> 00:05:59,600
+belangrijk geheim hebt waarvan je wilt dat iemand
+ 
+
+315
+00:05:59,600 --> 00:06:01,590
+belangrijk geheim hebt waarvan je wilt dat iemand
+het weet, maar je wilt
+
+316
+00:06:01,590 --> 00:06:01,600
+het weet, maar je wilt
+ 
+
+317
+00:06:01,600 --> 00:06:04,390
+het weet, maar je wilt
+ze niet alles vertellen wat je kunt gebruiken als je
+
+318
+00:06:04,390 --> 00:06:04,400
+ze niet alles vertellen wat je kunt gebruiken als je
+ 
+
+319
+00:06:04,400 --> 00:06:06,629
+ze niet alles vertellen wat je kunt gebruiken als je
+kennisbewijs om te bewijzen dat  ze dat
+
+320
+00:06:06,629 --> 00:06:06,639
+kennisbewijs om te bewijzen dat  ze dat
+ 
+
+321
+00:06:06,639 --> 00:06:08,960
+kennisbewijs om te bewijzen dat  ze dat
+geheim, maar niet alles verklappen
+
+322
+00:06:08,960 --> 00:06:08,970
+geheim, maar niet alles verklappen
+ 
+
+323
+00:06:08,970 --> 00:06:13,670
+geheim, maar niet alles verklappen
+[Muziek]
+
+324
+00:06:13,670 --> 00:06:13,680
+
+ 
+
+325
+00:06:13,680 --> 00:06:15,590
+
+wat studeer je ik ben een eerstejaars
+
+326
+00:06:15,590 --> 00:06:15,600
+wat studeer je ik ben een eerstejaars
+ 
+
+327
+00:06:15,600 --> 00:06:17,990
+wat studeer je ik ben een eerstejaars
+student computerwetenschappen aan usc viterbi
+
+328
+00:06:17,990 --> 00:06:18,000
+student computerwetenschappen aan usc viterbi
+ 
+
+329
+00:06:18,000 --> 00:06:20,070
+student computerwetenschappen aan usc viterbi
+ik ben geïnteresseerd in alles zoals data
+
+330
+00:06:20,070 --> 00:06:20,080
+ik ben geïnteresseerd in alles zoals data
+ 
+
+331
+00:06:20,080 --> 00:06:21,749
+ik ben geïnteresseerd in alles zoals data
+en internet en blockchain en
+
+332
+00:06:21,749 --> 00:06:21,759
+en internet en blockchain en
+ 
+
+333
+00:06:21,759 --> 00:06:23,430
+en internet en blockchain en
+cryptocurrency heb je ooit gehoord van
+
+334
+00:06:23,430 --> 00:06:23,440
+cryptocurrency heb je ooit gehoord van
+ 
+
+335
+00:06:23,440 --> 00:06:25,830
+cryptocurrency heb je ooit gehoord van
+nul weet  richel bewijst alleen terloops, dus
+
+336
+00:06:25,830 --> 00:06:25,840
+nul weet  richel bewijst alleen terloops, dus
+ 
+
+337
+00:06:25,840 --> 00:06:27,830
+nul weet  richel bewijst alleen terloops, dus
+eigenlijk in de blockchain-ruimte is een
+
+338
+00:06:27,830 --> 00:06:27,840
+eigenlijk in de blockchain-ruimte is een
+ 
+
+339
+00:06:27,840 --> 00:06:29,670
+eigenlijk in de blockchain-ruimte is een
+van de ruimtes waar we zien dat
+
+340
+00:06:29,670 --> 00:06:29,680
+van de ruimtes waar we zien dat
+ 
+
+341
+00:06:29,680 --> 00:06:31,590
+van de ruimtes waar we zien dat
+nulkennisbewijzen worden geïmplementeerd en
+
+342
+00:06:31,590 --> 00:06:31,600
+nulkennisbewijzen worden geïmplementeerd en
+ 
+
+343
+00:06:31,600 --> 00:06:33,110
+nulkennisbewijzen worden geïmplementeerd en
+uh en ik denk dat dit nog maar het begin is,
+
+344
+00:06:33,110 --> 00:06:33,120
+uh en ik denk dat dit nog maar het begin is,
+ 
+
+345
+00:06:33,120 --> 00:06:34,790
+uh en ik denk dat dit nog maar het begin is,
+laten we het hebben over nulkennisbewijzen
+
+346
+00:06:34,790 --> 00:06:34,800
+laten we het hebben over nulkennisbewijzen
+ 
+
+347
+00:06:34,800 --> 00:06:37,510
+laten we het hebben over nulkennisbewijzen
+in de kern een nulkennisbewijs is een
+
+348
+00:06:37,510 --> 00:06:37,520
+in de kern een nulkennisbewijs is een
+ 
+
+349
+00:06:37,520 --> 00:06:40,070
+in de kern een nulkennisbewijs is een
+interactie  tussen twee mensen, dan zou ik je
+
+350
+00:06:40,070 --> 00:06:40,080
+interactie  tussen twee mensen, dan zou ik je
+ 
+
+351
+00:06:40,080 --> 00:06:42,309
+interactie  tussen twee mensen, dan zou ik je
+moeten kunnen overtuigen dat een bepaalde
+
+352
+00:06:42,309 --> 00:06:42,319
+moeten kunnen overtuigen dat een bepaalde
+ 
+
+353
+00:06:42,319 --> 00:06:44,710
+moeten kunnen overtuigen dat een bepaalde
+bewering waar is, maar je zult geen
+
+354
+00:06:44,710 --> 00:06:44,720
+bewering waar is, maar je zult geen
+ 
+
+355
+00:06:44,720 --> 00:06:47,270
+bewering waar is, maar je zult geen
+idee hebben waarom het waar is.
+
+356
+00:06:47,270 --> 00:06:49,270
+idee hebben waarom het waar is.
+ 
+
+357
+00:06:49,270 --> 00:06:51,270
+
+ 
+
+358
+00:06:51,270 --> 00:06:51,280
+
+ 
+
+359
+00:06:51,280 --> 00:06:53,110
+
+weet dat
+
+360
+00:06:53,110 --> 00:06:53,120
+weet dat
+ 
+
+361
+00:06:53,120 --> 00:06:54,550
+weet dat
+ze bepaalde attributen hebben
+
+362
+00:06:54,550 --> 00:06:54,560
+ze bepaalde attributen hebben
+ 
+
+363
+00:06:54,560 --> 00:06:55,990
+ze bepaalde attributen hebben
+waardoor ze waar zouden zijn, wat je me eigenlijk
+
+364
+00:06:55,990 --> 00:06:56,000
+waardoor ze waar zouden zijn, wat je me eigenlijk
+ 
+
+365
+00:06:56,000 --> 00:06:58,390
+waardoor ze waar zouden zijn, wat je me eigenlijk
+vraagt, is wachten wat
+
+366
+00:06:58,390 --> 00:06:58,400
+vraagt, is wachten wat
+ 
+
+367
+00:06:58,400 --> 00:07:00,870
+vraagt, is wachten wat
+goed is, dus dit is wat
+
+368
+00:07:00,870 --> 00:07:00,880
+goed is, dus dit is wat
+ 
+
+369
+00:07:00,880 --> 00:07:02,710
+goed is, dus dit is wat
+het bewijs van cyrano zo fascinerend en zo
+
+370
+00:07:02,710 --> 00:07:02,720
+het bewijs van cyrano zo fascinerend en zo
+ 
+
+371
+00:07:02,720 --> 00:07:05,029
+het bewijs van cyrano zo fascinerend en zo
+contra-intuïtief maakt en ik denk dat ik het je het beste
+
+372
+00:07:05,029 --> 00:07:06,550
+contra-intuïtief maakt en ik denk dat ik het je het beste
+ 
+
+373
+00:07:06,550 --> 00:07:06,560
+
+ 
+
+374
+00:07:06,560 --> 00:07:08,390
+
+kan uitleggen  aan de hand
+
+375
+00:07:08,390 --> 00:07:08,400
+kan uitleggen  aan de hand
+ 
+
+376
+00:07:08,400 --> 00:07:10,790
+kan uitleggen  aan de hand
+van een voorbeeld, maar voordat we dat doen, moet
+
+377
+00:07:10,790 --> 00:07:10,800
+van een voorbeeld, maar voordat we dat doen, moet
+ 
+
+378
+00:07:10,800 --> 00:07:12,629
+van een voorbeeld, maar voordat we dat doen, moet
+ik beslissen wat ik je ga
+
+379
+00:07:12,629 --> 00:07:12,639
+ik beslissen wat ik je ga
+ 
+
+380
+00:07:12,639 --> 00:07:15,270
+ik beslissen wat ik je ga
+bewijzen in een zero-knowledge proof
+
+381
+00:07:15,270 --> 00:07:15,280
+bewijzen in een zero-knowledge proof
+ 
+
+382
+00:07:15,280 --> 00:07:16,950
+bewijzen in een zero-knowledge proof
+en de manier waarop we dit gaan aanpakken
+
+383
+00:07:16,950 --> 00:07:16,960
+en de manier waarop we dit gaan aanpakken
+ 
+
+384
+00:07:16,960 --> 00:07:18,790
+en de manier waarop we dit gaan aanpakken
+is door zo  meting genaamd np
+
+385
+00:07:18,790 --> 00:07:18,800
+is door zo  meting genaamd np
+ 
+
+386
+00:07:18,800 --> 00:07:21,350
+is door zo  meting genaamd np
+volledigheid wat een np-compleet probleem
+
+387
+00:07:21,350 --> 00:07:21,360
+volledigheid wat een np-compleet probleem
+ 
+
+388
+00:07:21,360 --> 00:07:24,070
+volledigheid wat een np-compleet probleem
+is het is een probleem dat heel moeilijk op te
+
+389
+00:07:24,070 --> 00:07:24,080
+is het is een probleem dat heel moeilijk op te
+ 
+
+390
+00:07:24,080 --> 00:07:26,550
+is het is een probleem dat heel moeilijk op te
+lossen is, maar als je het kunt oplossen, kun je
+
+391
+00:07:26,550 --> 00:07:26,560
+lossen is, maar als je het kunt oplossen, kun je
+ 
+
+392
+00:07:26,560 --> 00:07:30,870
+lossen is, maar als je het kunt oplossen, kun je
+elk probleem oplossen dat in de klasse np zit
+
+393
+00:07:30,870 --> 00:07:30,880
+elk probleem oplossen dat in de klasse np zit
+ 
+
+394
+00:07:30,880 --> 00:07:33,589
+elk probleem oplossen dat in de klasse np zit
+en dat omvat een groot aantal
+
+395
+00:07:33,589 --> 00:07:33,599
+en dat omvat een groot aantal
+ 
+
+396
+00:07:33,599 --> 00:07:35,589
+en dat omvat een groot aantal
+problemen en wat we gaan doen  doen is,
+
+397
+00:07:35,589 --> 00:07:35,599
+problemen en wat we gaan doen  doen is,
+ 
+
+398
+00:07:35,599 --> 00:07:37,430
+problemen en wat we gaan doen  doen is,
+we gaan een np-compleet
+
+399
+00:07:37,430 --> 00:07:37,440
+we gaan een np-compleet
+ 
+
+400
+00:07:37,440 --> 00:07:40,309
+we gaan een np-compleet
+probleem gebruiken om
+
+401
+00:07:40,309 --> 00:07:40,319
+probleem gebruiken om
+ 
+
+402
+00:07:40,319 --> 00:07:42,710
+probleem gebruiken om
+een ongelooflijke verscheidenheid aan uitspraken te bewijzen
+
+403
+00:07:42,710 --> 00:07:42,720
+een ongelooflijke verscheidenheid aan uitspraken te bewijzen
+ 
+
+404
+00:07:42,720 --> 00:07:44,869
+een ongelooflijke verscheidenheid aan uitspraken te bewijzen
+door middel van een nulkennisbewijs en het
+
+405
+00:07:44,869 --> 00:07:44,879
+door middel van een nulkennisbewijs en het
+ 
+
+406
+00:07:44,879 --> 00:07:47,110
+door middel van een nulkennisbewijs en het
+specifieke en complete probleem waar
+
+407
+00:07:47,110 --> 00:07:47,120
+specifieke en complete probleem waar
+ 
+
+408
+00:07:47,120 --> 00:07:49,189
+specifieke en complete probleem waar
+we naar gaan kijken heet
+
+409
+00:07:49,189 --> 00:07:49,199
+we naar gaan kijken heet
+ 
+
+410
+00:07:49,199 --> 00:07:52,309
+we naar gaan kijken heet
+kaart drie kleuren oké, dus hier hebben we
+
+411
+00:07:52,309 --> 00:07:52,319
+kaart drie kleuren oké, dus hier hebben we
+ 
+
+412
+00:07:52,319 --> 00:07:53,990
+kaart drie kleuren oké, dus hier hebben we
+een kaart oke
+
+413
+00:07:53,990 --> 00:07:54,000
+een kaart oke
+ 
+
+414
+00:07:54,000 --> 00:07:55,909
+een kaart oke
+en dit zijn een heleboel landen en
+
+415
+00:07:55,909 --> 00:07:55,919
+en dit zijn een heleboel landen en
+ 
+
+416
+00:07:55,919 --> 00:07:59,430
+en dit zijn een heleboel landen en
+we hebben ze zo gerangschikt dat geen landen
+
+417
+00:07:59,430 --> 00:07:59,440
+we hebben ze zo gerangschikt dat geen landen
+ 
+
+418
+00:07:59,440 --> 00:08:01,350
+we hebben ze zo gerangschikt dat geen landen
+met dezelfde
+
+419
+00:08:01,350 --> 00:08:01,360
+met dezelfde
+ 
+
+420
+00:08:01,360 --> 00:08:04,070
+met dezelfde
+kleur een grens delen dat is wat een
+
+421
+00:08:04,070 --> 00:08:04,080
+kleur een grens delen dat is wat een
+ 
+
+422
+00:08:04,080 --> 00:08:05,830
+kleur een grens delen dat is wat een
+kaart als deze
+
+423
+00:08:05,830 --> 00:08:05,840
+kaart als deze
+ 
+
+424
+00:08:05,840 --> 00:08:08,150
+kaart als deze
+geldig gekleurd maakt en nu zou je kunnen
+
+425
+00:08:08,150 --> 00:08:08,160
+geldig gekleurd maakt en nu zou je kunnen
+ 
+
+426
+00:08:08,160 --> 00:08:10,950
+geldig gekleurd maakt en nu zou je kunnen
+denken, waarom zouden we erom geven dat het blijkt
+
+427
+00:08:10,950 --> 00:08:10,960
+denken, waarom zouden we erom geven dat het blijkt
+ 
+
+428
+00:08:10,960 --> 00:08:11,749
+denken, waarom zouden we erom geven dat het blijkt
+dat
+
+429
+00:08:11,749 --> 00:08:11,759
+dat
+ 
+
+430
+00:08:11,759 --> 00:08:13,909
+dat
+of een kaart
+
+431
+00:08:13,909 --> 00:08:13,919
+of een kaart
+ 
+
+432
+00:08:13,919 --> 00:08:15,909
+of een kaart
+op deze manier driekleurig kan
+
+433
+00:08:15,909 --> 00:08:15,919
+op deze manier driekleurig kan
+ 
+
+434
+00:08:15,919 --> 00:08:18,550
+op deze manier driekleurig kan
+zijn, een voorbeeld is van een np-compleet probleem
+
+435
+00:08:18,550 --> 00:08:18,560
+zijn, een voorbeeld is van een np-compleet probleem
+ 
+
+436
+00:08:18,560 --> 00:08:20,230
+zijn, een voorbeeld is van een np-compleet probleem
+en het blijkt dat je weet dat je misschien
+
+437
+00:08:20,230 --> 00:08:20,240
+en het blijkt dat je weet dat je misschien
+ 
+
+438
+00:08:20,240 --> 00:08:22,230
+en het blijkt dat je weet dat je misschien
+wat je echt wilt doen
+
+439
+00:08:22,230 --> 00:08:22,240
+wat je echt wilt doen
+ 
+
+440
+00:08:22,240 --> 00:08:24,230
+wat je echt wilt doen
+, een nulkennisbewijs wilt geven
+
+441
+00:08:24,230 --> 00:08:24,240
+, een nulkennisbewijs wilt geven
+ 
+
+442
+00:08:24,240 --> 00:08:26,629
+, een nulkennisbewijs wilt geven
+dat je hebt  minstens  punt drie
+
+443
+00:08:26,629 --> 00:08:26,639
+dat je hebt  minstens  punt drie
+ 
+
+444
+00:08:26,639 --> 00:08:28,950
+dat je hebt  minstens  punt drie
+bitcoins goed dat zou cool zijn ja
+
+445
+00:08:28,950 --> 00:08:28,960
+bitcoins goed dat zou cool zijn ja
+ 
+
+446
+00:08:28,960 --> 00:08:30,950
+bitcoins goed dat zou cool zijn ja
+zonder te onthullen wat het adres is
+
+447
+00:08:30,950 --> 00:08:30,960
+zonder te onthullen wat het adres is
+ 
+
+448
+00:08:30,960 --> 00:08:33,029
+zonder te onthullen wat het adres is
+van uw account het blijkt dat ik
+
+449
+00:08:33,029 --> 00:08:33,039
+van uw account het blijkt dat ik
+ 
+
+450
+00:08:33,039 --> 00:08:35,190
+van uw account het blijkt dat ik
+die verklaring kan nemen dat ik ten
+
+451
+00:08:35,190 --> 00:08:35,200
+die verklaring kan nemen dat ik ten
+ 
+
+452
+00:08:35,200 --> 00:08:37,269
+die verklaring kan nemen dat ik ten
+minste twee bitcoins heb
+
+453
+00:08:37,269 --> 00:08:37,279
+minste twee bitcoins heb
+ 
+
+454
+00:08:37,279 --> 00:08:38,949
+minste twee bitcoins heb
+en het omzetten
+
+455
+00:08:38,949 --> 00:08:38,959
+en het omzetten
+ 
+
+456
+00:08:38,959 --> 00:08:41,589
+en het omzetten
+in een kaart van landen en die kaart van
+
+457
+00:08:41,589 --> 00:08:41,599
+in een kaart van landen en die kaart van
+ 
+
+458
+00:08:41,599 --> 00:08:42,790
+in een kaart van landen en die kaart van
+landen
+
+459
+00:08:42,790 --> 00:08:42,800
+landen
+ 
+
+460
+00:08:42,800 --> 00:08:46,070
+landen
+zal  wees drie kleuren zoals deze
+
+461
+00:08:46,070 --> 00:08:46,080
+zal  wees drie kleuren zoals deze
+ 
+
+462
+00:08:46,080 --> 00:08:47,430
+zal  wees drie kleuren zoals deze
+alleen als
+
+463
+00:08:47,430 --> 00:08:47,440
+alleen als
+ 
+
+464
+00:08:47,440 --> 00:08:49,430
+alleen als
+je ten minste punt twee bitcoins hebt hoe
+
+465
+00:08:49,430 --> 00:08:49,440
+je ten minste punt twee bitcoins hebt hoe
+ 
+
+466
+00:08:49,440 --> 00:08:51,030
+je ten minste punt twee bitcoins hebt hoe
+kunnen we zoiets veranderen in een
+
+467
+00:08:51,030 --> 00:08:51,040
+kunnen we zoiets veranderen in een
+ 
+
+468
+00:08:51,040 --> 00:08:52,870
+kunnen we zoiets veranderen in een
+nul kennis bewijs natuurlijk de eerste
+
+469
+00:08:52,870 --> 00:08:52,880
+nul kennis bewijs natuurlijk de eerste
+ 
+
+470
+00:08:52,880 --> 00:08:54,550
+nul kennis bewijs natuurlijk de eerste
+stap is dat we alle kleuren moeten wissen
+
+471
+00:08:54,550 --> 00:08:54,560
+stap is dat we alle kleuren moeten wissen
+ 
+
+472
+00:08:54,560 --> 00:08:56,949
+stap is dat we alle kleuren moeten wissen
+wat ik heb gedaan is ik heb een  kleur
+
+473
+00:08:56,949 --> 00:08:56,959
+wat ik heb gedaan is ik heb een  kleur
+ 
+
+474
+00:08:56,959 --> 00:08:59,670
+wat ik heb gedaan is ik heb een  kleur
+in elk van deze enveloppen hoe
+
+475
+00:08:59,670 --> 00:08:59,680
+in elk van deze enveloppen hoe
+ 
+
+476
+00:08:59,680 --> 00:09:01,670
+in elk van deze enveloppen hoe
+weet je nu dat het een geldige kleuring is
+
+477
+00:09:01,670 --> 00:09:01,680
+weet je nu dat het een geldige kleuring is
+ 
+
+478
+00:09:01,680 --> 00:09:04,630
+weet je nu dat het een geldige kleuring is
+je hebt geen gelijk je moet twee
+
+479
+00:09:04,630 --> 00:09:04,640
+je hebt geen gelijk je moet twee
+ 
+
+480
+00:09:04,640 --> 00:09:06,710
+je hebt geen gelijk je moet twee
+buurlanden kiezen je kunt ze
+
+481
+00:09:06,710 --> 00:09:06,720
+buurlanden kiezen je kunt ze
+ 
+
+482
+00:09:06,720 --> 00:09:08,710
+buurlanden kiezen je kunt ze
+willekeurig kiezen kan ik
+
+483
+00:09:08,710 --> 00:09:08,720
+willekeurig kiezen kan ik
+ 
+
+484
+00:09:08,720 --> 00:09:10,550
+willekeurig kiezen kan ik
+deze twee deze twee goed klinkt
+
+485
+00:09:10,550 --> 00:09:10,560
+deze twee deze twee goed klinkt
+ 
+
+486
+00:09:10,560 --> 00:09:14,470
+deze twee deze twee goed klinkt
+goed goed  hier hebben we groen
+
+487
+00:09:14,470 --> 00:09:14,480
+goed goed  hier hebben we groen
+ 
+
+488
+00:09:14,480 --> 00:09:15,269
+goed goed  hier hebben we groen
+rechts
+
+489
+00:09:15,269 --> 00:09:15,279
+rechts
+ 
+
+490
+00:09:15,279 --> 00:09:16,949
+rechts
+en hier
+
+491
+00:09:16,949 --> 00:09:16,959
+en hier
+ 
+
+492
+00:09:16,959 --> 00:09:18,870
+en hier
+hebben we blauw
+
+493
+00:09:18,870 --> 00:09:18,880
+hebben we blauw
+ 
+
+494
+00:09:18,880 --> 00:09:21,269
+hebben we blauw
+oke en zoals je kunt zien zijn er twee
+
+495
+00:09:21,269 --> 00:09:21,279
+oke en zoals je kunt zien zijn er twee
+ 
+
+496
+00:09:21,279 --> 00:09:23,990
+oke en zoals je kunt zien zijn er twee
+verschillende kleuren, dus je hebt een
+
+497
+00:09:23,990 --> 00:09:24,000
+verschillende kleuren, dus je hebt een
+ 
+
+498
+00:09:24,000 --> 00:09:25,829
+verschillende kleuren, dus je hebt een
+beetje vertrouwen dat
+
+499
+00:09:25,829 --> 00:09:25,839
+beetje vertrouwen dat
+ 
+
+500
+00:09:25,839 --> 00:09:28,070
+beetje vertrouwen dat
+ik erin geslaagd ben om dit correct te kleuren, maar
+
+501
+00:09:28,070 --> 00:09:28,080
+ik erin geslaagd ben om dit correct te kleuren, maar
+ 
+
+502
+00:09:28,080 --> 00:09:29,430
+ik erin geslaagd ben om dit correct te kleuren, maar
+niet zo veel vertrouwen  ce omdat ik je
+
+503
+00:09:29,430 --> 00:09:29,440
+niet zo veel vertrouwen  ce omdat ik je
+ 
+
+504
+00:09:29,440 --> 00:09:31,509
+niet zo veel vertrouwen  ce omdat ik je
+maar twee van de landen heb laten zien,
+
+505
+00:09:31,509 --> 00:09:31,519
+maar twee van de landen heb laten zien,
+ 
+
+506
+00:09:31,519 --> 00:09:32,550
+maar twee van de landen heb laten zien,
+ja,
+
+507
+00:09:32,550 --> 00:09:32,560
+ja,
+ 
+
+508
+00:09:32,560 --> 00:09:34,870
+ja,
+dus nu is natuurlijk een manier om meer vertrouwen te krijgen,
+
+509
+00:09:34,870 --> 00:09:34,880
+dus nu is natuurlijk een manier om meer vertrouwen te krijgen,
+ 
+
+510
+00:09:34,880 --> 00:09:36,630
+dus nu is natuurlijk een manier om meer vertrouwen te krijgen,
+om meer van hen voor je te openen,
+
+511
+00:09:36,630 --> 00:09:36,640
+om meer van hen voor je te openen,
+ 
+
+512
+00:09:36,640 --> 00:09:38,070
+om meer van hen voor je te openen,
+maar dat zou
+
+513
+00:09:38,070 --> 00:09:38,080
+maar dat zou
+ 
+
+514
+00:09:38,080 --> 00:09:39,590
+maar dat zou
+informatie aan je onthullen Ik wil dat niet
+
+515
+00:09:39,590 --> 00:09:39,600
+informatie aan je onthullen Ik wil dat niet
+ 
+
+516
+00:09:39,600 --> 00:09:41,430
+informatie aan je onthullen Ik wil dat niet
+doen  in plaats daarvan ga ik je vragen om
+
+517
+00:09:41,430 --> 00:09:41,440
+doen  in plaats daarvan ga ik je vragen om
+ 
+
+518
+00:09:41,440 --> 00:09:42,870
+doen  in plaats daarvan ga ik je vragen om
+alsjeblieft om te draaien
+
+519
+00:09:42,870 --> 00:09:42,880
+alsjeblieft om te draaien
+ 
+
+520
+00:09:42,880 --> 00:09:45,430
+alsjeblieft om te draaien
+en laten we nu deze kleuren veranderen kun
+
+521
+00:09:45,430 --> 00:09:45,440
+en laten we nu deze kleuren veranderen kun
+ 
+
+522
+00:09:45,440 --> 00:09:47,829
+en laten we nu deze kleuren veranderen kun
+je willekeurig twee landen kiezen en
+
+523
+00:09:47,829 --> 00:09:47,839
+je willekeurig twee landen kiezen en
+ 
+
+524
+00:09:47,839 --> 00:09:49,829
+je willekeurig twee landen kiezen en
+we zullen de kleuren opnieuw onthullen oke
+
+525
+00:09:49,829 --> 00:09:49,839
+we zullen de kleuren opnieuw onthullen oke
+ 
+
+526
+00:09:49,839 --> 00:09:51,910
+we zullen de kleuren opnieuw onthullen oke
+deze en deze leuk en ze zijn
+
+527
+00:09:51,910 --> 00:09:51,920
+deze en deze leuk en ze zijn
+ 
+
+528
+00:09:51,920 --> 00:09:53,910
+deze en deze leuk en ze zijn
+slim van je om  controleer met dezelfde
+
+529
+00:09:53,910 --> 00:09:53,920
+slim van je om  controleer met dezelfde
+ 
+
+530
+00:09:53,920 --> 00:09:55,829
+slim van je om  controleer met dezelfde
+van degene die je al goed had,
+
+531
+00:09:55,829 --> 00:09:55,839
+van degene die je al goed had,
+ 
+
+532
+00:09:55,839 --> 00:09:58,389
+van degene die je al goed had,
+maar zoals je nu zult zien
+
+533
+00:09:58,389 --> 00:09:58,399
+maar zoals je nu zult zien
+ 
+
+534
+00:09:58,399 --> 00:09:59,509
+maar zoals je nu zult zien
+is het niet
+
+535
+00:09:59,509 --> 00:09:59,519
+is het niet
+ 
+
+536
+00:09:59,519 --> 00:10:01,430
+is het niet
+groen het is blauw
+
+537
+00:10:01,430 --> 00:10:01,440
+groen het is blauw
+ 
+
+538
+00:10:01,440 --> 00:10:04,310
+groen het is blauw
+en deze aan de andere kant
+
+539
+00:10:04,310 --> 00:10:04,320
+en deze aan de andere kant
+ 
+
+540
+00:10:04,320 --> 00:10:05,829
+en deze aan de andere kant
+is
+
+541
+00:10:05,829 --> 00:10:05,839
+is
+ 
+
+542
+00:10:05,839 --> 00:10:07,350
+is
+drie
+
+543
+00:10:07,350 --> 00:10:07,360
+drie
+ 
+
+544
+00:10:07,360 --> 00:10:09,670
+drie
+oke de kleuren die ik je de vorige keer liet zien
+
+545
+00:10:09,670 --> 00:10:09,680
+oke de kleuren die ik je de vorige keer liet zien
+ 
+
+546
+00:10:09,680 --> 00:10:11,829
+oke de kleuren die ik je de vorige keer liet zien
+werken niet met deze nieuwe kleuren juist
+
+547
+00:10:11,829 --> 00:10:11,839
+werken niet met deze nieuwe kleuren juist
+ 
+
+548
+00:10:11,839 --> 00:10:13,509
+werken niet met deze nieuwe kleuren juist
+dit  zou niet hebben gewerkt,
+
+549
+00:10:13,509 --> 00:10:13,519
+dit  zou niet hebben gewerkt,
+ 
+
+550
+00:10:13,519 --> 00:10:16,389
+dit  zou niet hebben gewerkt,
+omdat deze precies goed was, maar het
+
+551
+00:10:16,389 --> 00:10:16,399
+omdat deze precies goed was, maar het
+ 
+
+552
+00:10:16,399 --> 00:10:18,710
+omdat deze precies goed was, maar het
+werkt voor deze kleur die ik
+
+553
+00:10:18,710 --> 00:10:18,720
+werkt voor deze kleur die ik
+ 
+
+554
+00:10:18,720 --> 00:10:20,790
+werkt voor deze kleur die ik
+je nu laat zien, dus wat we hebben gedaan, is dat
+
+555
+00:10:20,790 --> 00:10:20,800
+je nu laat zien, dus wat we hebben gedaan, is dat
+ 
+
+556
+00:10:20,800 --> 00:10:22,870
+je nu laat zien, dus wat we hebben gedaan, is dat
+we het je onmogelijk hebben gemaakt om
+
+557
+00:10:22,870 --> 00:10:22,880
+we het je onmogelijk hebben gemaakt om
+ 
+
+558
+00:10:22,880 --> 00:10:24,389
+we het je onmogelijk hebben gemaakt om
+de stukjes samen te voegen en als je  doe dit
+
+559
+00:10:24,389 --> 00:10:24,399
+de stukjes samen te voegen en als je  doe dit
+ 
+
+560
+00:10:24,399 --> 00:10:26,790
+de stukjes samen te voegen en als je  doe dit
+laten we zeggen duizend keer
+
+561
+00:10:26,790 --> 00:10:26,800
+laten we zeggen duizend keer
+ 
+
+562
+00:10:26,800 --> 00:10:28,630
+laten we zeggen duizend keer
+en als ik je correct heb laten zien anders
+
+563
+00:10:28,630 --> 00:10:28,640
+en als ik je correct heb laten zien anders
+ 
+
+564
+00:10:28,640 --> 00:10:29,590
+en als ik je correct heb laten zien anders
+c
+
+565
+00:10:29,590 --> 00:10:29,600
+c
+ 
+
+566
+00:10:29,600 --> 00:10:31,269
+c
+Elke duizend
+
+567
+00:10:31,269 --> 00:10:31,279
+Elke duizend
+ 
+
+568
+00:10:31,279 --> 00:10:33,590
+Elke duizend
+keer zou je echt overtuigd zijn en dat is het,
+
+569
+00:10:33,590 --> 00:10:33,600
+keer zou je echt overtuigd zijn en dat is het,
+ 
+
+570
+00:10:33,600 --> 00:10:36,069
+keer zou je echt overtuigd zijn en dat is het,
+dat is het hele bewijs van nul kennis
+
+571
+00:10:36,069 --> 00:10:36,079
+dat is het hele bewijs van nul kennis
+ 
+
+572
+00:10:36,079 --> 00:10:37,829
+dat is het hele bewijs van nul kennis
+oh oke dus
+
+573
+00:10:37,829 --> 00:10:37,839
+oh oke dus
+ 
+
+574
+00:10:37,839 --> 00:10:40,150
+oh oke dus
+is het alsof er geen zoals echt zoals
+
+575
+00:10:40,150 --> 00:10:40,160
+is het alsof er geen zoals echt zoals
+ 
+
+576
+00:10:40,160 --> 00:10:42,550
+is het alsof er geen zoals echt zoals
+expliciet zoals stap één stap twee stap
+
+577
+00:10:42,550 --> 00:10:42,560
+expliciet zoals stap één stap twee stap
+ 
+
+578
+00:10:42,560 --> 00:10:44,949
+expliciet zoals stap één stap twee stap
+drie het is net als een probabilistische
+
+579
+00:10:44,949 --> 00:10:44,959
+drie het is net als een probabilistische
+ 
+
+580
+00:10:44,959 --> 00:10:47,030
+drie het is net als een probabilistische
+ja in daadwerkelijke implementaties zouden
+
+581
+00:10:47,030 --> 00:10:47,040
+ja in daadwerkelijke implementaties zouden
+ 
+
+582
+00:10:47,040 --> 00:10:48,389
+ja in daadwerkelijke implementaties zouden
+we '  Als we enveloppen gebruiken, zouden we de
+
+583
+00:10:48,389 --> 00:10:48,399
+we '  Als we enveloppen gebruiken, zouden we de
+ 
+
+584
+00:10:48,399 --> 00:10:51,430
+we '  Als we enveloppen gebruiken, zouden we de
+juiste codering gebruiken, maar dit is echt
+
+585
+00:10:51,430 --> 00:10:51,440
+juiste codering gebruiken, maar dit is echt
+ 
+
+586
+00:10:51,440 --> 00:10:53,430
+juiste codering gebruiken, maar dit is echt
+het protocol, dus wat zijn de bredere
+
+587
+00:10:53,430 --> 00:10:53,440
+het protocol, dus wat zijn de bredere
+ 
+
+588
+00:10:53,440 --> 00:10:55,190
+het protocol, dus wat zijn de bredere
+implicaties van dergelijke nulkennisbewijzen.
+
+589
+00:10:55,190 --> 00:10:55,200
+implicaties van dergelijke nulkennisbewijzen.
+ 
+
+590
+00:10:55,200 --> 00:10:57,030
+implicaties van dergelijke nulkennisbewijzen.
+Moeten ze
+
+591
+00:10:57,030 --> 00:10:57,040
+Moeten ze
+ 
+
+592
+00:10:57,040 --> 00:10:59,190
+Moeten ze
+praktischer zijn voor soortgelijke implementatie en
+
+593
+00:10:59,190 --> 00:10:59,200
+praktischer zijn voor soortgelijke implementatie en
+ 
+
+594
+00:10:59,200 --> 00:11:00,870
+praktischer zijn voor soortgelijke implementatie en
+moeten ze graag structureel
+
+595
+00:11:00,870 --> 00:11:00,880
+moeten ze graag structureel
+ 
+
+596
+00:11:00,880 --> 00:11:03,350
+moeten ze graag structureel
+iets bewijzen waar het niet om gaat
+
+597
+00:11:03,350 --> 00:11:03,360
+iets bewijzen waar het niet om gaat
+ 
+
+598
+00:11:03,360 --> 00:11:05,030
+iets bewijzen waar het niet om gaat
+iets efficiënter het gaat
+
+599
+00:11:05,030 --> 00:11:05,040
+iets efficiënter het gaat
+ 
+
+600
+00:11:05,040 --> 00:11:06,310
+iets efficiënter het gaat
+erom dingen te doen waarvan we gewoon niet wisten
+
+601
+00:11:06,310 --> 00:11:06,320
+erom dingen te doen waarvan we gewoon niet wisten
+ 
+
+602
+00:11:06,320 --> 00:11:08,630
+erom dingen te doen waarvan we gewoon niet wisten
+hoe ze het moesten doen voordat ik het je echt kan
+
+603
+00:11:08,630 --> 00:11:08,640
+hoe ze het moesten doen voordat ik het je echt kan
+ 
+
+604
+00:11:08,640 --> 00:11:10,710
+hoe ze het moesten doen voordat ik het je echt kan
+bewijzen zonder je een van mijn geheimen te onthullen
+
+605
+00:11:10,710 --> 00:11:10,720
+bewijzen zonder je een van mijn geheimen te onthullen
+ 
+
+606
+00:11:10,720 --> 00:11:12,790
+bewijzen zonder je een van mijn geheimen te onthullen
+die ik gebruik om me eerlijk te gedragen
+
+607
+00:11:12,790 --> 00:11:12,800
+die ik gebruik om me eerlijk te gedragen
+ 
+
+608
+00:11:12,800 --> 00:11:14,710
+die ik gebruik om me eerlijk te gedragen
+ik kan je bewijzen
+
+609
+00:11:14,710 --> 00:11:14,720
+ik kan je bewijzen
+ 
+
+610
+00:11:14,720 --> 00:11:15,590
+ik kan je bewijzen
+dat
+
+611
+00:11:15,590 --> 00:11:15,600
+dat
+ 
+
+612
+00:11:15,600 --> 00:11:17,829
+dat
+ik een versleuteld document heb ondertekend
+
+613
+00:11:17,829 --> 00:11:17,839
+ik een versleuteld document heb ondertekend
+ 
+
+614
+00:11:17,839 --> 00:11:20,230
+ik een versleuteld document heb ondertekend
+correct goed zonder je te onthullen
+
+615
+00:11:20,230 --> 00:11:20,240
+correct goed zonder je te onthullen
+ 
+
+616
+00:11:20,240 --> 00:11:22,630
+correct goed zonder je te onthullen
+wat dat geheime document was dat
+
+617
+00:11:22,630 --> 00:11:22,640
+wat dat geheime document was dat
+ 
+
+618
+00:11:22,640 --> 00:11:24,389
+wat dat geheime document was dat
+vermogen om het spel te veranderen, zoals echt
+
+619
+00:11:24,389 --> 00:11:24,399
+vermogen om het spel te veranderen, zoals echt
+ 
+
+620
+00:11:24,399 --> 00:11:26,630
+vermogen om het spel te veranderen, zoals echt
+gewoon veranderen wat we kunnen doen is w  hat zero
+
+621
+00:11:26,630 --> 00:11:26,640
+gewoon veranderen wat we kunnen doen is w  hat zero
+ 
+
+622
+00:11:26,640 --> 00:11:28,230
+gewoon veranderen wat we kunnen doen is w  hat zero
+knowledge brengt naar de tafel waar denk
+
+623
+00:11:28,230 --> 00:11:28,240
+knowledge brengt naar de tafel waar denk
+ 
+
+624
+00:11:28,240 --> 00:11:29,990
+knowledge brengt naar de tafel waar denk
+je dat we zouden kunnen bouwen zoals meer vertrouwen
+
+625
+00:11:29,990 --> 00:11:30,000
+je dat we zouden kunnen bouwen zoals meer vertrouwen
+ 
+
+626
+00:11:30,000 --> 00:11:31,829
+je dat we zouden kunnen bouwen zoals meer vertrouwen
+met behulp van zoals zero knowledge proofs en
+
+627
+00:11:31,829 --> 00:11:31,839
+met behulp van zoals zero knowledge proofs en
+ 
+
+628
+00:11:31,839 --> 00:11:33,750
+met behulp van zoals zero knowledge proofs en
+zoals de implementaties ervan, een geweldig
+
+629
+00:11:33,750 --> 00:11:33,760
+zoals de implementaties ervan, een geweldig
+ 
+
+630
+00:11:33,760 --> 00:11:35,670
+zoals de implementaties ervan, een geweldig
+voorbeeld is zoals bij verkiezingen als je
+
+631
+00:11:35,670 --> 00:11:35,680
+voorbeeld is zoals bij verkiezingen als je
+ 
+
+632
+00:11:35,680 --> 00:11:37,190
+voorbeeld is zoals bij verkiezingen als je
+zou kunnen bewijzen
+
+633
+00:11:37,190 --> 00:11:37,200
+zou kunnen bewijzen
+ 
+
+634
+00:11:37,200 --> 00:11:39,670
+zou kunnen bewijzen
+dat een verkiezing correct is uitgevoerd
+
+635
+00:11:39,670 --> 00:11:39,680
+dat een verkiezing correct is uitgevoerd
+ 
+
+636
+00:11:39,680 --> 00:11:41,990
+dat een verkiezing correct is uitgevoerd
+dat elke stem is geteld en het  allemaal
+
+637
+00:11:41,990 --> 00:11:42,000
+dat elke stem is geteld en het  allemaal
+ 
+
+638
+00:11:42,000 --> 00:11:43,829
+dat elke stem is geteld en het  allemaal
+opgeteld bij één persoon die wint met een
+
+639
+00:11:43,829 --> 00:11:43,839
+opgeteld bij één persoon die wint met een
+ 
+
+640
+00:11:43,839 --> 00:11:45,509
+opgeteld bij één persoon die wint met een
+bepaald totaal
+
+641
+00:11:45,509 --> 00:11:45,519
+bepaald totaal
+ 
+
+642
+00:11:45,519 --> 00:11:47,350
+bepaald totaal
+zonder kennis, dan hoef
+
+643
+00:11:47,350 --> 00:11:47,360
+zonder kennis, dan hoef
+ 
+
+644
+00:11:47,360 --> 00:11:49,990
+zonder kennis, dan hoef
+je de daadwerkelijke stemmen van geen enkele persoon op te geven
+
+645
+00:11:49,990 --> 00:11:50,000
+je de daadwerkelijke stemmen van geen enkele persoon op te geven
+ 
+
+646
+00:11:50,000 --> 00:11:53,030
+je de daadwerkelijke stemmen van geen enkele persoon op te geven
+en toch kon iedereen zien dat hey ja,
+
+647
+00:11:53,030 --> 00:11:53,040
+en toch kon iedereen zien dat hey ja,
+ 
+
+648
+00:11:53,040 --> 00:11:59,509
+en toch kon iedereen zien dat hey ja,
+het was correct gedaan,
+
+649
+00:11:59,509 --> 00:11:59,519
+
+ 
+
+650
+00:11:59,519 --> 00:12:01,350
+
+het is zo geweldig om je hier te hebben en te praten
+
+651
+00:12:01,350 --> 00:12:01,360
+het is zo geweldig om je hier te hebben en te praten
+ 
+
+652
+00:12:01,360 --> 00:12:03,350
+het is zo geweldig om je hier te hebben en te praten
+met jou eli um kun je me iets vertellen
+
+653
+00:12:03,350 --> 00:12:03,360
+met jou eli um kun je me iets vertellen
+ 
+
+654
+00:12:03,360 --> 00:12:05,670
+met jou eli um kun je me iets vertellen
+over je onderzoek mijn onderzoek
+
+655
+00:12:05,670 --> 00:12:05,680
+over je onderzoek mijn onderzoek
+ 
+
+656
+00:12:05,680 --> 00:12:08,629
+over je onderzoek mijn onderzoek
+is specifiek in cryptografie ik
+
+657
+00:12:08,629 --> 00:12:08,639
+is specifiek in cryptografie ik
+ 
+
+658
+00:12:08,639 --> 00:12:11,110
+is specifiek in cryptografie ik
+werk aan een aantal verschillende multi-party
+
+659
+00:12:11,110 --> 00:12:11,120
+werk aan een aantal verschillende multi-party
+ 
+
+660
+00:12:11,120 --> 00:12:13,110
+werk aan een aantal verschillende multi-party
+berekeningsprotocollen degene waar
+
+661
+00:12:13,110 --> 00:12:13,120
+berekeningsprotocollen degene waar
+ 
+
+662
+00:12:13,120 --> 00:12:14,629
+berekeningsprotocollen degene waar
+ik nu aan werk
+
+663
+00:12:14,629 --> 00:12:14,639
+ik nu aan werk
+ 
+
+664
+00:12:14,639 --> 00:12:16,870
+ik nu aan werk
+is een systeem voor het berekenen van geaggregeerde
+
+665
+00:12:16,870 --> 00:12:16,880
+is een systeem voor het berekenen van geaggregeerde
+ 
+
+666
+00:12:16,880 --> 00:12:19,829
+is een systeem voor het berekenen van geaggregeerde
+statistieken, zodat  serviceproviders
+
+667
+00:12:19,829 --> 00:12:19,839
+statistieken, zodat  serviceproviders
+ 
+
+668
+00:12:19,839 --> 00:12:22,710
+statistieken, zodat  serviceproviders
+zoals google chrome of tesla
+
+669
+00:12:22,710 --> 00:12:22,720
+zoals google chrome of tesla
+ 
+
+670
+00:12:22,720 --> 00:12:24,550
+zoals google chrome of tesla
+kunnen die statistieken verzamelen
+
+671
+00:12:24,550 --> 00:12:24,560
+kunnen die statistieken verzamelen
+ 
+
+672
+00:12:24,560 --> 00:12:26,790
+kunnen die statistieken verzamelen
+zonder iets te leren over
+
+673
+00:12:26,790 --> 00:12:26,800
+zonder iets te leren over
+ 
+
+674
+00:12:26,800 --> 00:12:29,509
+zonder iets te leren over
+individuele gebruikersgegevens, dat is geweldig, ik
+
+675
+00:12:29,509 --> 00:12:29,519
+individuele gebruikersgegevens, dat is geweldig, ik
+ 
+
+676
+00:12:29,519 --> 00:12:32,870
+individuele gebruikersgegevens, dat is geweldig, ik
+hoef als gebruiker Firefox niet te laten weten
+
+677
+00:12:32,870 --> 00:12:32,880
+hoef als gebruiker Firefox niet te laten weten
+ 
+
+678
+00:12:32,880 --> 00:12:34,550
+hoef als gebruiker Firefox niet te laten weten
+dat mijn favoriete website
+
+679
+00:12:34,550 --> 00:12:34,560
+dat mijn favoriete website
+ 
+
+680
+00:12:34,560 --> 00:12:36,470
+dat mijn favoriete website
+mylittlepony.com is,
+
+681
+00:12:36,470 --> 00:12:36,480
+mylittlepony.com is,
+ 
+
+682
+00:12:36,480 --> 00:12:39,310
+mylittlepony.com is,
+maar dat ze kunnen weten hoeveel gebruikers
+
+683
+00:12:39,310 --> 00:12:39,320
+maar dat ze kunnen weten hoeveel gebruikers
+ 
+
+684
+00:12:39,320 --> 00:12:41,430
+maar dat ze kunnen weten hoeveel gebruikers
+elke dag naar mylittlepony.com gaan dat is
+
+685
+00:12:41,430 --> 00:12:41,440
+elke dag naar mylittlepony.com gaan dat is
+ 
+
+686
+00:12:41,440 --> 00:12:42,870
+elke dag naar mylittlepony.com gaan dat is
+mij na aan het hart geen
+
+687
+00:12:42,870 --> 00:12:42,880
+mij na aan het hart geen
+ 
+
+688
+00:12:42,880 --> 00:12:44,629
+mij na aan het hart geen
+wedstrijd voor een feestje uiteraard gaat het bij
+
+689
+00:12:44,629 --> 00:12:44,639
+wedstrijd voor een feestje uiteraard gaat het bij
+ 
+
+690
+00:12:44,639 --> 00:12:47,509
+wedstrijd voor een feestje uiteraard gaat het bij
+nulkennisbewijzen over het bewijzen van dingen aan
+
+691
+00:12:47,509 --> 00:12:47,519
+nulkennisbewijzen over het bewijzen van dingen aan
+ 
+
+692
+00:12:47,519 --> 00:12:50,069
+nulkennisbewijzen over het bewijzen van dingen aan
+een andere persoon zonder de details te onthullen
+
+693
+00:12:50,069 --> 00:12:50,079
+een andere persoon zonder de details te onthullen
+ 
+
+694
+00:12:50,079 --> 00:12:51,590
+een andere persoon zonder de details te onthullen
+van wat  het is dat je
+
+695
+00:12:51,590 --> 00:12:51,600
+van wat  het is dat je
+ 
+
+696
+00:12:51,600 --> 00:12:54,150
+van wat  het is dat je
+bewijst, maar je weet in mijn gedachten dat nul
+
+697
+00:12:54,150 --> 00:12:54,160
+bewijst, maar je weet in mijn gedachten dat nul
+ 
+
+698
+00:12:54,160 --> 00:12:55,910
+bewijst, maar je weet in mijn gedachten dat nul
+kennis zelfs verder gaat
+
+699
+00:12:55,910 --> 00:12:55,920
+kennis zelfs verder gaat
+ 
+
+700
+00:12:55,920 --> 00:12:57,670
+kennis zelfs verder gaat
+dan dat het is zoals dit overkoepelende
+
+701
+00:12:57,670 --> 00:12:57,680
+dan dat het is zoals dit overkoepelende
+ 
+
+702
+00:12:57,680 --> 00:12:59,910
+dan dat het is zoals dit overkoepelende
+concept dat je veel kunt zien in
+
+703
+00:12:59,910 --> 00:12:59,920
+concept dat je veel kunt zien in
+ 
+
+704
+00:12:59,920 --> 00:13:02,150
+concept dat je veel kunt zien in
+berekeningen met meerdere partijen, waarbij
+
+705
+00:13:02,150 --> 00:13:02,160
+berekeningen met meerdere partijen, waarbij
+ 
+
+706
+00:13:02,160 --> 00:13:05,430
+berekeningen met meerdere partijen, waarbij
+je een soort taak wilt volbrengen
+
+707
+00:13:05,430 --> 00:13:05,440
+je een soort taak wilt volbrengen
+ 
+
+708
+00:13:05,440 --> 00:13:07,829
+je een soort taak wilt volbrengen
+zonder iets meer te onthullen  dan
+
+709
+00:13:07,829 --> 00:13:07,839
+zonder iets meer te onthullen  dan
+ 
+
+710
+00:13:07,839 --> 00:13:09,670
+zonder iets meer te onthullen  dan
+precies wat je nodig hebt om die
+
+711
+00:13:09,670 --> 00:13:09,680
+precies wat je nodig hebt om die
+ 
+
+712
+00:13:09,680 --> 00:13:13,110
+precies wat je nodig hebt om die
+taak goed uit te voeren en het stelt je in staat om te bewijzen
+
+713
+00:13:13,110 --> 00:13:13,120
+taak goed uit te voeren en het stelt je in staat om te bewijzen
+ 
+
+714
+00:13:13,120 --> 00:13:15,190
+taak goed uit te voeren en het stelt je in staat om te bewijzen
+dat je je eerlijk hebt gedragen
+
+715
+00:13:15,190 --> 00:13:15,200
+dat je je eerlijk hebt gedragen
+ 
+
+716
+00:13:15,200 --> 00:13:17,350
+dat je je eerlijk hebt gedragen
+zonder een van de betrokken geheimen te onthullen
+
+717
+00:13:17,350 --> 00:13:17,360
+zonder een van de betrokken geheimen te onthullen
+ 
+
+718
+00:13:17,360 --> 00:13:18,310
+zonder een van de betrokken geheimen te onthullen
+
+719
+00:13:18,310 --> 00:13:18,320
+
+ 
+
+720
+00:13:18,320 --> 00:13:19,910
+
+die je vroeger echt eerlijk gedroeg,
+
+721
+00:13:19,910 --> 00:13:19,920
+die je vroeger echt eerlijk gedroeg,
+ 
+
+722
+00:13:19,920 --> 00:13:22,470
+die je vroeger echt eerlijk gedroeg,
+dus we weten natuurlijk dat nul
+
+723
+00:13:22,470 --> 00:13:22,480
+dus we weten natuurlijk dat nul
+ 
+
+724
+00:13:22,480 --> 00:13:23,990
+dus we weten natuurlijk dat nul
+kennis bewijst voor np complete
+
+725
+00:13:23,990 --> 00:13:24,000
+kennis bewijst voor np complete
+ 
+
+726
+00:13:24,000 --> 00:13:26,310
+kennis bewijst voor np complete
+talen  zo'n grote rol spelen in
+
+727
+00:13:26,310 --> 00:13:26,320
+talen  zo'n grote rol spelen in
+ 
+
+728
+00:13:26,320 --> 00:13:27,990
+talen  zo'n grote rol spelen in
+cryptografie ik ben benieuwd wat je
+
+729
+00:13:27,990 --> 00:13:28,000
+cryptografie ik ben benieuwd wat je
+ 
+
+730
+00:13:28,000 --> 00:13:29,350
+cryptografie ik ben benieuwd wat je
+eerste ervaring was met lege volledigheid
+
+731
+00:13:29,350 --> 00:13:29,360
+eerste ervaring was met lege volledigheid
+ 
+
+732
+00:13:29,360 --> 00:13:31,910
+eerste ervaring was met lege volledigheid
+zoals ja dus mijn eerste ontmoeting met  np-
+
+733
+00:13:31,910 --> 00:13:31,920
+zoals ja dus mijn eerste ontmoeting met  np-
+ 
+
+734
+00:13:31,920 --> 00:13:34,629
+zoals ja dus mijn eerste ontmoeting met  np-
+volledigheid was in mijn allereerste
+
+735
+00:13:34,629 --> 00:13:34,639
+volledigheid was in mijn allereerste
+ 
+
+736
+00:13:34,639 --> 00:13:36,389
+volledigheid was in mijn allereerste
+algoritme-les die ik als student volgde,
+
+737
+00:13:36,389 --> 00:13:36,399
+algoritme-les die ik als student volgde,
+ 
+
+738
+00:13:36,399 --> 00:13:38,150
+algoritme-les die ik als student volgde,
+dus dat was mijn eerste
+
+739
+00:13:38,150 --> 00:13:38,160
+dus dat was mijn eerste
+ 
+
+740
+00:13:38,160 --> 00:13:40,310
+dus dat was mijn eerste
+introductie is dat een np complete
+
+741
+00:13:40,310 --> 00:13:40,320
+introductie is dat een np complete
+ 
+
+742
+00:13:40,320 --> 00:13:44,310
+introductie is dat een np complete
+taal dit verbazingwekkende probleem is dat
+
+743
+00:13:44,310 --> 00:13:44,320
+taal dit verbazingwekkende probleem is dat
+ 
+
+744
+00:13:44,320 --> 00:13:47,590
+taal dit verbazingwekkende probleem is dat
+je niet alleen over zichzelf vertelt, maar het
+
+745
+00:13:47,590 --> 00:13:47,600
+je niet alleen over zichzelf vertelt, maar het
+ 
+
+746
+00:13:47,600 --> 00:13:49,350
+je niet alleen over zichzelf vertelt, maar het
+oplossen van dit probleem kan je eigenlijk
+
+747
+00:13:49,350 --> 00:13:49,360
+oplossen van dit probleem kan je eigenlijk
+ 
+
+748
+00:13:49,360 --> 00:13:51,430
+oplossen van dit probleem kan je eigenlijk
+vertellen over een hele klas  van echt
+
+749
+00:13:51,430 --> 00:13:51,440
+vertellen over een hele klas  van echt
+ 
+
+750
+00:13:51,440 --> 00:13:52,870
+vertellen over een hele klas  van echt
+interessante problemen begonnen we eerst na te
+
+751
+00:13:52,870 --> 00:13:52,880
+interessante problemen begonnen we eerst na te
+ 
+
+752
+00:13:52,880 --> 00:13:54,230
+interessante problemen begonnen we eerst na te
+denken over bewijzen als een interactief
+
+753
+00:13:54,230 --> 00:13:54,240
+denken over bewijzen als een interactief
+ 
+
+754
+00:13:54,240 --> 00:13:56,310
+denken over bewijzen als een interactief
+spel waarin we met elkaar praten
+
+755
+00:13:56,310 --> 00:13:56,320
+spel waarin we met elkaar praten
+ 
+
+756
+00:13:56,320 --> 00:13:58,150
+spel waarin we met elkaar praten
+dat journalisten
+
+757
+00:13:58,150 --> 00:13:58,160
+dat journalisten
+ 
+
+758
+00:13:58,160 --> 00:14:00,870
+dat journalisten
+volkomen gelijk maakte ja en
+
+759
+00:14:00,870 --> 00:14:00,880
+volkomen gelijk maakte ja en
+ 
+
+760
+00:14:00,880 --> 00:14:02,790
+volkomen gelijk maakte ja en
+en het idee dat willekeur
+
+761
+00:14:02,790 --> 00:14:02,800
+en het idee dat willekeur
+ 
+
+762
+00:14:02,800 --> 00:14:04,230
+en het idee dat willekeur
+nuttig zou kunnen zijn
+
+763
+00:14:04,230 --> 00:14:04,240
+nuttig zou kunnen zijn
+ 
+
+764
+00:14:04,240 --> 00:14:06,470
+nuttig zou kunnen zijn
+om iets opnieuw te bewijzen lijkt zo
+
+765
+00:14:06,470 --> 00:14:06,480
+om iets opnieuw te bewijzen lijkt zo
+ 
+
+766
+00:14:06,480 --> 00:14:08,949
+om iets opnieuw te bewijzen lijkt zo
+contra-intuïtief als we denken  over dit
+
+767
+00:14:08,949 --> 00:14:08,959
+contra-intuïtief als we denken  over dit
+ 
+
+768
+00:14:08,959 --> 00:14:11,110
+contra-intuïtief als we denken  over dit
+platonische ideaal van een
+
+769
+00:14:11,110 --> 00:14:11,120
+platonische ideaal van een
+ 
+
+770
+00:14:11,120 --> 00:14:14,069
+platonische ideaal van een
+bewijs, er is geen willekeur, er is geen
+
+771
+00:14:14,069 --> 00:14:14,079
+bewijs, er is geen willekeur, er is geen
+ 
+
+772
+00:14:14,079 --> 00:14:16,470
+bewijs, er is geen willekeur, er is geen
+non-determinisme dat daar aanwezig is en
+
+773
+00:14:16,470 --> 00:14:16,480
+non-determinisme dat daar aanwezig is en
+ 
+
+774
+00:14:16,480 --> 00:14:18,389
+non-determinisme dat daar aanwezig is en
+het heeft te maken met je weet dit hele
+
+775
+00:14:18,389 --> 00:14:18,399
+het heeft te maken met je weet dit hele
+ 
+
+776
+00:14:18,399 --> 00:14:20,230
+het heeft te maken met je weet dit hele
+idee om een bewijs op zijn kop te zetten,
+
+777
+00:14:20,230 --> 00:14:20,240
+idee om een bewijs op zijn kop te zetten,
+ 
+
+778
+00:14:20,240 --> 00:14:21,910
+idee om een bewijs op zijn kop te zetten,
+weet je in een oud klassiek bewijs,
+
+779
+00:14:21,910 --> 00:14:21,920
+weet je in een oud klassiek bewijs,
+ 
+
+780
+00:14:21,920 --> 00:14:24,629
+weet je in een oud klassiek bewijs,
+willekeur is specifiek tegen het
+
+781
+00:14:24,629 --> 00:14:24,639
+willekeur is specifiek tegen het
+ 
+
+782
+00:14:24,639 --> 00:14:26,310
+willekeur is specifiek tegen het
+doel  van wat je goed probeert te doen,
+
+783
+00:14:26,310 --> 00:14:26,320
+doel  van wat je goed probeert te doen,
+ 
+
+784
+00:14:26,320 --> 00:14:27,590
+doel  van wat je goed probeert te doen,
+omdat je alles
+
+785
+00:14:27,590 --> 00:14:27,600
+omdat je alles
+ 
+
+786
+00:14:27,600 --> 00:14:29,590
+omdat je alles
+duidelijk probeert te maken en je probeert de
+
+787
+00:14:29,590 --> 00:14:29,600
+duidelijk probeert te maken en je probeert de
+ 
+
+788
+00:14:29,600 --> 00:14:31,829
+duidelijk probeert te maken en je probeert de
+stroom van  informatie inderdaad, maar als je
+
+789
+00:14:31,829 --> 00:14:31,839
+stroom van  informatie inderdaad, maar als je
+ 
+
+790
+00:14:31,839 --> 00:14:33,030
+stroom van  informatie inderdaad, maar als je
+dat eenmaal op zijn kop zet en je probeert dat niet
+
+791
+00:14:33,030 --> 00:14:33,040
+dat eenmaal op zijn kop zet en je probeert dat niet
+ 
+
+792
+00:14:33,040 --> 00:14:34,629
+dat eenmaal op zijn kop zet en je probeert dat niet
+langer te doen, worden plotseling
+
+793
+00:14:34,629 --> 00:14:34,639
+langer te doen, worden plotseling
+ 
+
+794
+00:14:34,639 --> 00:14:36,870
+langer te doen, worden plotseling
+alle slechte eigenschappen van willekeur
+
+795
+00:14:36,870 --> 00:14:36,880
+alle slechte eigenschappen van willekeur
+ 
+
+796
+00:14:36,880 --> 00:14:39,269
+alle slechte eigenschappen van willekeur
+goed precies goed omdat willekeur
+
+797
+00:14:39,269 --> 00:14:39,279
+goed precies goed omdat willekeur
+ 
+
+798
+00:14:39,279 --> 00:14:40,949
+goed precies goed omdat willekeur
+onvoorspelbaar is en dat is wat we
+
+799
+00:14:40,949 --> 00:14:40,959
+onvoorspelbaar is en dat is wat we
+ 
+
+800
+00:14:40,959 --> 00:14:43,030
+onvoorspelbaar is en dat is wat we
+willen, we willen dat die onvoorspelbare
+
+801
+00:14:43,030 --> 00:14:43,040
+willen, we willen dat die onvoorspelbare
+ 
+
+802
+00:14:43,040 --> 00:14:45,430
+willen, we willen dat die onvoorspelbare
+willekeur wordt gebruikt  om
+
+803
+00:14:45,430 --> 00:14:45,440
+willekeur wordt gebruikt  om
+ 
+
+804
+00:14:45,440 --> 00:14:47,189
+willekeur wordt gebruikt  om
+de informatie die we willen
+
+805
+00:14:47,189 --> 00:14:47,199
+de informatie die we willen
+ 
+
+806
+00:14:47,199 --> 00:14:50,230
+de informatie die we willen
+verbergen daadwerkelijk te verbergen hoe heb je je kennis gebruikt in
+
+807
+00:14:50,230 --> 00:14:50,240
+verbergen daadwerkelijk te verbergen hoe heb je je kennis gebruikt in
+ 
+
+808
+00:14:50,240 --> 00:14:51,670
+verbergen daadwerkelijk te verbergen hoe heb je je kennis gebruikt in
+de projecten waaraan je hebt gewerkt wat zijn
+
+809
+00:14:51,670 --> 00:14:51,680
+de projecten waaraan je hebt gewerkt wat zijn
+ 
+
+810
+00:14:51,680 --> 00:14:53,350
+de projecten waaraan je hebt gewerkt wat zijn
+de uitdagingen die je tegenkomt in mijn
+
+811
+00:14:53,350 --> 00:14:53,360
+de uitdagingen die je tegenkomt in mijn
+ 
+
+812
+00:14:53,360 --> 00:14:56,870
+de uitdagingen die je tegenkomt in mijn
+ervaring meestal is het moeilijkste
+
+813
+00:14:56,870 --> 00:14:56,880
+ervaring meestal is het moeilijkste
+ 
+
+814
+00:14:56,880 --> 00:14:59,350
+ervaring meestal is het moeilijkste
+om uit te zoeken waar de beste
+
+815
+00:14:59,350 --> 00:14:59,360
+om uit te zoeken waar de beste
+ 
+
+816
+00:14:59,360 --> 00:15:01,829
+om uit te zoeken waar de beste
+plaats is om het te gebruiken  ik heb
+
+817
+00:15:01,829 --> 00:15:01,839
+plaats is om het te gebruiken  ik heb
+ 
+
+818
+00:15:01,839 --> 00:15:03,509
+plaats is om het te gebruiken  ik heb
+in het verleden wat papers geschreven die nul
+
+819
+00:15:03,509 --> 00:15:03,519
+in het verleden wat papers geschreven die nul
+ 
+
+820
+00:15:03,519 --> 00:15:05,829
+in het verleden wat papers geschreven die nul
+kennis op een meer theoretische manier hebben gebruikt, maar
+
+821
+00:15:05,829 --> 00:15:05,839
+kennis op een meer theoretische manier hebben gebruikt, maar
+ 
+
+822
+00:15:05,839 --> 00:15:08,310
+kennis op een meer theoretische manier hebben gebruikt, maar
+als het gaat om applicaties, zijn
+
+823
+00:15:08,310 --> 00:15:08,320
+als het gaat om applicaties, zijn
+ 
+
+824
+00:15:08,320 --> 00:15:10,310
+als het gaat om applicaties, zijn
+enkele van de meest opwindende applicaties
+
+825
+00:15:10,310 --> 00:15:10,320
+enkele van de meest opwindende applicaties
+ 
+
+826
+00:15:10,320 --> 00:15:11,990
+enkele van de meest opwindende applicaties
+die ik tot nu toe heb gezien in de
+
+827
+00:15:11,990 --> 00:15:12,000
+die ik tot nu toe heb gezien in de
+ 
+
+828
+00:15:12,000 --> 00:15:13,670
+die ik tot nu toe heb gezien in de
+blockchain-ruimte geweest, dus wat zijn enkele van de
+
+829
+00:15:13,670 --> 00:15:13,680
+blockchain-ruimte geweest, dus wat zijn enkele van de
+ 
+
+830
+00:15:13,680 --> 00:15:15,430
+blockchain-ruimte geweest, dus wat zijn enkele van de
+efficiëntieknelpunten die je vindt in
+
+831
+00:15:15,430 --> 00:15:15,440
+efficiëntieknelpunten die je vindt in
+ 
+
+832
+00:15:15,440 --> 00:15:17,269
+efficiëntieknelpunten die je vindt in
+termen van efficiëntie
+
+833
+00:15:17,269 --> 00:15:17,279
+termen van efficiëntie
+ 
+
+834
+00:15:17,279 --> 00:15:19,350
+termen van efficiëntie
+uh een van de coolste dingen over
+
+835
+00:15:19,350 --> 00:15:19,360
+uh een van de coolste dingen over
+ 
+
+836
+00:15:19,360 --> 00:15:20,710
+uh een van de coolste dingen over
+nulkennisbewijzen is dat er zoveel
+
+837
+00:15:20,710 --> 00:15:20,720
+nulkennisbewijzen is dat er zoveel
+ 
+
+838
+00:15:20,720 --> 00:15:23,110
+nulkennisbewijzen is dat er zoveel
+soorten zijn die ik graag noem ze smaken i
+
+839
+00:15:23,110 --> 00:15:23,120
+soorten zijn die ik graag noem ze smaken i
+ 
+
+840
+00:15:23,120 --> 00:15:25,670
+soorten zijn die ik graag noem ze smaken i
+thi  nk dat in het algemeen, wanneer u
+
+841
+00:15:25,670 --> 00:15:25,680
+thi  nk dat in het algemeen, wanneer u
+ 
+
+842
+00:15:25,680 --> 00:15:27,430
+thi  nk dat in het algemeen, wanneer u
+nulkennisbewijzen gebruikt in de toepassing, het
+
+843
+00:15:27,430 --> 00:15:27,440
+nulkennisbewijzen gebruikt in de toepassing, het
+ 
+
+844
+00:15:27,440 --> 00:15:29,670
+nulkennisbewijzen gebruikt in de toepassing, het
+grootste knelpunt meestal bij de
+
+845
+00:15:29,670 --> 00:15:29,680
+grootste knelpunt meestal bij de
+ 
+
+846
+00:15:29,680 --> 00:15:32,230
+grootste knelpunt meestal bij de
+goedkeurder ligt, kunt u de taak van de beoordelaar overnemen
+
+847
+00:15:32,230 --> 00:15:32,240
+goedkeurder ligt, kunt u de taak van de beoordelaar overnemen
+ 
+
+848
+00:15:32,240 --> 00:15:34,710
+goedkeurder ligt, kunt u de taak van de beoordelaar overnemen
+en het opsplitsen in veel parallelle
+
+849
+00:15:34,710 --> 00:15:34,720
+en het opsplitsen in veel parallelle
+ 
+
+850
+00:15:34,720 --> 00:15:36,710
+en het opsplitsen in veel parallelle
+berekeningen, dat is zo'n leuke
+
+851
+00:15:36,710 --> 00:15:36,720
+berekeningen, dat is zo'n leuke
+ 
+
+852
+00:15:36,720 --> 00:15:39,189
+berekeningen, dat is zo'n leuke
+vraag, het is zo'n geweldige vraag en
+
+853
+00:15:39,189 --> 00:15:39,199
+vraag, het is zo'n geweldige vraag en
+ 
+
+854
+00:15:39,199 --> 00:15:40,790
+vraag, het is zo'n geweldige vraag en
+ja ik denk dat we
+
+855
+00:15:40,790 --> 00:15:40,800
+ja ik denk dat we
+ 
+
+856
+00:15:40,800 --> 00:15:42,629
+ja ik denk dat we
+het antwoord daarop nog steeds niet weten als vakgebied een van de
+
+857
+00:15:42,629 --> 00:15:42,639
+het antwoord daarop nog steeds niet weten als vakgebied een van de
+ 
+
+858
+00:15:42,639 --> 00:15:44,870
+het antwoord daarop nog steeds niet weten als vakgebied een van de
+coolste dingen die ik in het verleden heb gezien
+
+859
+00:15:44,870 --> 00:15:44,880
+coolste dingen die ik in het verleden heb gezien
+ 
+
+860
+00:15:44,880 --> 00:15:46,629
+coolste dingen die ik in het verleden heb gezien
+weet je drie of vier jaar dat ik
+
+861
+00:15:46,629 --> 00:15:46,639
+weet je drie of vier jaar dat ik
+ 
+
+862
+00:15:46,639 --> 00:15:48,710
+weet je drie of vier jaar dat ik
+aan dit soort dingen heb gewerkt is
+
+863
+00:15:48,710 --> 00:15:48,720
+aan dit soort dingen heb gewerkt is
+ 
+
+864
+00:15:48,720 --> 00:15:50,310
+aan dit soort dingen heb gewerkt is
+de overgang
+
+865
+00:15:50,310 --> 00:15:50,320
+de overgang
+ 
+
+866
+00:15:50,320 --> 00:15:51,350
+de overgang
+van
+
+867
+00:15:51,350 --> 00:15:51,360
+van
+ 
+
+868
+00:15:51,360 --> 00:15:53,910
+van
+theoretisch tot toegepast en het zien van al
+
+869
+00:15:53,910 --> 00:15:53,920
+theoretisch tot toegepast en het zien van al
+ 
+
+870
+00:15:53,920 --> 00:15:55,670
+theoretisch tot toegepast en het zien van al
+deze verbazingwekkende
+
+871
+00:15:55,670 --> 00:15:55,680
+deze verbazingwekkende
+ 
+
+872
+00:15:55,680 --> 00:15:57,590
+deze verbazingwekkende
+systemen waar mensen in de
+
+873
+00:15:57,590 --> 00:15:57,600
+systemen waar mensen in de
+ 
+
+874
+00:15:57,600 --> 00:15:58,949
+systemen waar mensen in de
+afgelopen 30 jaar
+
+875
+00:15:58,949 --> 00:15:58,959
+afgelopen 30 jaar
+ 
+
+876
+00:15:58,959 --> 00:16:01,269
+afgelopen 30 jaar
+aan hebben gedacht, beginnen daadwerkelijk efficiënt genoeg
+
+877
+00:16:01,269 --> 00:16:01,279
+aan hebben gedacht, beginnen daadwerkelijk efficiënt genoeg
+ 
+
+878
+00:16:01,279 --> 00:16:03,110
+aan hebben gedacht, beginnen daadwerkelijk efficiënt genoeg
+te worden om daadwerkelijk zonder twijfel te worden gemaakt en
+
+879
+00:16:03,110 --> 00:16:03,120
+te worden om daadwerkelijk zonder twijfel te worden gemaakt en
+ 
+
+880
+00:16:03,120 --> 00:16:04,629
+te worden om daadwerkelijk zonder twijfel te worden gemaakt en
+vooral met cloud computing
+
+881
+00:16:04,629 --> 00:16:04,639
+vooral met cloud computing
+ 
+
+882
+00:16:04,639 --> 00:16:06,790
+vooral met cloud computing
+die de kracht van de cloud benut
+
+883
+00:16:06,790 --> 00:16:06,800
+die de kracht van de cloud benut
+ 
+
+884
+00:16:06,800 --> 00:16:08,790
+die de kracht van de cloud benut
+om nulkennisbewijzen mogelijk te maken en om
+
+885
+00:16:08,790 --> 00:16:08,800
+om nulkennisbewijzen mogelijk te maken en om
+ 
+
+886
+00:16:08,800 --> 00:16:10,550
+om nulkennisbewijzen mogelijk te maken en om
+gebruik maken van dagboekelektriciteit zou
+
+887
+00:16:10,550 --> 00:16:10,560
+gebruik maken van dagboekelektriciteit zou
+ 
+
+888
+00:16:10,560 --> 00:16:12,550
+gebruik maken van dagboekelektriciteit zou
+geweldig zijn, en
+
+889
+00:16:12,550 --> 00:16:12,560
+geweldig zijn, en
+ 
+
+890
+00:16:12,560 --> 00:16:14,470
+geweldig zijn, en
+ook in de blockchain-ruimte, bijvoorbeeld
+
+891
+00:16:14,470 --> 00:16:14,480
+ook in de blockchain-ruimte, bijvoorbeeld
+ 
+
+892
+00:16:14,480 --> 00:16:16,310
+ook in de blockchain-ruimte, bijvoorbeeld
+als u het genereren
+
+893
+00:16:16,310 --> 00:16:16,320
+als u het genereren
+ 
+
+894
+00:16:16,320 --> 00:16:17,749
+als u het genereren
+van bewijzen wilt versnellen als dat op een gedistribueerde manier kan worden gedaan,
+
+895
+00:16:17,749 --> 00:16:17,759
+van bewijzen wilt versnellen als dat op een gedistribueerde manier kan worden gedaan,
+ 
+
+896
+00:16:17,759 --> 00:16:19,990
+van bewijzen wilt versnellen als dat op een gedistribueerde manier kan worden gedaan,
+dan w  zou geweldig zijn,
+
+897
+00:16:19,990 --> 00:16:20,000
+dan w  zou geweldig zijn,
+ 
+
+898
+00:16:20,000 --> 00:16:21,749
+dan w  zou geweldig zijn,
+een van de hoop die ik heb,
+
+899
+00:16:21,749 --> 00:16:21,759
+een van de hoop die ik heb,
+ 
+
+900
+00:16:21,759 --> 00:16:24,230
+een van de hoop die ik heb,
+is dat de kracht van multi-party
+
+901
+00:16:24,230 --> 00:16:24,240
+is dat de kracht van multi-party
+ 
+
+902
+00:16:24,240 --> 00:16:26,710
+is dat de kracht van multi-party
+computation gaat over het samenbrengen van mensen
+
+903
+00:16:26,710 --> 00:16:26,720
+computation gaat over het samenbrengen van mensen
+ 
+
+904
+00:16:26,720 --> 00:16:29,509
+computation gaat over het samenbrengen van mensen
+die wederzijds wantrouwend zijn,
+
+905
+00:16:29,509 --> 00:16:29,519
+die wederzijds wantrouwend zijn,
+ 
+
+906
+00:16:29,519 --> 00:16:31,829
+die wederzijds wantrouwend zijn,
+ja, dus kunnen
+
+907
+00:16:31,829 --> 00:16:31,839
+ja, dus kunnen
+ 
+
+908
+00:16:31,839 --> 00:16:33,829
+ja, dus kunnen
+we die kracht die in de
+
+909
+00:16:33,829 --> 00:16:33,839
+we die kracht die in de
+ 
+
+910
+00:16:33,839 --> 00:16:36,150
+we die kracht die in de
+cryptografie aanwezig is, gebruiken om op de een of andere manier te helpen
+
+911
+00:16:36,150 --> 00:16:36,160
+cryptografie aanwezig is, gebruiken om op de een of andere manier te helpen
+ 
+
+912
+00:16:36,160 --> 00:16:38,310
+cryptografie aanwezig is, gebruiken om op de een of andere manier te helpen
+met de enorme  mate van wantrouwen
+
+913
+00:16:38,310 --> 00:16:38,320
+met de enorme  mate van wantrouwen
+ 
+
+914
+00:16:38,320 --> 00:16:40,550
+met de enorme  mate van wantrouwen
+dat er momenteel in de samenleving bestaat
+
+915
+00:16:40,550 --> 00:16:40,560
+dat er momenteel in de samenleving bestaat
+ 
+
+916
+00:16:40,560 --> 00:16:42,230
+dat er momenteel in de samenleving bestaat
+om groepen mensen bij
+
+917
+00:16:42,230 --> 00:16:42,240
+om groepen mensen bij
+ 
+
+918
+00:16:42,240 --> 00:16:44,069
+om groepen mensen bij
+elkaar te brengen Ik denk dat dat een van de
+
+919
+00:16:44,069 --> 00:16:44,079
+elkaar te brengen Ik denk dat dat een van de
+ 
+
+920
+00:16:44,079 --> 00:16:45,509
+elkaar te brengen Ik denk dat dat een van de
+redenen is waarom ik zo aangetrokken werd tot
+
+921
+00:16:45,509 --> 00:16:45,519
+redenen is waarom ik zo aangetrokken werd tot
+ 
+
+922
+00:16:45,519 --> 00:16:46,949
+redenen is waarom ik zo aangetrokken werd tot
+multi-party computation in de eerste
+
+923
+00:16:46,949 --> 00:16:46,959
+multi-party computation in de eerste
+ 
+
+924
+00:16:46,959 --> 00:16:49,509
+multi-party computation in de eerste
+plaats in mijn gedachten een van de
+
+925
+00:16:49,509 --> 00:16:49,519
+plaats in mijn gedachten een van de
+ 
+
+926
+00:16:49,519 --> 00:16:51,910
+plaats in mijn gedachten een van de
+belangrijkste problemen in de wereld  is het
+
+927
+00:16:51,910 --> 00:16:51,920
+belangrijkste problemen in de wereld  is het
+ 
+
+928
+00:16:51,920 --> 00:16:53,509
+belangrijkste problemen in de wereld  is het
+feit dat zoveel mensen elkaar niet vertrouwen
+
+929
+00:16:53,509 --> 00:16:53,519
+feit dat zoveel mensen elkaar niet vertrouwen
+ 
+
+930
+00:16:53,519 --> 00:16:55,910
+feit dat zoveel mensen elkaar niet vertrouwen
+en dat we wiskunde echt kunnen
+
+931
+00:16:55,910 --> 00:16:55,920
+en dat we wiskunde echt kunnen
+ 
+
+932
+00:16:55,920 --> 00:16:58,230
+en dat we wiskunde echt kunnen
+gebruiken om technologie te creëren
+
+933
+00:16:58,230 --> 00:16:58,240
+gebruiken om technologie te creëren
+ 
+
+934
+00:16:58,240 --> 00:16:59,990
+gebruiken om technologie te creëren
+waarmee mensen kunnen samenwerken zonder
+
+935
+00:16:59,990 --> 00:17:00,000
+waarmee mensen kunnen samenwerken zonder
+ 
+
+936
+00:17:00,000 --> 00:17:02,629
+waarmee mensen kunnen samenwerken zonder
+elkaar te vertrouwen is een heel
+
+937
+00:17:02,629 --> 00:17:02,639
+elkaar te vertrouwen is een heel
+ 
+
+938
+00:17:02,639 --> 00:17:10,549
+elkaar te vertrouwen is een heel
+coole en geweldige missie, ik vind
+
+939
+00:17:10,549 --> 00:17:10,559
+
+ 
+
+940
+00:17:10,559 --> 00:17:12,630
+
+het zo geweldig om  zie je weer ik denk dat de
+
+941
+00:17:12,630 --> 00:17:12,640
+het zo geweldig om  zie je weer ik denk dat de
+ 
+
+942
+00:17:12,640 --> 00:17:15,829
+het zo geweldig om  zie je weer ik denk dat de
+laatste keer dat we elkaar ontmoetten was in 2017 of
+
+943
+00:17:15,829 --> 00:17:15,839
+laatste keer dat we elkaar ontmoetten was in 2017 of
+ 
+
+944
+00:17:15,839 --> 00:17:18,150
+laatste keer dat we elkaar ontmoetten was in 2017 of
+iets dergelijks ik denk dat we een
+
+945
+00:17:18,150 --> 00:17:18,160
+iets dergelijks ik denk dat we een
+ 
+
+946
+00:17:18,160 --> 00:17:21,029
+iets dergelijks ik denk dat we een
+keer hebben ingezoomd tijdens de pandemie maar
+
+947
+00:17:21,029 --> 00:17:21,039
+keer hebben ingezoomd tijdens de pandemie maar
+ 
+
+948
+00:17:21,039 --> 00:17:22,870
+keer hebben ingezoomd tijdens de pandemie maar
+het is goed om je persoonlijk te zien,
+
+949
+00:17:22,870 --> 00:17:22,880
+het is goed om je persoonlijk te zien,
+ 
+
+950
+00:17:22,880 --> 00:17:24,470
+het is goed om je persoonlijk te zien,
+absoluut en
+
+951
+00:17:24,470 --> 00:17:24,480
+absoluut en
+ 
+
+952
+00:17:24,480 --> 00:17:27,110
+absoluut en
+eigenlijk in 86 ik nam  een
+
+953
+00:17:27,110 --> 00:17:27,120
+eigenlijk in 86 ik nam  een
+ 
+
+954
+00:17:27,120 --> 00:17:30,230
+eigenlijk in 86 ik nam  een
+cryptoklas met professor edelman de a van
+
+955
+00:17:30,230 --> 00:17:30,240
+cryptoklas met professor edelman de a van
+ 
+
+956
+00:17:30,240 --> 00:17:33,990
+cryptoklas met professor edelman de a van
+rsa en hij wees me het papier toe van uh
+
+957
+00:17:33,990 --> 00:17:34,000
+rsa en hij wees me het papier toe van uh
+ 
+
+958
+00:17:34,000 --> 00:17:36,870
+rsa en hij wees me het papier toe van uh
+god van wasabi charlie redkov nul
+
+959
+00:17:36,870 --> 00:17:36,880
+god van wasabi charlie redkov nul
+ 
+
+960
+00:17:36,880 --> 00:17:39,990
+god van wasabi charlie redkov nul
+kennis bewijs dus dat is inderdaad mijn
+
+961
+00:17:39,990 --> 00:17:40,000
+kennis bewijs dus dat is inderdaad mijn
+ 
+
+962
+00:17:40,000 --> 00:17:42,230
+kennis bewijs dus dat is inderdaad mijn
+allereerste presentatie ooit in dit
+
+963
+00:17:42,230 --> 00:17:42,240
+allereerste presentatie ooit in dit
+ 
+
+964
+00:17:42,240 --> 00:17:43,909
+allereerste presentatie ooit in dit
+land het ging over nul kennis
+
+965
+00:17:43,909 --> 00:17:43,919
+land het ging over nul kennis
+ 
+
+966
+00:17:43,919 --> 00:17:45,510
+land het ging over nul kennis
+dat is wat er aan de hand is op nul kennis ja
+
+967
+00:17:45,510 --> 00:17:45,520
+dat is wat er aan de hand is op nul kennis ja
+ 
+
+968
+00:17:45,520 --> 00:17:49,110
+dat is wat er aan de hand is op nul kennis ja
+zo  een bijna hypnotiserend concept het is ook
+
+969
+00:17:49,110 --> 00:17:49,120
+zo  een bijna hypnotiserend concept het is ook
+ 
+
+970
+00:17:49,120 --> 00:17:51,029
+zo  een bijna hypnotiserend concept het is ook
+een interessante
+
+971
+00:17:51,029 --> 00:17:51,039
+een interessante
+ 
+
+972
+00:17:51,039 --> 00:17:54,390
+een interessante
+manier om die concepten wiskundig goed te formuleren,
+
+973
+00:17:54,390 --> 00:17:56,870
+manier om die concepten wiskundig goed te formuleren,
+ 
+
+974
+00:17:56,870 --> 00:17:56,880
+
+ 
+
+975
+00:17:56,880 --> 00:17:59,190
+
+we hebben bijvoorbeeld gegevens, en uiteindelijk zeiden we
+
+976
+00:17:59,190 --> 00:17:59,200
+we hebben bijvoorbeeld gegevens, en uiteindelijk zeiden we
+ 
+
+977
+00:17:59,200 --> 00:18:01,190
+we hebben bijvoorbeeld gegevens, en uiteindelijk zeiden we
+dat je van gegevens zoals datamining
+
+978
+00:18:01,190 --> 00:18:01,200
+dat je van gegevens zoals datamining
+ 
+
+979
+00:18:01,200 --> 00:18:03,029
+dat je van gegevens zoals datamining
+de informatie kunt krijgen en dan heb je
+
+980
+00:18:03,029 --> 00:18:03,039
+de informatie kunt krijgen en dan heb je
+ 
+
+981
+00:18:03,039 --> 00:18:05,590
+de informatie kunt krijgen en dan heb je
+dit woord kennis, goed,
+
+982
+00:18:05,590 --> 00:18:05,600
+dit woord kennis, goed,
+ 
+
+983
+00:18:05,600 --> 00:18:08,150
+dit woord kennis, goed,
+dus kennis heeft  er is al lang over gedebatteerd,
+
+984
+00:18:08,150 --> 00:18:08,160
+dus kennis heeft  er is al lang over gedebatteerd,
+ 
+
+985
+00:18:08,160 --> 00:18:10,549
+dus kennis heeft  er is al lang over gedebatteerd,
+zelfs in de filosofie, wat kennis is, maar
+
+986
+00:18:10,549 --> 00:18:10,559
+zelfs in de filosofie, wat kennis is, maar
+ 
+
+987
+00:18:10,559 --> 00:18:12,870
+zelfs in de filosofie, wat kennis is, maar
+hier is op een zeer fascinerende manier
+
+988
+00:18:12,870 --> 00:18:12,880
+hier is op een zeer fascinerende manier
+ 
+
+989
+00:18:12,880 --> 00:18:15,270
+hier is op een zeer fascinerende manier
+wiskundigen of
+
+990
+00:18:15,270 --> 00:18:15,280
+wiskundigen of
+ 
+
+991
+00:18:15,280 --> 00:18:17,510
+wiskundigen of
+computerwetenschappers op de een of andere manier kennis willen vastleggen,
+
+992
+00:18:17,510 --> 00:18:17,520
+computerwetenschappers op de een of andere manier kennis willen vastleggen,
+ 
+
+993
+00:18:17,520 --> 00:18:20,150
+computerwetenschappers op de een of andere manier kennis willen vastleggen,
+ze zeiden niet nul informatiebewijs
+
+994
+00:18:20,150 --> 00:18:20,160
+ze zeiden niet nul informatiebewijs
+ 
+
+995
+00:18:20,160 --> 00:18:22,870
+ze zeiden niet nul informatiebewijs
+goed, dus wat is uw mening over waarom
+
+996
+00:18:22,870 --> 00:18:22,880
+goed, dus wat is uw mening over waarom
+ 
+
+997
+00:18:22,880 --> 00:18:25,270
+goed, dus wat is uw mening over waarom
+kennis is in plaats van informatie of
+
+998
+00:18:25,270 --> 00:18:25,280
+kennis is in plaats van informatie of
+ 
+
+999
+00:18:25,280 --> 00:18:27,510
+kennis is in plaats van informatie of
+nul  gegevensbewijs duidelijk deze gegevens daar,
+
+1000
+00:18:27,510 --> 00:18:27,520
+nul  gegevensbewijs duidelijk deze gegevens daar,
+ 
+
+1001
+00:18:27,520 --> 00:18:30,150
+nul  gegevensbewijs duidelijk deze gegevens daar,
+dus kunnen geen nulgegevens zijn, absoluut, ik denk niet
+
+1002
+00:18:30,150 --> 00:18:30,160
+dus kunnen geen nulgegevens zijn, absoluut, ik denk niet
+ 
+
+1003
+00:18:30,160 --> 00:18:31,590
+dus kunnen geen nulgegevens zijn, absoluut, ik denk niet
+dat we nog steeds volledig
+
+1004
+00:18:31,590 --> 00:18:31,600
+dat we nog steeds volledig
+ 
+
+1005
+00:18:31,600 --> 00:18:33,669
+dat we nog steeds volledig
+tevreden zijn  fabrieksantwoord op die vraag
+
+1006
+00:18:33,669 --> 00:18:33,679
+tevreden zijn  fabrieksantwoord op die vraag
+ 
+
+1007
+00:18:33,679 --> 00:18:36,789
+tevreden zijn  fabrieksantwoord op die vraag
+wat zo'n mooi inzicht was, zoals
+
+1008
+00:18:36,789 --> 00:18:36,799
+wat zo'n mooi inzicht was, zoals
+ 
+
+1009
+00:18:36,799 --> 00:18:38,470
+wat zo'n mooi inzicht was, zoals
+ik zeker weet dat je weet,
+
+1010
+00:18:38,470 --> 00:18:38,480
+ik zeker weet dat je weet,
+ 
+
+1011
+00:18:38,480 --> 00:18:39,990
+ik zeker weet dat je weet,
+is dat het idee van
+
+1012
+00:18:39,990 --> 00:18:40,000
+is dat het idee van
+ 
+
+1013
+00:18:40,000 --> 00:18:41,590
+is dat het idee van
+nul
+
+1014
+00:18:41,590 --> 00:18:41,600
+nul
+ 
+
+1015
+00:18:41,600 --> 00:18:43,990
+nul
+kennis iets is dat
+
+1016
+00:18:43,990 --> 00:18:44,000
+kennis iets is dat
+ 
+
+1017
+00:18:44,000 --> 00:18:46,870
+kennis iets is dat
+je al goed kunt voorspellen als je het antwoord al kunt voorspellen,
+
+1018
+00:18:46,870 --> 00:18:48,150
+je al goed kunt voorspellen als je het antwoord al kunt voorspellen,
+ 
+
+1019
+00:18:48,150 --> 00:18:48,160
+
+ 
+
+1020
+00:18:48,160 --> 00:18:50,230
+
+dan moet je geen
+
+1021
+00:18:50,230 --> 00:18:50,240
+dan moet je geen
+ 
+
+1022
+00:18:50,240 --> 00:18:52,870
+dan moet je geen
+kennis opdoen door  die interactie dit
+
+1023
+00:18:52,870 --> 00:18:52,880
+kennis opdoen door  die interactie dit
+ 
+
+1024
+00:18:52,880 --> 00:18:54,390
+kennis opdoen door  die interactie dit
+inzicht
+
+1025
+00:18:54,390 --> 00:18:54,400
+inzicht
+ 
+
+1026
+00:18:54,400 --> 00:18:55,909
+inzicht
+om de toekomst nauwkeurig te kunnen voorspellen
+
+1027
+00:18:55,909 --> 00:18:55,919
+om de toekomst nauwkeurig te kunnen voorspellen
+ 
+
+1028
+00:18:55,919 --> 00:18:59,190
+om de toekomst nauwkeurig te kunnen voorspellen
+en dat een bewijs zijn van
+
+1029
+00:18:59,190 --> 00:18:59,200
+en dat een bewijs zijn van
+ 
+
+1030
+00:18:59,200 --> 00:19:01,510
+en dat een bewijs zijn van
+een gebrek aan nieuwe kennis was zo'n
+
+1031
+00:19:01,510 --> 00:19:01,520
+een gebrek aan nieuwe kennis was zo'n
+ 
+
+1032
+00:19:01,520 --> 00:19:03,029
+een gebrek aan nieuwe kennis was zo'n
+mooi inzicht zo'n verbazingwekkend
+
+1033
+00:19:03,029 --> 00:19:03,039
+mooi inzicht zo'n verbazingwekkend
+ 
+
+1034
+00:19:03,039 --> 00:19:05,270
+mooi inzicht zo'n verbazingwekkend
+inzicht waarom hier niet fundamenteel nul informatie,
+
+1035
+00:19:05,270 --> 00:19:05,280
+inzicht waarom hier niet fundamenteel nul informatie,
+ 
+
+1036
+00:19:05,280 --> 00:19:07,750
+inzicht waarom hier niet fundamenteel nul informatie,
+ik uh duidelijk
+
+1037
+00:19:07,750 --> 00:19:07,760
+ik uh duidelijk
+ 
+
+1038
+00:19:07,760 --> 00:19:09,350
+ik uh duidelijk
+vanuit computerperspectief beveiligingsperspectief
+
+1039
+00:19:09,350 --> 00:19:09,360
+vanuit computerperspectief beveiligingsperspectief
+ 
+
+1040
+00:19:09,360 --> 00:19:11,669
+vanuit computerperspectief beveiligingsperspectief
+het is hoeveel  kennis die
+
+1041
+00:19:11,669 --> 00:19:11,679
+het is hoeveel  kennis die
+ 
+
+1042
+00:19:11,679 --> 00:19:13,510
+het is hoeveel  kennis die
+je opdoet, denk ik meer dan hoeveel
+
+1043
+00:19:13,510 --> 00:19:13,520
+je opdoet, denk ik meer dan hoeveel
+ 
+
+1044
+00:19:13,520 --> 00:19:15,510
+je opdoet, denk ik meer dan hoeveel
+informatie je krijgt en hoeveel gegevens
+
+1045
+00:19:15,510 --> 00:19:15,520
+informatie je krijgt en hoeveel gegevens
+ 
+
+1046
+00:19:15,520 --> 00:19:17,990
+informatie je krijgt en hoeveel gegevens
+je hebt, zodat big data niet
+
+1047
+00:19:17,990 --> 00:19:18,000
+je hebt, zodat big data niet
+ 
+
+1048
+00:19:18,000 --> 00:19:19,430
+je hebt, zodat big data niet
+meteen
+
+1049
+00:19:19,430 --> 00:19:19,440
+meteen
+ 
+
+1050
+00:19:19,440 --> 00:19:21,990
+meteen
+kennis impliceren, maar mensen kunnen soms
+
+1051
+00:19:21,990 --> 00:19:22,000
+kennis impliceren, maar mensen kunnen soms
+ 
+
+1052
+00:19:22,000 --> 00:19:23,430
+kennis impliceren, maar mensen kunnen soms
+gelijk hebben soms bedoel ik bijvoorbeeld in
+
+1053
+00:19:23,430 --> 00:19:23,440
+gelijk hebben soms bedoel ik bijvoorbeeld in
+ 
+
+1054
+00:19:23,440 --> 00:19:26,390
+gelijk hebben soms bedoel ik bijvoorbeeld in
+medisch onderzoek hoe geweldig zou het
+
+1055
+00:19:26,390 --> 00:19:26,400
+medisch onderzoek hoe geweldig zou het
+ 
+
+1056
+00:19:26,400 --> 00:19:27,909
+medisch onderzoek hoe geweldig zou het
+zijn om
+
+1057
+00:19:27,909 --> 00:19:27,919
+zijn om
+ 
+
+1058
+00:19:27,919 --> 00:19:31,029
+zijn om
+een medicijn kunnen hebben en kunnen bewijzen dat mijn
+
+1059
+00:19:31,029 --> 00:19:31,039
+een medicijn kunnen hebben en kunnen bewijzen dat mijn
+ 
+
+1060
+00:19:31,039 --> 00:19:33,830
+een medicijn kunnen hebben en kunnen bewijzen dat mijn
+medicijn in dit model werkt en toch
+
+1061
+00:19:33,830 --> 00:19:33,840
+medicijn in dit model werkt en toch
+ 
+
+1062
+00:19:33,840 --> 00:19:35,990
+medicijn in dit model werkt en toch
+de structuur van de com niet echt hoeven te onthullen
+
+1063
+00:19:35,990 --> 00:19:36,000
+de structuur van de com niet echt hoeven te onthullen
+ 
+
+1064
+00:19:36,000 --> 00:19:39,430
+de structuur van de com niet echt hoeven te onthullen
+pond wat uh momenteel
+
+1065
+00:19:39,430 --> 00:19:39,440
+pond wat uh momenteel
+ 
+
+1066
+00:19:39,440 --> 00:19:41,990
+pond wat uh momenteel
+denk je dat het de volgende richtingen zou zijn
+
+1067
+00:19:41,990 --> 00:19:42,000
+denk je dat het de volgende richtingen zou zijn
+ 
+
+1068
+00:19:42,000 --> 00:19:44,230
+denk je dat het de volgende richtingen zou zijn
+in
+
+1069
+00:19:44,230 --> 00:19:44,240
+in
+ 
+
+1070
+00:19:44,240 --> 00:19:46,070
+in
+een van deze volgende grote dingen
+
+1071
+00:19:46,070 --> 00:19:46,080
+een van deze volgende grote dingen
+ 
+
+1072
+00:19:46,080 --> 00:19:47,590
+een van deze volgende grote dingen
+ja dit concept van nul kennis
+
+1073
+00:19:47,590 --> 00:19:47,600
+ja dit concept van nul kennis
+ 
+
+1074
+00:19:47,600 --> 00:19:48,789
+ja dit concept van nul kennis
+programma's
+
+1075
+00:19:48,789 --> 00:19:48,799
+programma's
+ 
+
+1076
+00:19:48,799 --> 00:19:50,950
+programma's
+zou je in staat stellen om volledig willekeurige berekeningen uit te voeren
+
+1077
+00:19:50,950 --> 00:19:50,960
+zou je in staat stellen om volledig willekeurige berekeningen uit te voeren
+ 
+
+1078
+00:19:50,960 --> 00:19:53,029
+zou je in staat stellen om volledig willekeurige berekeningen uit te voeren
+op een nul
+
+1079
+00:19:53,029 --> 00:19:53,039
+op een nul
+ 
+
+1080
+00:19:53,039 --> 00:19:55,350
+op een nul
+kennis manier zonder enige interactie
+
+1081
+00:19:55,350 --> 00:19:55,360
+kennis manier zonder enige interactie
+ 
+
+1082
+00:19:55,360 --> 00:19:57,590
+kennis manier zonder enige interactie
+goed ik kan gewoon het programma nemen
+
+1083
+00:19:57,590 --> 00:19:57,600
+goed ik kan gewoon het programma nemen
+ 
+
+1084
+00:19:57,600 --> 00:19:59,110
+goed ik kan gewoon het programma nemen
+converteer het naar een nulkennisprogramma
+
+1085
+00:19:59,110 --> 00:19:59,120
+converteer het naar een nulkennisprogramma
+ 
+
+1086
+00:19:59,120 --> 00:20:00,870
+converteer het naar een nulkennisprogramma
+of een verduisterd programma en
+
+1087
+00:20:00,870 --> 00:20:00,880
+of een verduisterd programma en
+ 
+
+1088
+00:20:00,880 --> 00:20:02,549
+of een verduisterd programma en
+stuur het dan gewoon naar rechts en dan kun je het
+
+1089
+00:20:02,549 --> 00:20:02,559
+stuur het dan gewoon naar rechts en dan kun je het
+ 
+
+1090
+00:20:02,559 --> 00:20:05,430
+stuur het dan gewoon naar rechts en dan kun je het
+uitvoeren en profiteren van die
+
+1091
+00:20:05,430 --> 00:20:05,440
+uitvoeren en profiteren van die
+ 
+
+1092
+00:20:05,440 --> 00:20:07,190
+uitvoeren en profiteren van die
+berekening zonder meer met mij te hoeven praten
+
+1093
+00:20:07,190 --> 00:20:07,200
+berekening zonder meer met mij te hoeven praten
+ 
+
+1094
+00:20:07,200 --> 00:20:08,549
+berekening zonder meer met mij te hoeven praten
+dat klopt, er is
+
+1095
+00:20:08,549 --> 00:20:08,559
+dat klopt, er is
+ 
+
+1096
+00:20:08,559 --> 00:20:10,390
+dat klopt, er is
+niet-interactief van aard het
+
+1097
+00:20:10,390 --> 00:20:10,400
+niet-interactief van aard het
+ 
+
+1098
+00:20:10,400 --> 00:20:12,070
+niet-interactief van aard het
+niet-interactieve  natuur, maar soms met
+
+1099
+00:20:12,070 --> 00:20:12,080
+niet-interactieve  natuur, maar soms met
+ 
+
+1100
+00:20:12,080 --> 00:20:13,110
+niet-interactieve  natuur, maar soms met
+verificatie-
+
+1101
+00:20:13,110 --> 00:20:13,120
+verificatie-
+ 
+
+1102
+00:20:13,120 --> 00:20:15,350
+verificatie-
+verificatie erin,
+
+1103
+00:20:15,350 --> 00:20:15,360
+verificatie erin,
+ 
+
+1104
+00:20:15,360 --> 00:20:17,950
+verificatie erin,
+soms wanneer je bijvoorbeeld een
+
+1105
+00:20:17,950 --> 00:20:17,960
+soms wanneer je bijvoorbeeld een
+ 
+
+1106
+00:20:17,960 --> 00:20:20,470
+soms wanneer je bijvoorbeeld een
+uitwisseling met meerdere protocollen hebt, dat is het dan
+
+1107
+00:20:20,470 --> 00:20:20,480
+uitwisseling met meerdere protocollen hebt, dat is het dan
+ 
+
+1108
+00:20:20,480 --> 00:20:22,310
+uitwisseling met meerdere protocollen hebt, dat is het dan
+weet je dat, net zoals willekeurige getallen opdoken,
+
+1109
+00:20:22,310 --> 00:20:22,320
+weet je dat, net zoals willekeurige getallen opdoken,
+ 
+
+1110
+00:20:22,320 --> 00:20:23,510
+weet je dat, net zoals willekeurige getallen opdoken,
+je
+
+1111
+00:20:23,510 --> 00:20:23,520
+je
+ 
+
+1112
+00:20:23,520 --> 00:20:25,029
+je
+het willekeurige getal moet invoeren als
+
+1113
+00:20:25,029 --> 00:20:25,039
+het willekeurige getal moet invoeren als
+ 
+
+1114
+00:20:25,039 --> 00:20:26,870
+het willekeurige getal moet invoeren als
+deelname-authenticatie nu
+
+1115
+00:20:26,870 --> 00:20:26,880
+deelname-authenticatie nu
+ 
+
+1116
+00:20:26,880 --> 00:20:29,750
+deelname-authenticatie nu
+ja, ik denk duidelijk dat ze in blockchain
+
+1117
+00:20:29,750 --> 00:20:29,760
+ja, ik denk duidelijk dat ze in blockchain
+ 
+
+1118
+00:20:29,760 --> 00:20:32,390
+ja, ik denk duidelijk dat ze in blockchain
+ook begonnen  om meer uh hun
+
+1119
+00:20:32,390 --> 00:20:32,400
+ook begonnen  om meer uh hun
+ 
+
+1120
+00:20:32,400 --> 00:20:33,909
+ook begonnen  om meer uh hun
+kennisbewijs in het grootboek op te nemen, zijn we
+
+1121
+00:20:33,909 --> 00:20:33,919
+kennisbewijs in het grootboek op te nemen, zijn we
+ 
+
+1122
+00:20:33,919 --> 00:20:35,350
+kennisbewijs in het grootboek op te nemen, zijn we
+zeker op dit
+
+1123
+00:20:35,350 --> 00:20:35,360
+zeker op dit
+ 
+
+1124
+00:20:35,360 --> 00:20:37,190
+zeker op dit
+moment waar
+
+1125
+00:20:37,190 --> 00:20:37,200
+moment waar
+ 
+
+1126
+00:20:37,200 --> 00:20:38,549
+moment waar
+nul kennis i  zal steeds meer worden gebruikt,
+
+1127
+00:20:38,549 --> 00:20:38,559
+nul kennis i  zal steeds meer worden gebruikt,
+ 
+
+1128
+00:20:38,559 --> 00:20:40,470
+nul kennis i  zal steeds meer worden gebruikt,
+er zijn zoveel
+
+1129
+00:20:40,470 --> 00:20:40,480
+er zijn zoveel
+ 
+
+1130
+00:20:40,480 --> 00:20:43,270
+er zijn zoveel
+uh conferenties en vergaderingen die
+
+1131
+00:20:43,270 --> 00:20:43,280
+uh conferenties en vergaderingen die
+ 
+
+1132
+00:20:43,280 --> 00:20:44,789
+uh conferenties en vergaderingen die
+plaatsvinden in de nulkennisruimte waar
+
+1133
+00:20:44,789 --> 00:20:44,799
+plaatsvinden in de nulkennisruimte waar
+ 
+
+1134
+00:20:44,799 --> 00:20:46,549
+plaatsvinden in de nulkennisruimte waar
+jij en ik niet zijn uitgenodigd omdat het
+
+1135
+00:20:46,549 --> 00:20:46,559
+jij en ik niet zijn uitgenodigd omdat het
+ 
+
+1136
+00:20:46,559 --> 00:20:47,990
+jij en ik niet zijn uitgenodigd omdat het
+voor de mensen is die het
+
+1137
+00:20:47,990 --> 00:20:48,000
+voor de mensen is die het
+ 
+
+1138
+00:20:48,000 --> 00:20:49,270
+voor de mensen is die het
+ontwikkelen, de mensen die
+
+1139
+00:20:49,270 --> 00:20:49,280
+ontwikkelen, de mensen die
+ 
+
+1140
+00:20:49,280 --> 00:20:51,830
+ontwikkelen, de mensen die
+programmeren, niet als wiskundigen ja
+
+1141
+00:20:51,830 --> 00:20:51,840
+programmeren, niet als wiskundigen ja
+ 
+
+1142
+00:20:51,840 --> 00:20:53,750
+programmeren, niet als wiskundigen ja
+ja en ik denk dat dat een teken is dat is een
+
+1143
+00:20:53,750 --> 00:20:53,760
+ja en ik denk dat dat een teken is dat is een
+ 
+
+1144
+00:20:53,760 --> 00:20:55,029
+ja en ik denk dat dat een teken is dat is een
+teken dat
+
+1145
+00:20:55,029 --> 00:20:55,039
+teken dat
+ 
+
+1146
+00:20:55,039 --> 00:20:56,870
+teken dat
+onze baby is opgegroeid en je weet dat het
+
+1147
+00:20:56,870 --> 00:20:56,880
+onze baby is opgegroeid en je weet dat het
+ 
+
+1148
+00:20:56,880 --> 00:20:58,390
+onze baby is opgegroeid en je weet dat het
+tijd is om het
+
+1149
+00:20:58,390 --> 00:20:58,400
+tijd is om het
+ 
+
+1150
+00:20:58,400 --> 00:21:01,270
+tijd is om het
+te ontwikkelen ik denk diep de
+
+1151
+00:21:01,270 --> 00:21:01,280
+te ontwikkelen ik denk diep de
+ 
+
+1152
+00:21:01,280 --> 00:21:03,990
+te ontwikkelen ik denk diep de
+studenten vragen me ook vaak wat de
+
+1153
+00:21:03,990 --> 00:21:04,000
+studenten vragen me ook vaak wat de
+ 
+
+1154
+00:21:04,000 --> 00:21:07,990
+studenten vragen me ook vaak wat de
+toekomstige richting is, zowel in termen van crypto
+
+1155
+00:21:07,990 --> 00:21:08,000
+toekomstige richting is, zowel in termen van crypto
+ 
+
+1156
+00:21:08,000 --> 00:21:10,789
+toekomstige richting is, zowel in termen van crypto
+zero knowledge proof in de  echte wereld
+
+1157
+00:21:10,789 --> 00:21:10,799
+zero knowledge proof in de  echte wereld
+ 
+
+1158
+00:21:10,799 --> 00:21:13,350
+zero knowledge proof in de  echte wereld
+en hoe wiskundig je ziet in
+
+1159
+00:21:13,350 --> 00:21:13,360
+en hoe wiskundig je ziet in
+ 
+
+1160
+00:21:13,360 --> 00:21:15,430
+en hoe wiskundig je ziet in
+informatica is een geweldige vraag ik weet dat ik
+
+1161
+00:21:15,430 --> 00:21:15,440
+informatica is een geweldige vraag ik weet dat ik
+ 
+
+1162
+00:21:15,440 --> 00:21:17,590
+informatica is een geweldige vraag ik weet dat ik
+wou dat ik de toekomst kon zien ii kan
+
+1163
+00:21:17,590 --> 00:21:17,600
+wou dat ik de toekomst kon zien ii kan
+ 
+
+1164
+00:21:17,600 --> 00:21:19,270
+wou dat ik de toekomst kon zien ii kan
+eigenlijk niet, maar laat me het deel ervan proberen
+
+1165
+00:21:19,270 --> 00:21:19,280
+eigenlijk niet, maar laat me het deel ervan proberen
+ 
+
+1166
+00:21:19,280 --> 00:21:20,870
+eigenlijk niet, maar laat me het deel ervan proberen
+dat ik het meest comfortabel vind om te beantwoorden
+
+1167
+00:21:20,870 --> 00:21:20,880
+dat ik het meest comfortabel vind om te beantwoorden
+ 
+
+1168
+00:21:20,880 --> 00:21:22,630
+dat ik het meest comfortabel vind om te beantwoorden
+is natuurlijk de wiskundige kant i
+
+1169
+00:21:22,630 --> 00:21:22,640
+is natuurlijk de wiskundige kant i
+ 
+
+1170
+00:21:22,640 --> 00:21:25,029
+is natuurlijk de wiskundige kant i
+denk dat je weet dat we
+
+1171
+00:21:25,029 --> 00:21:25,039
+denk dat je weet dat we
+ 
+
+1172
+00:21:25,039 --> 00:21:26,950
+denk dat je weet dat we
+de afgelopen decennia zoveel hebben gedaan op het gebied van cryptografie,
+
+1173
+00:21:26,950 --> 00:21:28,230
+de afgelopen decennia zoveel hebben gedaan op het gebied van cryptografie,
+ 
+
+1174
+00:21:28,230 --> 00:21:28,240
+
+ 
+
+1175
+00:21:28,240 --> 00:21:30,390
+
+maar we begrijpen zo weinig je weet dat we
+
+1176
+00:21:30,390 --> 00:21:30,400
+maar we begrijpen zo weinig je weet dat we
+ 
+
+1177
+00:21:30,400 --> 00:21:32,230
+maar we begrijpen zo weinig je weet dat we
+zelfs vandaag de dag nog zo weinig begrijpen en ik
+
+1178
+00:21:32,230 --> 00:21:32,240
+zelfs vandaag de dag nog zo weinig begrijpen en ik
+ 
+
+1179
+00:21:32,240 --> 00:21:35,110
+zelfs vandaag de dag nog zo weinig begrijpen en ik
+denk dat het meest fundamentele
+
+1180
+00:21:35,110 --> 00:21:35,120
+denk dat het meest fundamentele
+ 
+
+1181
+00:21:35,120 --> 00:21:38,310
+denk dat het meest fundamentele
+aspect daarvan is  hardheid begrijpen
+
+1182
+00:21:38,310 --> 00:21:38,320
+aspect daarvan is  hardheid begrijpen
+ 
+
+1183
+00:21:38,320 --> 00:21:41,190
+aspect daarvan is  hardheid begrijpen
+hoe krijgen we harde problemen hoe bouwen we
+
+1184
+00:21:41,190 --> 00:21:41,200
+hoe krijgen we harde problemen hoe bouwen we
+ 
+
+1185
+00:21:41,200 --> 00:21:43,190
+hoe krijgen we harde problemen hoe bouwen we
+eigenlijk wiskundig moeilijke
+
+1186
+00:21:43,190 --> 00:21:43,200
+eigenlijk wiskundig moeilijke
+ 
+
+1187
+00:21:43,200 --> 00:21:45,350
+eigenlijk wiskundig moeilijke
+problemen zodat we ze vervolgens kunnen gebruiken
+
+1188
+00:21:45,350 --> 00:21:45,360
+problemen zodat we ze vervolgens kunnen gebruiken
+ 
+
+1189
+00:21:45,360 --> 00:21:47,190
+problemen zodat we ze vervolgens kunnen gebruiken
+om efficiënte nul-kennisprogramma's te bouwen
+
+1190
+00:21:47,190 --> 00:21:47,200
+om efficiënte nul-kennisprogramma's te bouwen
+ 
+
+1191
+00:21:47,200 --> 00:21:48,789
+om efficiënte nul-kennisprogramma's te bouwen
+en efficiënt of
+
+1192
+00:21:48,789 --> 00:21:48,799
+en efficiënt of
+ 
+
+1193
+00:21:48,799 --> 00:21:50,870
+en efficiënt of
+kennisbewijzen juist ik denk dat je ook met
+
+1194
+00:21:50,870 --> 00:21:50,880
+kennisbewijzen juist ik denk dat je ook met
+ 
+
+1195
+00:21:50,880 --> 00:21:53,029
+kennisbewijzen juist ik denk dat je ook met
+kwantumcomputing nog moeilijkere problemen nodig hebt,
+
+1196
+00:21:53,029 --> 00:21:53,039
+kwantumcomputing nog moeilijkere problemen nodig hebt,
+ 
+
+1197
+00:21:53,039 --> 00:21:54,630
+kwantumcomputing nog moeilijkere problemen nodig hebt,
+absoluut jij  weet nu dat we het
+
+1198
+00:21:54,630 --> 00:21:54,640
+absoluut jij  weet nu dat we het
+ 
+
+1199
+00:21:54,640 --> 00:21:56,950
+absoluut jij  weet nu dat we het
+hebben, we hebben het spook van
+
+1200
+00:21:56,950 --> 00:21:56,960
+hebben, we hebben het spook van
+ 
+
+1201
+00:21:56,960 --> 00:21:59,190
+hebben, we hebben het spook van
+kwantumcomputing op ons afgekomen en we weten allemaal
+
+1202
+00:21:59,190 --> 00:21:59,200
+kwantumcomputing op ons afgekomen en we weten allemaal
+ 
+
+1203
+00:21:59,200 --> 00:22:01,350
+kwantumcomputing op ons afgekomen en we weten allemaal
+dat kwantumcomputers
+
+1204
+00:22:01,350 --> 00:22:01,360
+dat kwantumcomputers
+ 
+
+1205
+00:22:01,360 --> 00:22:03,270
+dat kwantumcomputers
+veel cryptografische gegevens kunnen breken dat is een grote
+
+1206
+00:22:03,270 --> 00:22:03,280
+veel cryptografische gegevens kunnen breken dat is een grote
+ 
+
+1207
+00:22:03,280 --> 00:22:04,789
+veel cryptografische gegevens kunnen breken dat is een grote
+uitdaging het is een grote uitdaging, dus
+
+1208
+00:22:04,789 --> 00:22:04,799
+uitdaging het is een grote uitdaging, dus
+ 
+
+1209
+00:22:04,799 --> 00:22:06,230
+uitdaging het is een grote uitdaging, dus
+kunnen we
+
+1210
+00:22:06,230 --> 00:22:06,240
+kunnen we
+ 
+
+1211
+00:22:06,240 --> 00:22:08,310
+kunnen we
+nieuwe bronnen van hardheid vinden die
+
+1212
+00:22:08,310 --> 00:22:08,320
+nieuwe bronnen van hardheid vinden die
+ 
+
+1213
+00:22:08,320 --> 00:22:10,390
+nieuwe bronnen van hardheid vinden die
+kwantumresistent zijn, zelfs kwantumcomputers  kan niet
+
+1214
+00:22:10,390 --> 00:22:10,400
+kwantumresistent zijn, zelfs kwantumcomputers  kan niet
+ 
+
+1215
+00:22:10,400 --> 00:22:11,909
+kwantumresistent zijn, zelfs kwantumcomputers  kan niet
+breken en dat is iets waar ik
+
+1216
+00:22:11,909 --> 00:22:11,919
+breken en dat is iets waar ik
+ 
+
+1217
+00:22:11,919 --> 00:22:13,430
+breken en dat is iets waar ik
+de afgelopen jaren aan heb gewerkt,
+
+1218
+00:22:13,430 --> 00:22:13,440
+de afgelopen jaren aan heb gewerkt,
+ 
+
+1219
+00:22:13,440 --> 00:22:14,870
+de afgelopen jaren aan heb gewerkt,
+maar ik zou erg opgewonden zijn om te zien wat
+
+1220
+00:22:14,870 --> 00:22:14,880
+maar ik zou erg opgewonden zijn om te zien wat
+ 
+
+1221
+00:22:14,880 --> 00:22:16,310
+maar ik zou erg opgewonden zijn om te zien wat
+er in die ruimte gebeurt, maar ik weet
+
+1222
+00:22:16,310 --> 00:22:16,320
+er in die ruimte gebeurt, maar ik weet
+ 
+
+1223
+00:22:16,320 --> 00:22:18,470
+er in die ruimte gebeurt, maar ik weet
+zeker dat ze
+
+1224
+00:22:18,470 --> 00:22:18,480
+zeker dat ze
+ 
+
+1225
+00:22:18,480 --> 00:22:20,549
+zeker dat ze
+mooie wiskunde zullen motiveren ja dat klopt,
+
+1226
+00:22:20,549 --> 00:22:20,559
+mooie wiskunde zullen motiveren ja dat klopt,
+ 
+
+1227
+00:22:20,559 --> 00:22:22,470
+mooie wiskunde zullen motiveren ja dat klopt,
+je kent er een  van de geweldige dingen van
+
+1228
+00:22:22,470 --> 00:22:22,480
+je kent er een  van de geweldige dingen van
+ 
+
+1229
+00:22:22,480 --> 00:22:23,830
+je kent er een  van de geweldige dingen van
+de echte wereld
+
+1230
+00:22:23,830 --> 00:22:23,840
+de echte wereld
+ 
+
+1231
+00:22:23,840 --> 00:22:25,190
+de echte wereld
+is dat mensen in de echte wereld
+
+1232
+00:22:25,190 --> 00:22:25,200
+is dat mensen in de echte wereld
+ 
+
+1233
+00:22:25,200 --> 00:22:27,510
+is dat mensen in de echte wereld
+eisen hebben en die eisen klinken vaak
+
+1234
+00:22:27,510 --> 00:22:27,520
+eisen hebben en die eisen klinken vaak
+ 
+
+1235
+00:22:27,520 --> 00:22:29,510
+eisen hebben en die eisen klinken vaak
+onmogelijk en dat is waar we  kom binnen,
+
+1236
+00:22:29,510 --> 00:22:29,520
+onmogelijk en dat is waar we  kom binnen,
+ 
+
+1237
+00:22:29,520 --> 00:22:31,110
+onmogelijk en dat is waar we  kom binnen,
+het is onze taak om het onmogelijke
+
+1238
+00:22:31,110 --> 00:22:31,120
+het is onze taak om het onmogelijke
+ 
+
+1239
+00:22:31,120 --> 00:22:34,120
+het is onze taak om het onmogelijke
+mogelijk te maken
+
