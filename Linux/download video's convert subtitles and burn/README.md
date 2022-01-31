@@ -15,7 +15,7 @@ Preliminary version. Updates info and descriptions will follow. Like how to inst
 
 Meant for (bulk) downloading video's with (auto generated / translated) subtitles.
 
-Use speech recognition is case there are no subtitles.
+Use speech recognition in case there are no subtitles.
 
 Burn the subtitles into the video.
 
