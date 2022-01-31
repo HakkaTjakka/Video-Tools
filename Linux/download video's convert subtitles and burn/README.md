@@ -8,7 +8,7 @@ Burn subtitles with ffmpeg. (sudo apt install ffmpeg)
 
 Use speech recognition to generate subtitles from (audio) video's. (pip3 install git+https://github.com/agermanidis/autosub.git) (Needs Python)
 
-Preliminary version. Updates info and descriptions will follow. Like how to install all needed packages needed.
+Preliminary version. Updates info and descriptions will follow. Like how to install all packages needed.
 
 
 
