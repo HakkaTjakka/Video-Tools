@@ -19,4 +19,10 @@ Use speech recognition in case there are no subtitles.
 
 Burn the subtitles into the video.
 
+Get ffmpeg at: https://github.com/BtbN/FFmpeg-Builds/releases
+
+For customs fonts in Ubuntu: Click font, install.
+
+export FONTCONFIG_PATH=/etc/fonts (or add this to /ets/bash.bashrc (all users) or ~/.bashrc (user))
+
 
